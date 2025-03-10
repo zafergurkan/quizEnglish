@@ -1,0 +1,8 @@
+Future Simple Tense konusunu öğrenmek için fill-in-the-blank quiz formatında 50 adet soru hazırla. 
+Cümlelerde olumlu olumsuz ve soru cümleleri yer alsın. kelimeler b1 ve b2 seviye kelimelerden olsun.  
+şıklarda sadece tek doğru cevap yer alsın.  bir soru için cevap şıkkı seçilirken sadece tek seçenek olsun. 
+Doğru cevabın açıklaması hem ingilizce olarak yazsın parantez içinde türkçesi yazsın.
+
+
+
+dosya olarak format.json ekle.
