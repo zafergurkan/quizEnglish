@@ -1,0 +1,3122 @@
+[
+  {
+    "question": [
+      {
+        "text": "She",
+        "tr": "O"
+      },
+      {
+        "text": "lives",
+        "tr": "yaşıyor"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "New York",
+        "tr": "New York'ta"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Şehirler ve ülkeler için yer belirten cümlelerde 'in' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The book",
+        "tr": "Kitap"
+      },
+      {
+        "text": "is",
+        "tr": "durum"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the table",
+        "tr": "masanın üzerinde"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "under"
+    ],
+    "correct": 1,
+    "explanation": "Bir nesnenin yüzey üzerinde olduğunu belirtmek için 'on' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "I",
+        "tr": "Ben"
+      },
+      {
+        "text": "will meet",
+        "tr": "buluşacağım"
+      },
+      {
+        "text": "you",
+        "tr": "seninle"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "3 PM",
+        "tr": "saat 3'te"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "Belirli zaman ifadelerinde 'at' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "They",
+        "tr": "Onlar"
+      },
+      {
+        "text": "arrived",
+        "tr": "geldiler"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the airport",
+        "tr": "havaalanına"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "to"
+    ],
+    "correct": 2,
+    "explanation": "Havalimanı gibi belirli noktalara ulaşımda 'at' tercih edilir."
+  },
+  {
+    "question": [
+      {
+        "text": "The picture",
+        "tr": "Resim"
+      },
+      {
+        "text": "hangs",
+        "tr": "asılı"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the wall",
+        "tr": "duvarda"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "over"
+    ],
+    "correct": 1,
+    "explanation": "Bir nesnenin bir yüzeye asılı olduğunu belirtmek için 'on' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "He",
+        "tr": "O"
+      },
+      {
+        "text": "was born",
+        "tr": "doğdu"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "April",
+        "tr": "Nisan'da"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Ay isimleriyle zamanı belirtirken 'in' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The meeting",
+        "tr": "Toplantı"
+      },
+      {
+        "text": "is scheduled",
+        "tr": "planlandı"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "Monday",
+        "tr": "Pazartesi"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1,
+    "explanation": "Haftanın günleri için 'on' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The cat",
+        "tr": "Kedi"
+      },
+      {
+        "text": "is",
+        "tr": "durum"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the box",
+        "tr": "kutunun içinde"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "under"
+    ],
+    "correct": 0,
+    "explanation": "Bir nesnenin içeride olduğunu belirtmek için 'in' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "We",
+        "tr": "Biz"
+      },
+      {
+        "text": "go swimming",
+        "tr": "yüzmeye gideriz"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the summer",
+        "tr": "yazın"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "during"
+    ],
+    "correct": 0,
+    "explanation": "Mevsimleri ifade ederken 'in' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The concert",
+        "tr": "Konser"
+      },
+      {
+        "text": "will start",
+        "tr": "başlayacak"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "8 PM",
+        "tr": "saat 8'de"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "Belirli saatleri belirtirken 'at' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "They",
+        "tr": "Onlar"
+      },
+      {
+        "text": "met",
+        "tr": "buluştu"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the park",
+        "tr": "parkta"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "Belirli noktalarda buluşurken 'at' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "My birthday",
+        "tr": "Benim doğum günüm"
+      },
+      {
+        "text": "is",
+        "tr": "dır"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "July",
+        "tr": "Temmuzda"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Ay isimleri için zaman belirten ifadelerde 'in' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "My office",
+        "tr": "Ofisim"
+      },
+      {
+        "text": "is located",
+        "tr": "bulunuyor"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the third floor",
+        "tr": "üçüncü katta"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "over"
+    ],
+    "correct": 1,
+    "explanation": "Kat seviyeleri belirtilirken 'on' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The keys",
+        "tr": "Anahtarlar"
+      },
+      {
+        "text": "are",
+        "tr": "vardır"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the drawer",
+        "tr": "çekmecede"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "under"
+    ],
+    "correct": 0,
+    "explanation": "Kapalı alanları belirtirken 'in' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "There is",
+        "tr": "Var"
+      },
+      {
+        "text": "a small village",
+        "tr": "küçük bir köy"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the valley",
+        "tr": "vadide"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Coğrafi bölgeler ve alanlar için 'in' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "They",
+        "tr": "Onlar"
+      },
+      {
+        "text": "discussed",
+        "tr": "tartıştılar"
+      },
+      {
+        "text": "the proposal",
+        "tr": "teklifi"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the meeting room",
+        "tr": "toplantı odasında"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Kapalı alanlar için 'in' kullanılır; toplantı odası da kapalı bir mekandır."
+  },
+  {
+    "question": [
+      {
+        "text": "We should gather",
+        "tr": "Toplanmalıyız"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the corner of the street",
+        "tr": "sokağın köşesinde"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "Belirli nokta bildiren yerler için 'at' kullanılır; sokağın köşesi belirli bir noktadır."
+  },
+  {
+    "question": [
+      {
+        "text": "The painting",
+        "tr": "Resim"
+      },
+      {
+        "text": "hangs",
+        "tr": "asılı"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the gallery wall",
+        "tr": "galeri duvarında"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1,
+    "explanation": "Yüzeylerdeki nesneler için 'on' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The seminar",
+        "tr": "Seminer"
+      },
+      {
+        "text": "is scheduled to start",
+        "tr": "başlamak üzere planlandı"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "midnight",
+        "tr": "gece yarısı"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "Belirli zaman ifadeleri (örneğin, gece yarısı) için 'at' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The statue",
+        "tr": "Heykel"
+      },
+      {
+        "text": "is located",
+        "tr": "bulunuyor"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the center of the park",
+        "tr": "parkın ortasında"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Alan veya bölge belirtirken 'in' tercih edilir."
+  },
+  {
+    "question": [
+      {
+        "text": "Our flight departs",
+        "tr": "Uçağımız kalkıyor"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "6:30 AM sharp",
+        "tr": "tam 6:30'da"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "Kesin zaman belirtilirken 'at' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The exhibition will open",
+        "tr": "Sergi açılacak"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "Friday evening",
+        "tr": "Cuma akşamı"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1,
+    "explanation": "Haftanın günü ve zamanı belirtirken 'on' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "I accidentally left my bag",
+        "tr": "Çantamı yanlışlıkla unuttum"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the bus",
+        "tr": "otobüste"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1,
+    "explanation": "Toplu taşıma araçlarında genellikle 'on' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "She arrived",
+        "tr": "O geldi"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the station",
+        "tr": "istasyona"
+      },
+      {
+        "text": "just in time",
+        "tr": "tam zamanında"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "İstasyona ulaşımda 'at' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "We spent our holidays",
+        "tr": "Tatilimizi geçirdik"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the countryside",
+        "tr": "kırsalda"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Genel alanları belirtirken 'in' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The meeting starts",
+        "tr": "Toplantı başlıyor"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "noon",
+        "tr": "öğlen"
+      },
+      {
+        "text": "so be punctual",
+        "tr": "bu yüzden dakik olun"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "Öğlen gibi belirli zamanlar 'at' ile ifade edilir."
+  },
+  {
+    "question": [
+      {
+        "text": "She sat",
+        "tr": "O oturdu"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the edge of the table",
+        "tr": "masanın kenarında"
+      },
+      {
+        "text": "deep in thought",
+        "tr": "derin düşüncede"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1,
+    "explanation": "'On the edge' kalıp ifadesi için 'on' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The teacher wrote important notes",
+        "tr": "Öğretmen önemli notları yazdı"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the board",
+        "tr": "tahtaya"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1,
+    "explanation": "Tahtaya yazı yazarken 'on' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "They plan to travel",
+        "tr": "Onlar seyahat etmeyi planlıyor"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "Europe",
+        "tr": "Avrupa'yı"
+      },
+      {
+        "text": "next summer",
+        "tr": "gelecek yaz"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Kıta, ülke gibi geniş alanlar için 'in' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The new campus library",
+        "tr": "Yeni kampüs kütüphanesi"
+      },
+      {
+        "text": "is situated",
+        "tr": "konumlanmış"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the university grounds",
+        "tr": "üniversite yerlerinde"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1,
+    "explanation": "Kampüs için sıklıkla 'on campus' ifadesi kullanılır; bu durumda 'on' tercih edilir."
+  },
+  {
+    "question": [
+      {
+        "text": "The seminar is scheduled to begin",
+        "tr": "Seminer başlaması planlandı"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the fall semester",
+        "tr": "güz döneminde"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Akademik dönemler gibi zaman dilimleri için 'in' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "He enjoys his coffee",
+        "tr": "Kahvesinin tadını çıkarır"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the terrace of the hotel",
+        "tr": "otelin terasında"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1,
+    "explanation": "Açık yüzeyler, örneğin teras için 'on' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "We will start the tour",
+        "tr": "Turumuza başlayacağız"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the historic district",
+        "tr": "tarihi bölgede"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Geniş alanlar, bölgeler 'in' ile ifade edilir."
+  },
+  {
+    "question": [
+      {
+        "text": "The concert is taking place",
+        "tr": "Konser gerçekleşiyor"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the amphitheater",
+        "tr": "amfitiyatroda"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "Belirli mekanlar için 'at' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The exhibit is displayed",
+        "tr": "Sergi sergileniyor"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "a glass case",
+        "tr": "cam bir vitrin içinde"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Konteyner gibi kapalı alanlarda 'in' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "I left my umbrella",
+        "tr": "Şemsiyemi unuttum"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the restaurant",
+        "tr": "restoranda"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "Bina gibi belirli yerler için 'at' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The article was published",
+        "tr": "Makale yayınlandı"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the newspaper's front page",
+        "tr": "gazetenin ön sayfasında"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1,
+    "explanation": "Yazılı yüzeylerde 'on' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "We spent the afternoon",
+        "tr": "Öğleden sonrayı geçirdik"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the art gallery",
+        "tr": "sanat galeride"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Kapalı alanlar için 'in' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The scientist worked",
+        "tr": "Bilim insanı çalıştı"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "a state-of-the-art laboratory",
+        "tr": "son teknoloji bir laboratuvarda"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Laboratuvar gibi kapalı mekanlarda 'in' tercih edilir."
+  },
+  {
+    "question": [
+      {
+        "text": "The fireworks exploded",
+        "tr": "Havai fişek patladı"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the sky",
+        "tr": "gökyüzünde"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Geniş mekânları ifade ederken 'in' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The document is available",
+        "tr": "Belge mevcut"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the company website",
+        "tr": "şirket web sitesinde"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1,
+    "explanation": "İnternet sayfaları için 'on' ifadesi kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "We met",
+        "tr": "Buluştuk"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "a conference about renewable energy",
+        "tr": "yenilenebilir enerji konferansında"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "Konferans gibi etkinliklerde 'at' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "I like jogging",
+        "tr": "Sabah koşmayı severim"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the early morning hours",
+        "tr": "erken sabah saatlerinde"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Günün belli bölümleri 'in' ile ifade edilir."
+  },
+  {
+    "question": [
+      {
+        "text": "Her performance will be remembered",
+        "tr": "Performansı hatırlanacak"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "history",
+        "tr": "tarihte"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "‘In history’ kalıbı doğru kullanımdır."
+  },
+  {
+    "question": [
+      {
+        "text": "The package arrived",
+        "tr": "Paket geldi"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the morning after the holiday",
+        "tr": "tatil sonrası sabah"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Zaman dilimleri için 'in' kullanılır; örneğin, 'in the morning'."
+  },
+  {
+    "question": [
+      {
+        "text": "The meeting room is located",
+        "tr": "Toplantı odası konumlanmış"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the end of the corridor",
+        "tr": "koridorun sonunda"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "Kesin noktalar için 'at' tercih edilir."
+  },
+  {
+    "question": [
+      {
+        "text": "The letter was delivered",
+        "tr": "Mektup teslim edildi"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the mailbox",
+        "tr": "posta kutusuna"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Kutu gibi kapalı alanlara giren nesneler için 'in' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The children played",
+        "tr": "Çocuklar oynadı"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the playground",
+        "tr": "oyun alanında"
+      },
+      {
+        "text": "until sunset",
+        "tr": "gün batımına kadar"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "Genel mekanlar için sıklıkla 'at' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The painting was exhibited",
+        "tr": "Resim sergilendi"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "a renowned gallery in Paris",
+        "tr": "Paris'teki ünlü galeride"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Galeriler kapalı mekan olduğundan 'in' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "She found her keys",
+        "tr": "Anahtarlarını buldu"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the sofa cushions",
+        "tr": "kanepe minderlerinin içinde"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Bir nesnenin başka bir nesnenin içinde olması durumunda 'in' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The meeting will resume",
+        "tr": "Toplantı devam edecek"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "Monday morning",
+        "tr": "Pazartesi sabahı"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1,
+    "explanation": "Gün isimleriyle birlikte kullanılan sabah ifadelerinde 'on' tercih edilir."
+  },
+  {
+    "question": [
+      {
+        "text": "He left his phone",
+        "tr": "Telefonunu unuttu"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the car seat",
+        "tr": "araba koltuğunda"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1,
+    "explanation": "Yüzeyler için 'on' kullanılır; araba koltuğu da bir yüzeydir."
+  },
+  {
+    "question": [
+      {
+        "text": "Our team will gather",
+        "tr": "Takımımız toplanacak"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the venue for the award ceremony",
+        "tr": "ödül töreni mekanında"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "Belirli mekanlar için 'at' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The conference room is situated",
+        "tr": "Konferans odası yer alıyor"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the corner of the building",
+        "tr": "binanın köşesinde"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "Köşe gibi belirli noktalarda 'at' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The portrait is exhibited",
+        "tr": "Portre sergileniyor"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "an ornate frame",
+        "tr": "süslemeli bir çerçeve içinde"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Çerçeve gibi kapsayıcı yapılarda 'in' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The tourists admired the view",
+        "tr": "Turistler manzaraya hayran kaldı"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the top of the mountain",
+        "tr": "dağın tepesinde"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "Dağın tepe noktası gibi belirli yerler için 'at' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The athlete arrived",
+        "tr": "Sporcu geldi"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the competition venue",
+        "tr": "yarışma alanına"
+      },
+      {
+        "text": "well-prepared",
+        "tr": "iyi hazırlanmış olarak"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "Etkinlik mekanlarına ulaşımda 'at' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The notice was pinned",
+        "tr": "Duyuru asıldı"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the bulletin board",
+        "tr": "duyuru panosuna"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1,
+    "explanation": "Pano gibi yüzeylerde 'on' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The office is located",
+        "tr": "Ofis bulunuyor"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the 10th floor of the skyscraper",
+        "tr": "gökdelenin 10. katında"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1,
+    "explanation": "Kat numaraları belirtirken 'on' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The seminar will be held",
+        "tr": "Seminer düzenlenecek"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the convention center's main hall",
+        "tr": "kongre merkezinin ana salonunda"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Geniş iç mekanlar için 'in' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The lecture starts",
+        "tr": "Ders başlıyor"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the stroke of 9 o'clock",
+        "tr": "9'da tam vuruşta"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "Belirli saatler 'at' ile ifade edilir."
+  },
+  {
+    "question": [
+      {
+        "text": "We enjoy picnicking",
+        "tr": "Yazın piknik yapmayı severiz"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the riverbank",
+        "tr": "nehir kenarında"
+      },
+      {
+        "text": "during summer",
+        "tr": "yaz boyunca"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "Belirli dış mekanlar için 'at' tercih edilir."
+  },
+  {
+    "question": [
+      {
+        "text": "The seminar will take place",
+        "tr": "Seminer gerçekleşecek"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the early hours of the morning",
+        "tr": "sabahın ilk saatlerinde"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Zaman dilimleri için 'in' kullanılır; örneğin, 'in the early hours'."
+  },
+  {
+    "question": [
+      {
+        "text": "He was waiting",
+        "tr": "O bekliyordu"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the bus stop",
+        "tr": "otobüs durağında"
+      },
+      {
+        "text": "for over ten minutes",
+        "tr": "on dakikadan fazla"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "Belirli noktalar için 'at' kullanılır; otobüs durağı gibi."
+  },
+  {
+    "question": [
+      {
+        "text": "The ancient manuscript is preserved",
+        "tr": "Antik el yazması korunuyor"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "a vault in the museum",
+        "tr": "müzede bir kasada"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Kasa veya kilitli alanlar 'in' ile ifade edilir."
+  },
+  {
+    "question": [
+      {
+        "text": "She studied",
+        "tr": "O çalıştı"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the local library",
+        "tr": "yerel kütüphanede"
+      },
+      {
+        "text": "for hours",
+        "tr": "saatlerce"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Bir bina içinde bulunma durumlarında 'in' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The coffee shop",
+        "tr": "Kafe"
+      },
+      {
+        "text": "is located",
+        "tr": "bulunuyor"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the corner of the street",
+        "tr": "sokağın köşesinde"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "Belirli bir nokta belirtirken 'at' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The cat",
+        "tr": "Kedi"
+      },
+      {
+        "text": "is sleeping",
+        "tr": "uyuyor"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the sofa",
+        "tr": "kanepede"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "under"
+    ],
+    "correct": 1,
+    "explanation": "Yüzeylerde bulunan nesneler için 'on' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "We will have",
+        "tr": "Biz yapacağız"
+      },
+      {
+        "text": "a picnic",
+        "tr": "piknik"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the park",
+        "tr": "parkta"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Geniş alanlar için 'in' tercih edilir."
+  },
+  {
+    "question": [
+      {
+        "text": "They left",
+        "tr": "Onlar bıraktılar"
+      },
+      {
+        "text": "their coats",
+        "tr": "ceketlerini"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the hall",
+        "tr": "salonda"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Kapalı alanlar için 'in' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The meeting",
+        "tr": "Toplantı"
+      },
+      {
+        "text": "starts",
+        "tr": "başlıyor"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "10 AM sharp",
+        "tr": "tam 10'da"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "Kesin zaman ifadelerinde 'at' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "She hung",
+        "tr": "O astı"
+      },
+      {
+        "text": "the painting",
+        "tr": "resmi"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the mantelpiece",
+        "tr": "şömine üstünde"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1,
+    "explanation": "Yüzey belirtirken 'on' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "We arrived",
+        "tr": "Biz vardık"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the bus stop",
+        "tr": "otobüs durağında"
+      },
+      {
+        "text": "just in time for the bus",
+        "tr": "tam otobüs için"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "Belirli nokta bildiren yerler için 'at' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "He lives",
+        "tr": "O yaşıyor"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "an apartment",
+        "tr": "bir dairede"
+      },
+      {
+        "text": "in downtown",
+        "tr": "merkezde"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Binaların içinde bulunmayı ifade etmek için 'in' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "They had",
+        "tr": "Onlar yaptılar"
+      },
+      {
+        "text": "a party",
+        "tr": "parti"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "her birthday",
+        "tr": "onun doğum gününde"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1,
+    "explanation": "Gün isimlerinde 'on' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The fireworks",
+        "tr": "Havai fişekler"
+      },
+      {
+        "text": "illuminated",
+        "tr": "aydınlattı"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the night sky",
+        "tr": "gece gökyüzünü"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "'In' ifadesi, bir alanın içinde olmayı belirtir."
+  },
+  {
+    "question": [
+      {
+        "text": "The conference",
+        "tr": "Konferans"
+      },
+      {
+        "text": "is scheduled",
+        "tr": "planlandı"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "Friday morning",
+        "tr": "Cuma sabahı"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1,
+    "explanation": "Hafta günleri için 'on' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "He left",
+        "tr": "O bıraktı"
+      },
+      {
+        "text": "his umbrella",
+        "tr": "şemsiyesini"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the bus",
+        "tr": "otobüste"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1,
+    "explanation": "Toplu taşıma araçlarında 'on' tercih edilir."
+  },
+  {
+    "question": [
+      {
+        "text": "They arrived",
+        "tr": "Onlar vardılar"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the hotel",
+        "tr": "otelde"
+      },
+      {
+        "text": "late at night",
+        "tr": "geç saatte"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "Belirli binalar için 'at' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The book",
+        "tr": "Kitap"
+      },
+      {
+        "text": "is written",
+        "tr": "yazıldı"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the 18th century",
+        "tr": "18. yüzyılda"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Yüzyıllar 'in' ile ifade edilir."
+  },
+  {
+    "question": [
+      {
+        "text": "She lives",
+        "tr": "O yaşıyor"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "a quiet neighborhood",
+        "tr": "sakin bir mahallede"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Mahalle gibi yerleşim yerleri 'in' kullanılarak ifade edilir."
+  },
+  {
+    "question": [
+      {
+        "text": "The clock",
+        "tr": "Saat"
+      },
+      {
+        "text": "on the wall",
+        "tr": "duvarda"
+      },
+      {
+        "text": "stopped",
+        "tr": "durdu"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "6:15",
+        "tr": "6:15'te"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "Kesin zamanlar 'at' ile belirtilir."
+  },
+  {
+    "question": [
+      {
+        "text": "They sat",
+        "tr": "Onlar oturdular"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the table",
+        "tr": "masanın etrafında"
+      },
+      {
+        "text": "for dinner",
+        "tr": "akşam yemeği için"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "'At the table' ifadesi yerleşik kullanımımızdır."
+  },
+  {
+    "question": [
+      {
+        "text": "The kids",
+        "tr": "Çocuklar"
+      },
+      {
+        "text": "were playing",
+        "tr": "oynuyordu"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the garden",
+        "tr": "bahçede"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Alan içinde gerçekleşen eylemler için 'in' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "I found",
+        "tr": "Ben buldum"
+      },
+      {
+        "text": "this beautiful vase",
+        "tr": "bu güzel vazoyu"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the antique shop",
+        "tr": "antikacıda"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Mağaza gibi kapalı mekanlar 'in' ile ifade edilir."
+  },
+  {
+    "question": [
+      {
+        "text": "He posted",
+        "tr": "O astı"
+      },
+      {
+        "text": "the announcement",
+        "tr": "duyuruyu"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the bulletin board",
+        "tr": "duyuru panosuna"
+      },
+      {
+        "text": "outside the office",
+        "tr": "ofis dışında"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1,
+    "explanation": "Duyuru panoları gibi yüzeylerde 'on' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The lecture",
+        "tr": "Ders"
+      },
+      {
+        "text": "will be held",
+        "tr": "yapılacak"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the auditorium",
+        "tr": "audiotoriumda"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Oturma düzeni olan mekanlarda 'in' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "We spent",
+        "tr": "Biz geçirdik"
+      },
+      {
+        "text": "the weekend",
+        "tr": "haftasonunu"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the countryside",
+        "tr": "kırsalda"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Geniş alanlar 'in' ile ifade edilir."
+  },
+  {
+    "question": [
+      {
+        "text": "The treasure",
+        "tr": "Hazine"
+      },
+      {
+        "text": "is hidden",
+        "tr": "gizli"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the old castle",
+        "tr": "eski kalede"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Bir yapı içindeki nesneler için 'in' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "She found",
+        "tr": "O buldu"
+      },
+      {
+        "text": "her pen",
+        "tr": "kalemini"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the drawer",
+        "tr": "çekmecede"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Kapalı bölümler için 'in' uygundur."
+  },
+  {
+    "question": [
+      {
+        "text": "The movie",
+        "tr": "Film"
+      },
+      {
+        "text": "will premiere",
+        "tr": "prömiyer olacak"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "Saturday night",
+        "tr": "Cumartesi gecesi"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1,
+    "explanation": "Günler ve zaman dilimleri için 'on' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The meeting",
+        "tr": "Toplantı"
+      },
+      {
+        "text": "is set",
+        "tr": "planlandı"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the conference room",
+        "tr": "konferans odasında"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Oda gibi kapalı mekanlar için 'in' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "He left",
+        "tr": "O bıraktı"
+      },
+      {
+        "text": "his jacket",
+        "tr": "ceketini"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the chair",
+        "tr": "sandalyede"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1,
+    "explanation": "Yüzey belirten durumlarda 'on' tercih edilir."
+  },
+  {
+    "question": [
+      {
+        "text": "The party",
+        "tr": "Parti"
+      },
+      {
+        "text": "will be held",
+        "tr": "düzenlenecek"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the rooftop of the building",
+        "tr": "binanın çatısında"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1,
+    "explanation": "Çatı gibi açık yüzeylerde 'on' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "They enjoyed",
+        "tr": "Onlar keyif aldılar"
+      },
+      {
+        "text": "a quiet evening",
+        "tr": "sakin bir akşam"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the fireplace",
+        "tr": "şömine yanında"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 3,
+    "explanation": "'By' kelimesi, yanında ya da yakınında olmayı ifade eder."
+  },
+  {
+    "question": [
+      {
+        "text": "She placed",
+        "tr": "O yerleştirdi"
+      },
+      {
+        "text": "the vase",
+        "tr": "vazoyu"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the dining table",
+        "tr": "yemek masasının üzerinde"
+      },
+      {
+        "text": "as a centerpiece",
+        "tr": "ortadaki süs olarak"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1,
+    "explanation": "Yüzeyler üzerinde bulunan nesneler için 'on' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The meeting",
+        "tr": "Toplantı"
+      },
+      {
+        "text": "is scheduled to start",
+        "tr": "başlaması planlandı"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the stroke of midnight",
+        "tr": "gece yarısında"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "Kesin zaman bildiren ifadelerde 'at' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "He was born",
+        "tr": "O doğdu"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "a small town",
+        "tr": "küçük bir kasabada"
+      },
+      {
+        "text": "in the north",
+        "tr": "kuzeyde"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Küçük yerleşim yerleri için 'in' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The exhibition",
+        "tr": "Sergi"
+      },
+      {
+        "text": "opens",
+        "tr": "açılıyor"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the summer solstice",
+        "tr": "yaz gündönümünde"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1,
+    "explanation": "Özel günler veya tarihlerde 'on' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "We found",
+        "tr": "Biz bulduk"
+      },
+      {
+        "text": "the missing keys",
+        "tr": "kayıp anahtarları"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the carpet",
+        "tr": "halının üzerinde"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1,
+    "explanation": "Yüzey belirten durumlarda 'on' uygundur."
+  },
+  {
+    "question": [
+      {
+        "text": "She arrived",
+        "tr": "O geldi"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the venue",
+        "tr": "mekana"
+      },
+      {
+        "text": "a few minutes early",
+        "tr": "birkaç dakika erken"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "Belirli yerler için 'at' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The conference",
+        "tr": "Konferans"
+      },
+      {
+        "text": "will be held",
+        "tr": "düzenlenecek"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the downtown convention center",
+        "tr": "merkezdeki kongre merkezinde"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "Bina veya tesis gibi belirli mekanlar için 'at' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "They will travel",
+        "tr": "Onlar seyahat edecek"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "a road trip",
+        "tr": "bir yolculuk"
+      },
+      {
+        "text": "across the country",
+        "tr": "ülke genelinde"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1,
+    "explanation": "'On a road trip' ifadesinde 'on' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The museum",
+        "tr": "Müze"
+      },
+      {
+        "text": "is open",
+        "tr": "açık"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "weekdays",
+        "tr": "hafta içi"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1,
+    "explanation": "Hafta içi günleri için 'on' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "He left",
+        "tr": "O bıraktı"
+      },
+      {
+        "text": "his glasses",
+        "tr": "gözlüklerini"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "his desk",
+        "tr": "masasında"
+      },
+      {
+        "text": "during the meeting",
+        "tr": "toplantı sırasında"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1,
+    "explanation": "Masanın yüzeyi için 'on' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "They sat down",
+        "tr": "Onlar oturdular"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the bench",
+        "tr": "bankta"
+      },
+      {
+        "text": "in the park",
+        "tr": "parkta"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1,
+    "explanation": "'On the bench' ifadesi yerleşik kullanımdır."
+  },
+  {
+    "question": [
+      {
+        "text": "The chef",
+        "tr": "Şef"
+      },
+      {
+        "text": "prepared",
+        "tr": "hazırladı"
+      },
+      {
+        "text": "a meal",
+        "tr": "bir yemek"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the kitchen",
+        "tr": "mutfakta"
+      },
+      {
+        "text": "using fresh ingredients",
+        "tr": "taze malzemelerle"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "İç mekanlar için 'in' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "She arrived",
+        "tr": "O geldi"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the ceremony",
+        "tr": "törene"
+      },
+      {
+        "text": "dressed elegantly",
+        "tr": "zarif giyinmiş olarak"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "Etkinlikler için 'at' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The cat",
+        "tr": "Kedi"
+      },
+      {
+        "text": "jumped",
+        "tr": "zıpladı"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the windowsill",
+        "tr": "pencere pervazına"
+      },
+      {
+        "text": "to catch a bird",
+        "tr": "bir kuş yakalamak için"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1,
+    "explanation": "Pencere pervazı gibi yüzeylerde 'on' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The farmer",
+        "tr": "Çiftçi"
+      },
+      {
+        "text": "harvested",
+        "tr": "hasat etti"
+      },
+      {
+        "text": "crops",
+        "tr": "ürünleri"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the field",
+        "tr": "tarlada"
+      },
+      {
+        "text": "before sunset",
+        "tr": "gün batımından önce"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Tarlalar gibi geniş alanlar 'in' kullanılarak ifade edilir."
+  },
+  {
+    "question": [
+      {
+        "text": "The novel",
+        "tr": "Roman"
+      },
+      {
+        "text": "is set",
+        "tr": "geçiyor"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the Roaring Twenties",
+        "tr": "Çalkantılı 1920'lerde"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Zaman dilimleri 'in' ile ifade edilir."
+  },
+  {
+    "question": [
+      {
+        "text": "We met",
+        "tr": "Biz buluştuk"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "a small café",
+        "tr": "küçük bir kafede"
+      },
+      {
+        "text": "for lunch",
+        "tr": "öğle yemeği için"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "Buluşma yerleri için 'at' ifadesi kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The children",
+        "tr": "Çocuklar"
+      },
+      {
+        "text": "splashed",
+        "tr": "su sıçrattı"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the puddles",
+        "tr": "su birikintilerinde"
+      },
+      {
+        "text": "after the rain",
+        "tr": "yağmurdan sonra"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Suyun içinde olmak 'in' ile ifade edilir."
+  },
+  {
+    "question": [
+      {
+        "text": "He attached",
+        "tr": "O yapıştırdı"
+      },
+      {
+        "text": "the sticker",
+        "tr": "çıkartmayı"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "his notebook",
+        "tr": "defterine"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1,
+    "explanation": "Yapışkan etken yüzeyler için 'on' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The lecture",
+        "tr": "Ders"
+      },
+      {
+        "text": "was held",
+        "tr": "yapıldı"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the courtyard",
+        "tr": "avluda"
+      },
+      {
+        "text": "of the ancient building",
+        "tr": "antik binanın"
+      }
+    ],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 0,
+    "explanation": "Avlu gibi kapalı alanlarda 'in' kullanılır."
+  }
+]

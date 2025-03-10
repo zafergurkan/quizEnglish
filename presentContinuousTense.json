@@ -1,0 +1,3106 @@
+[
+  {
+    "question": [
+      {
+        "text": "I",
+        "tr": "Ben"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "breakfast",
+        "tr": "kahvaltı"
+      },
+      {
+        "text": "right now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "eating",
+      "am eat",
+      "am eating",
+      "ate"
+    ],
+    "correct": 2,
+    "explanation": "Present Continuous Tense kullanılır çünkü eylem şu anda gerçekleşmektedir. Özne 'I' için 'am' yardımcı fiili kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "He",
+        "tr": "O (erkek)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "a book",
+        "tr": "bir kitap"
+      },
+      {
+        "text": "at the moment",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "reads",
+      "read",
+      "is reading",
+      "was reading"
+    ],
+    "correct": 2,
+    "explanation": "Present Continuous Tense kullanılır çünkü eylem şu anda gerçekleşmektedir. Özne 'He' için 'is' yardımcı fiili kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "They",
+        "tr": "Onlar"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "soccer",
+        "tr": "futbol"
+      },
+      {
+        "text": "in the park",
+        "tr": "parkta"
+      }
+    ],
+    "options": [
+      "playing",
+      "play",
+      "are playing",
+      "are play"
+    ],
+    "correct": 2,
+    "explanation": "Present Continuous Tense kullanılır çünkü eylem şu anda gerçekleşmektedir. Özne 'They' için 'are' yardımcı fiili kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "We",
+        "tr": "Biz"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "TV",
+        "tr": "televizyon"
+      },
+      {
+        "text": "right now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "watch",
+      "are watch",
+      "are watching",
+      "watched"
+    ],
+    "correct": 2,
+    "explanation": "Present Continuous Tense kullanılır çünkü eylem şu anda gerçekleşmektedir. Özne 'We' için 'are' yardımcı fiili kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "She",
+        "tr": "O (kadın)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "a letter",
+        "tr": "bir mektup"
+      },
+      {
+        "text": "at the moment",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "write",
+      "wrote",
+      "is writing",
+      "writing"
+    ],
+    "correct": 2,
+    "explanation": "Present Continuous Tense kullanılır çünkü eylem şu anda gerçekleşmektedir. Özne 'She' için 'is' yardımcı fiili kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "You",
+        "tr": "Sen/Siz"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "English",
+        "tr": "İngilizce"
+      },
+      {
+        "text": "these days",
+        "tr": "bu günlerde"
+      }
+    ],
+    "options": [
+      "studies",
+      "study",
+      "are studying",
+      "is studying"
+    ],
+    "correct": 2,
+    "explanation": "Present Continuous Tense kullanılır çünkü eylem şu anda veya geçici bir süre için gerçekleşmektedir. Özne 'You' için 'are' yardımcı fiili kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The kids",
+        "tr": "Çocuklar"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "pictures",
+        "tr": "resimler"
+      },
+      {
+        "text": "in class",
+        "tr": "sınıfta"
+      }
+    ],
+    "options": [
+      "drawing",
+      "draw",
+      "are drawing",
+      "is drawing"
+    ],
+    "correct": 2,
+    "explanation": "Present Continuous Tense kullanılır çünkü eylem şu anda gerçekleşmektedir. Özne 'The kids' için 'are' yardımcı fiili kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "My friend",
+        "tr": "Arkadaşım"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "dinner",
+        "tr": "akşam yemeği"
+      },
+      {
+        "text": "right now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "cooking",
+      "cook",
+      "is cooking",
+      "cooked"
+    ],
+    "correct": 2,
+    "explanation": "Present Continuous Tense kullanılır çünkü eylem şu anda gerçekleşmektedir. Özne 'My friend' için 'is' yardımcı fiili kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The cat",
+        "tr": "Kedi"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "on the sofa",
+        "tr": "kanepede"
+      }
+    ],
+    "options": [
+      "sleeping",
+      "is sleep",
+      "is sleeping",
+      "sleeps"
+    ],
+    "correct": 2,
+    "explanation": "Present Continuous Tense kullanılır çünkü eylem şu anda gerçekleşmektedir. Özne 'The cat' için 'is' yardımcı fiili kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "We",
+        "tr": "Biz"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "fun",
+        "tr": "eğlence"
+      },
+      {
+        "text": "at the party",
+        "tr": "partide"
+      }
+    ],
+    "options": [
+      "having",
+      "have",
+      "are having",
+      "had"
+    ],
+    "correct": 2,
+    "explanation": "Present Continuous Tense kullanılır çünkü eylem şu anda veya geçici olarak gerçekleşmektedir. Özne 'We' için 'are' yardımcı fiili kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "I",
+        "tr": "Ben"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "breakfast",
+        "tr": "kahvaltı"
+      },
+      {
+        "text": "right now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "am eating not",
+      "not am eating",
+      "am not eating",
+      "are not eating"
+    ],
+    "correct": 2,
+    "explanation": "Olumsuz cümlelerde, yardımcı fiilden sonra 'not' eklenir. Özne 'I' için doğru kullanım 'am not eating' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "He",
+        "tr": "O (erkek)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "a book",
+        "tr": "bir kitap"
+      },
+      {
+        "text": "at the moment",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "is reading not",
+      "not is reading",
+      "is not reading",
+      "are not reading"
+    ],
+    "correct": 2,
+    "explanation": "Olumsuz cümlelerde, yardımcı fiilden sonra 'not' eklenir. Özne 'He' için doğru kullanım 'is not reading' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "They",
+        "tr": "Onlar"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "soccer",
+        "tr": "futbol"
+      },
+      {
+        "text": "in the park",
+        "tr": "parkta"
+      }
+    ],
+    "options": [
+      "are playing not",
+      "not are playing",
+      "are not playing",
+      "are playing no"
+    ],
+    "correct": 2,
+    "explanation": "Olumsuz cümlelerde, yardımcı fiilden sonra 'not' eklenir. Özne 'They' için doğru kullanım 'are not playing' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "We",
+        "tr": "Biz"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "TV",
+        "tr": "televizyon"
+      },
+      {
+        "text": "right now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "are watching not",
+      "not are watching",
+      "are not watching",
+      "is not watching"
+    ],
+    "correct": 2,
+    "explanation": "Olumsuz cümlelerde, yardımcı fiilden sonra 'not' eklenir. Özne 'We' için doğru kullanım 'are not watching' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "She",
+        "tr": "O (kadın)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "a letter",
+        "tr": "bir mektup"
+      },
+      {
+        "text": "at the moment",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "is writing not",
+      "not is writing",
+      "is not writing",
+      "are not writing"
+    ],
+    "correct": 2,
+    "explanation": "Olumsuz cümlelerde, yardımcı fiilden sonra 'not' eklenir. Özne 'She' için doğru kullanım 'is not writing' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "You",
+        "tr": "Sen/Siz"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "English",
+        "tr": "İngilizce"
+      },
+      {
+        "text": "these days",
+        "tr": "bu günlerde"
+      }
+    ],
+    "options": [
+      "studying not are",
+      "are studying not",
+      "are not studying",
+      "is not studying"
+    ],
+    "correct": 2,
+    "explanation": "Olumsuz cümlelerde, yardımcı fiilden sonra 'not' eklenir. Özne 'You' için doğru kullanım 'are not studying' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "The kids",
+        "tr": "Çocuklar"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "pictures",
+        "tr": "resimler"
+      },
+      {
+        "text": "in class",
+        "tr": "sınıfta"
+      }
+    ],
+    "options": [
+      "drawing not are",
+      "are drawing not",
+      "are not drawing",
+      "is not drawing"
+    ],
+    "correct": 2,
+    "explanation": "Olumsuz cümlelerde, yardımcı fiilden sonra 'not' eklenir. Özne 'The kids' için doğru kullanım 'are not drawing' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "My friend",
+        "tr": "Arkadaşım"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "dinner",
+        "tr": "akşam yemeği"
+      },
+      {
+        "text": "right now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "cooking not is",
+      "is cooking not",
+      "is not cooking",
+      "are not cooking"
+    ],
+    "correct": 2,
+    "explanation": "Olumsuz cümlelerde, yardımcı fiilden sonra 'not' eklenir. Özne 'My friend' için doğru kullanım 'is not cooking' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "The cat",
+        "tr": "Kedi"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "on the sofa",
+        "tr": "kanepede"
+      }
+    ],
+    "options": [
+      "sleeping not is",
+      "not is sleeping",
+      "is not sleeping",
+      "is sleeping not"
+    ],
+    "correct": 2,
+    "explanation": "Olumsuz cümlelerde, yardımcı fiilden sonra 'not' eklenir. Özne 'The cat' için doğru kullanım 'is not sleeping' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "We",
+        "tr": "Biz"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "fun",
+        "tr": "eğlence"
+      },
+      {
+        "text": "at the party",
+        "tr": "partide"
+      }
+    ],
+    "options": [
+      "having not are",
+      "are having not",
+      "are not having",
+      "had not"
+    ],
+    "correct": 2,
+    "explanation": "Olumsuz cümlelerde, yardımcı fiilden sonra 'not' eklenir. Özne 'We' için doğru kullanım 'are not having' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "I",
+        "tr": "Ben"
+      },
+      {
+        "text": "eating",
+        "tr": "yiyor"
+      },
+      {
+        "text": "breakfast",
+        "tr": "kahvaltı"
+      },
+      {
+        "text": "right now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Is",
+      "Are",
+      "Am",
+      "Do"
+    ],
+    "correct": 2,
+    "explanation": "Soru cümlesi oluşturulurken, yardımcı fiil öznün önüne getirilir. 'I' ile doğru kullanım 'Am' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "he",
+        "tr": "o (erkek)"
+      },
+      {
+        "text": "reading",
+        "tr": "okuyor"
+      },
+      {
+        "text": "a book",
+        "tr": "bir kitap"
+      },
+      {
+        "text": "at the moment?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Are",
+      "Am",
+      "Is",
+      "Do"
+    ],
+    "correct": 2,
+    "explanation": "Soru cümlesi oluşturulurken, yardımcı fiil öznün önüne getirilir. 'He' ile doğru kullanım 'Is' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "they",
+        "tr": "onlar"
+      },
+      {
+        "text": "playing",
+        "tr": "oynuyor"
+      },
+      {
+        "text": "soccer",
+        "tr": "futbol"
+      },
+      {
+        "text": "in the park?",
+        "tr": "parkta?"
+      }
+    ],
+    "options": [
+      "Is",
+      "Am",
+      "Are",
+      "Do"
+    ],
+    "correct": 2,
+    "explanation": "Soru cümlesi oluşturulurken, yardımcı fiil öznün önüne getirilir. 'They' ile doğru kullanım 'Are' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "we",
+        "tr": "biz"
+      },
+      {
+        "text": "watching",
+        "tr": "izliyor"
+      },
+      {
+        "text": "TV",
+        "tr": "televizyon"
+      },
+      {
+        "text": "right now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Is",
+      "Am",
+      "Are",
+      "Do"
+    ],
+    "correct": 2,
+    "explanation": "Soru cümlesi oluşturulurken, yardımcı fiil öznün önüne getirilir. 'We' ile doğru kullanım 'Are' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "she",
+        "tr": "o (kadın)"
+      },
+      {
+        "text": "writing",
+        "tr": "yazıyor"
+      },
+      {
+        "text": "a letter",
+        "tr": "bir mektup"
+      },
+      {
+        "text": "at the moment?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Are",
+      "Am",
+      "Is",
+      "Do"
+    ],
+    "correct": 2,
+    "explanation": "Soru cümlesi oluşturulurken, yardımcı fiil öznün önüne getirilir. 'She' ile doğru kullanım 'Is' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "you",
+        "tr": "sen/siz"
+      },
+      {
+        "text": "studying",
+        "tr": "çalışıyor"
+      },
+      {
+        "text": "English",
+        "tr": "İngilizce"
+      },
+      {
+        "text": "these days?",
+        "tr": "bu günlerde?"
+      }
+    ],
+    "options": [
+      "Is",
+      "Am",
+      "Are",
+      "Do"
+    ],
+    "correct": 2,
+    "explanation": "Soru cümlesi oluşturulurken, yardımcı fiil öznün önüne getirilir. 'You' ile doğru kullanım 'Are' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the kids",
+        "tr": "çocuklar"
+      },
+      {
+        "text": "drawing",
+        "tr": "çiziyor"
+      },
+      {
+        "text": "pictures",
+        "tr": "resimler"
+      },
+      {
+        "text": "in class?",
+        "tr": "sınıfta?"
+      }
+    ],
+    "options": [
+      "Is",
+      "Am",
+      "Are",
+      "Do"
+    ],
+    "correct": 2,
+    "explanation": "Soru cümlesi oluşturulurken, yardımcı fiil öznün önüne getirilir. 'The kids' ile doğru kullanım 'Are' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "my friend",
+        "tr": "arkadaşım"
+      },
+      {
+        "text": "cooking",
+        "tr": "pişiriyor"
+      },
+      {
+        "text": "dinner",
+        "tr": "akşam yemeği"
+      },
+      {
+        "text": "right now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Are",
+      "Am",
+      "Is",
+      "Do"
+    ],
+    "correct": 2,
+    "explanation": "Soru cümlesi oluşturulurken, yardımcı fiil öznün önüne getirilir. 'My friend' ile doğru kullanım 'Is' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the cat",
+        "tr": "kedi"
+      },
+      {
+        "text": "sleeping",
+        "tr": "uyuyor"
+      },
+      {
+        "text": "on the sofa?",
+        "tr": "kanepede?"
+      }
+    ],
+    "options": [
+      "Are",
+      "Am",
+      "Is",
+      "Do"
+    ],
+    "correct": 2,
+    "explanation": "Soru cümlesi oluşturulurken, yardımcı fiil öznün önüne getirilir. 'The cat' ile doğru kullanım 'Is' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "we",
+        "tr": "biz"
+      },
+      {
+        "text": "having",
+        "tr": "yaşıyor"
+      },
+      {
+        "text": "fun",
+        "tr": "eğlence"
+      },
+      {
+        "text": "at the party?",
+        "tr": "partide?"
+      }
+    ],
+    "options": [
+      "Is",
+      "Am",
+      "Are",
+      "Do"
+    ],
+    "correct": 2,
+    "explanation": "Soru cümlesi oluşturulurken, yardımcı fiil öznün önüne getirilir. 'We' ile doğru kullanım 'Are' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "I",
+        "tr": "Ben"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "a book",
+        "tr": "bir kitap"
+      },
+      {
+        "text": "now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "am reading",
+      "is reading",
+      "are reading",
+      "read"
+    ],
+    "correct": 0,
+    "explanation": "Özne 'I' olduğunda present continuous yapısı 'am reading' şeklinde kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "You",
+        "tr": "Sen/Siz"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "an email",
+        "tr": "bir e-posta"
+      },
+      {
+        "text": "right now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "are writing",
+      "am writing",
+      "is writing",
+      "write"
+    ],
+    "correct": 0,
+    "explanation": "'You' öznesi için doğru form 'are writing' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "He",
+        "tr": "O (erkek)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "playing the guitar",
+        "tr": "gitar çalıyor"
+      },
+      {
+        "text": "currently",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "is playing",
+      "are playing",
+      "am playing",
+      "plays"
+    ],
+    "correct": 0,
+    "explanation": "'He' öznesinde present continuous için 'is playing' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "She",
+        "tr": "O (kadın)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "cooking dinner",
+        "tr": "akşam yemeği pişiriyor"
+      },
+      {
+        "text": "at the moment",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "is cooking",
+      "are cooking",
+      "am cooking",
+      "cooks"
+    ],
+    "correct": 0,
+    "explanation": "'She' için doğru present continuous formu 'is cooking' tir."
+  },
+  {
+    "question": [
+      {
+        "text": "It",
+        "tr": "O (hava)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "raining",
+        "tr": "yağmur yağıyor"
+      },
+      {
+        "text": "heavily",
+        "tr": "şiddetle"
+      }
+    ],
+    "options": [
+      "is raining",
+      "are raining",
+      "am raining",
+      "rains"
+    ],
+    "correct": 0,
+    "explanation": "'It' için present continuous yapısı 'is raining' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "We",
+        "tr": "Biz"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "watching a movie",
+        "tr": "film izliyor"
+      },
+      {
+        "text": "now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "are watching",
+      "is watching",
+      "am watching",
+      "watch"
+    ],
+    "correct": 0,
+    "explanation": "'We' öznesinde doğru kullanım 'are watching' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "They",
+        "tr": "Onlar"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "listening to music",
+        "tr": "müzik dinliyor"
+      },
+      {
+        "text": "right now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "are listening",
+      "is listening",
+      "am listening",
+      "listen"
+    ],
+    "correct": 0,
+    "explanation": "Çoğul özne 'they' için 'are listening' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "John",
+        "tr": "John"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "swimming in the pool",
+        "tr": "havuzda yüzüyor"
+      },
+      {
+        "text": "now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "is swimming",
+      "are swimming",
+      "am swimming",
+      "swims"
+    ],
+    "correct": 0,
+    "explanation": "'John' için doğru form 'is swimming' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "Lisa",
+        "tr": "Lisa"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "dancing gracefully",
+        "tr": "zarifçe dans ediyor"
+      }
+    ],
+    "options": [
+      "is dancing",
+      "are dancing",
+      "am dancing",
+      "dances"
+    ],
+    "correct": 0,
+    "explanation": "'Lisa' için present continuous 'is dancing' şeklinde kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The dog",
+        "tr": "Köpek"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "running fast",
+        "tr": "hızlı koşuyor"
+      },
+      {
+        "text": "now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "is running",
+      "are running",
+      "am running",
+      "runs"
+    ],
+    "correct": 0,
+    "explanation": "'The dog' öznesinde doğru kullanım 'is running' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "My friends",
+        "tr": "Arkadaşlarım"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "studying English",
+        "tr": "İngilizce çalışıyor"
+      },
+      {
+        "text": "now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "are studying",
+      "is studying",
+      "am studying",
+      "study"
+    ],
+    "correct": 0,
+    "explanation": "Çoğul özne 'my friends' için 'are studying' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The teacher",
+        "tr": "Öğretmen"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "explaining the lesson",
+        "tr": "dersi açıklıyor"
+      },
+      {
+        "text": "currently",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "is explaining",
+      "are explaining",
+      "am explaining",
+      "explains"
+    ],
+    "correct": 0,
+    "explanation": "'The teacher' için doğru yapı 'is explaining' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "We",
+        "tr": "Biz"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "having lunch together",
+        "tr": "birlikte öğle yemeği yiyor"
+      },
+      {
+        "text": "now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "are having",
+      "is having",
+      "am having",
+      "have"
+    ],
+    "correct": 0,
+    "explanation": "'We' için present continuous 'are having' şeklinde kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "They",
+        "tr": "Onlar"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "building a new house",
+        "tr": "yeni bir ev inşa ediyor"
+      },
+      {
+        "text": "currently",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "are building",
+      "is building",
+      "am building",
+      "builds"
+    ],
+    "correct": 0,
+    "explanation": "'They' öznesi için doğru form 'are building' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "I",
+        "tr": "Ben"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "practicing yoga",
+        "tr": "yoga yapıyor"
+      },
+      {
+        "text": "now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "am practicing",
+      "is practicing",
+      "are practicing",
+      "practice"
+    ],
+    "correct": 0,
+    "explanation": "'I' öznesinde 'am practicing' doğru kullanım biçimidir."
+  },
+  {
+    "question": [
+      {
+        "text": "She",
+        "tr": "O (kadın)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "painting a picture",
+        "tr": "bir resim çiziyor"
+      },
+      {
+        "text": "at the moment",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "is painting",
+      "are painting",
+      "am painting",
+      "paints"
+    ],
+    "correct": 0,
+    "explanation": "'She' için present continuous 'is painting' şeklinde kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The children",
+        "tr": "Çocuklar"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "playing in the park",
+        "tr": "parkta oynuyor"
+      },
+      {
+        "text": "now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "are playing",
+      "is playing",
+      "am playing",
+      "play"
+    ],
+    "correct": 0,
+    "explanation": "Çoğul özne 'the children' için 'are playing' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "Mike",
+        "tr": "Mike"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "fixing the car",
+        "tr": "arabayı tamir ediyor"
+      },
+      {
+        "text": "right now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "is fixing",
+      "are fixing",
+      "am fixing",
+      "fixes"
+    ],
+    "correct": 0,
+    "explanation": "'Mike' için doğru yapı 'is fixing' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "Anna",
+        "tr": "Anna"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "taking photos",
+        "tr": "fotoğraf çekiyor"
+      },
+      {
+        "text": "now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "is taking",
+      "are taking",
+      "am taking",
+      "takes"
+    ],
+    "correct": 0,
+    "explanation": "'Anna' için present continuous 'is taking' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "The kids",
+        "tr": "Çocuklar"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "drawing pictures",
+        "tr": "resim çiziyor"
+      },
+      {
+        "text": "right now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "are drawing",
+      "is drawing",
+      "am drawing",
+      "draw"
+    ],
+    "correct": 0,
+    "explanation": "Çoğul özne için doğru form 'are drawing' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "I",
+        "tr": "Ben"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "listening to the radio",
+        "tr": "radyoyu dinliyor"
+      },
+      {
+        "text": "now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "am listening",
+      "is listening",
+      "are listening",
+      "listen"
+    ],
+    "correct": 0,
+    "explanation": "'I' için doğru form 'am listening' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "You",
+        "tr": "Sen/Siz"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "reading a newspaper",
+        "tr": "gazete okuyor"
+      },
+      {
+        "text": "currently",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "are reading",
+      "am reading",
+      "is reading",
+      "read"
+    ],
+    "correct": 0,
+    "explanation": "'You' için present continuous 'are reading' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "He",
+        "tr": "O (erkek)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "studying math",
+        "tr": "matematik çalışıyor"
+      },
+      {
+        "text": "now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "is studying",
+      "are studying",
+      "am studying",
+      "studies"
+    ],
+    "correct": 0,
+    "explanation": "'He' için doğru kullanım 'is studying' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "She",
+        "tr": "O (kadın)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "talking on the phone",
+        "tr": "telefonda konuşuyor"
+      },
+      {
+        "text": "right now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "is talking",
+      "are talking",
+      "am talking",
+      "talks"
+    ],
+    "correct": 0,
+    "explanation": "'She' için present continuous 'is talking' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "It",
+        "tr": "O (hava)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "snowing",
+        "tr": "kar yağıyor"
+      },
+      {
+        "text": "outside",
+        "tr": "dışarıda"
+      }
+    ],
+    "options": [
+      "is snowing",
+      "are snowing",
+      "am snowing",
+      "snows"
+    ],
+    "correct": 0,
+    "explanation": "'It' için doğru kullanım 'is snowing' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "We",
+        "tr": "Biz"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "having a meeting",
+        "tr": "toplantı yapıyor"
+      },
+      {
+        "text": "now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "are having",
+      "is having",
+      "am having",
+      "have"
+    ],
+    "correct": 0,
+    "explanation": "'We' için doğru form 'are having' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "They",
+        "tr": "Onlar"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "traveling by train",
+        "tr": "trenle seyahat ediyor"
+      },
+      {
+        "text": "today",
+        "tr": "bugün"
+      }
+    ],
+    "options": [
+      "are traveling",
+      "is traveling",
+      "am traveling",
+      "travel"
+    ],
+    "correct": 0,
+    "explanation": "'They' için present continuous 'are traveling' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "Emma",
+        "tr": "Emma"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "baking a cake",
+        "tr": "kek pişiriyor"
+      },
+      {
+        "text": "right now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "is baking",
+      "are baking",
+      "am baking",
+      "bakes"
+    ],
+    "correct": 0,
+    "explanation": "'Emma' için doğru form 'is baking' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "The cat",
+        "tr": "Kedi"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "sleeping on the sofa",
+        "tr": "kanepede uyuyor"
+      },
+      {
+        "text": "now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "is sleeping",
+      "are sleeping",
+      "am sleeping",
+      "sleeps"
+    ],
+    "correct": 0,
+    "explanation": "'The cat' için doğru kullanım 'is sleeping' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "I",
+        "tr": "Ben"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "driving to work",
+        "tr": "işe gidiyor"
+      },
+      {
+        "text": "now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "am driving",
+      "is driving",
+      "are driving",
+      "drive"
+    ],
+    "correct": 0,
+    "explanation": "'I' için doğru form 'am driving' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "You",
+        "tr": "Sen/Siz"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "cleaning your room",
+        "tr": "odanı temizliyor"
+      },
+      {
+        "text": "now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "are cleaning",
+      "am cleaning",
+      "is cleaning",
+      "clean"
+    ],
+    "correct": 0,
+    "explanation": "'You' için doğru yapı 'are cleaning' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "He",
+        "tr": "O (erkek)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "jogging in the park",
+        "tr": "parkta koşuyor"
+      },
+      {
+        "text": "now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "is jogging",
+      "are jogging",
+      "am jogging",
+      "jogs"
+    ],
+    "correct": 0,
+    "explanation": "'He' için present continuous 'is jogging' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "They",
+        "tr": "Onlar"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "playing chess",
+        "tr": "satranç oynuyor"
+      },
+      {
+        "text": "now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "are playing",
+      "is playing",
+      "am playing",
+      "play"
+    ],
+    "correct": 0,
+    "explanation": "'They' için doğru form 'are playing' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "I",
+        "tr": "Ben"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "listening to music",
+        "tr": "müzik dinliyor"
+      },
+      {
+        "text": "now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "am listening",
+      "is listening",
+      "are listening",
+      "not listening"
+    ],
+    "correct": 0,
+    "explanation": "'I' öznesi için doğru form 'am listening' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "You",
+        "tr": "Sen/Siz"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "studying history",
+        "tr": "tarih çalışıyor"
+      },
+      {
+        "text": "now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "are studying",
+      "is studying",
+      "am studying",
+      "study"
+    ],
+    "correct": 0,
+    "explanation": "'You' için doğru kullanım 'are studying' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "He",
+        "tr": "O (erkek)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "playing the piano",
+        "tr": "piyano çalıyor"
+      },
+      {
+        "text": "now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "is playing",
+      "are playing",
+      "am playing",
+      "plays"
+    ],
+    "correct": 0,
+    "explanation": "'He' için present continuous 'is playing' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "She",
+        "tr": "O (kadın)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "reading a novel",
+        "tr": "roman okuyor"
+      },
+      {
+        "text": "now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "is reading",
+      "are reading",
+      "am reading",
+      "reads"
+    ],
+    "correct": 0,
+    "explanation": "'She' için doğru form 'is reading' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "It",
+        "tr": "O (hava)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "raining",
+        "tr": "yağmur yağıyor"
+      },
+      {
+        "text": "now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "is raining",
+      "are raining",
+      "am raining",
+      "rains"
+    ],
+    "correct": 0,
+    "explanation": "'It' için doğru yapı 'is raining' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "We",
+        "tr": "Biz"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "playing the game",
+        "tr": "oyunu oynuyor"
+      },
+      {
+        "text": "now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "are playing",
+      "is playing",
+      "am playing",
+      "play"
+    ],
+    "correct": 0,
+    "explanation": "'We' için doğru form 'are playing' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "They",
+        "tr": "Onlar"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "watching a movie",
+        "tr": "film izliyor"
+      },
+      {
+        "text": "now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "are watching",
+      "is watching",
+      "am watching",
+      "watch"
+    ],
+    "correct": 0,
+    "explanation": "'They' için present continuous 'are watching' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "Emma",
+        "tr": "Emma"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "talking to her friend",
+        "tr": "arkadaşıyla konuşuyor"
+      },
+      {
+        "text": "now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "is not",
+      "are not",
+      "am not",
+      "not is"
+    ],
+    "correct": 0,
+    "explanation": "Olumsuz cümlede 'Emma' için doğru yapı 'is not talking to her friend' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "The students",
+        "tr": "Öğrenciler"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "taking the test",
+        "tr": "sınava giriyor"
+      },
+      {
+        "text": "now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "are not",
+      "is not",
+      "am not",
+      "not are"
+    ],
+    "correct": 0,
+    "explanation": "Çoğul özne 'the students' için olumsuz yapı 'are not taking' şeklinde kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "He",
+        "tr": "O (erkek)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "playing video games",
+        "tr": "video oyunu oynamıyor"
+      },
+      {
+        "text": "now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "is not",
+      "are not",
+      "am not",
+      "not is"
+    ],
+    "correct": 0,
+    "explanation": "'He' için olumsuz cümlede doğru kullanım 'is not playing video games' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "She",
+        "tr": "O (kadın)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "studying for the exam",
+        "tr": "sınav için çalışmıyor"
+      },
+      {
+        "text": "now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "is not",
+      "are not",
+      "am not",
+      "not is"
+    ],
+    "correct": 0,
+    "explanation": "'She' için olumsuz cümlede doğru form 'is not studying for the exam' dır."
+  },
+  {
+    "question": [
+      {
+        "text": "It",
+        "tr": "O (cihaz)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "working properly",
+        "tr": "doğru çalışmıyor"
+      },
+      {
+        "text": "now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "is not",
+      "are not",
+      "am not",
+      "not is"
+    ],
+    "correct": 0,
+    "explanation": "'It' için olumsuz kullanım 'is not working properly' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "We",
+        "tr": "Biz"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "moving to a new city",
+        "tr": "yeni bir şehre taşınmıyor"
+      },
+      {
+        "text": "now",
+        "tr": "şu anda"
+      }
+    ],
+    "options": [
+      "are not",
+      "is not",
+      "am not",
+      "not are"
+    ],
+    "correct": 0,
+    "explanation": "'We' için doğru olumsuz yapı 'are not moving' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "Am",
+        "tr": "___"
+      },
+      {
+        "text": "I",
+        "tr": "Ben"
+      },
+      {
+        "text": "reading a book",
+        "tr": "bir kitap okuyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Am",
+      "Is",
+      "Are",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "Soru cümlesinde 'I' için doğru yardımcı fiil 'Am' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "you",
+        "tr": "Sen/Siz"
+      },
+      {
+        "text": "writing an email",
+        "tr": "bir e-posta yazıyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Are",
+      "Is",
+      "Am",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'You' için soru formu 'Are you writing an email?' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "he",
+        "tr": "O (erkek)"
+      },
+      {
+        "text": "playing the guitar",
+        "tr": "gitar çalıyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Is",
+      "Are",
+      "Am",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'He' için doğru soru formu 'Is he playing the guitar?' dır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "she",
+        "tr": "O (kadın)"
+      },
+      {
+        "text": "cooking dinner",
+        "tr": "akşam yemeği pişiriyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Is",
+      "Are",
+      "Am",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'She' için doğru soru formu 'Is she cooking dinner?' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "it",
+        "tr": "O (hava)"
+      },
+      {
+        "text": "raining",
+        "tr": "yağmur yağıyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Is",
+      "Are",
+      "Am",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'It' için doğru soru formu 'Is it raining?' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "we",
+        "tr": "Biz"
+      },
+      {
+        "text": "watching a movie",
+        "tr": "film izliyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Are",
+      "Is",
+      "Am",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'We' için doğru soru formu 'Are we watching a movie?' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "they",
+        "tr": "Onlar"
+      },
+      {
+        "text": "listening to music",
+        "tr": "müzik dinliyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Are",
+      "Is",
+      "Am",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'They' için doğru soru formu 'Are they listening to music?' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "John",
+        "tr": "John"
+      },
+      {
+        "text": "swimming in the pool",
+        "tr": "havuzda yüzüyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Is",
+      "Are",
+      "Am",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'John' için doğru soru formu 'Is John swimming in the pool?' dur."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "Lisa",
+        "tr": "Lisa"
+      },
+      {
+        "text": "dancing gracefully",
+        "tr": "zarifçe dans ediyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Is",
+      "Are",
+      "Am",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'Lisa' için doğru soru formu 'Is Lisa dancing gracefully?' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the dog",
+        "tr": "Köpek"
+      },
+      {
+        "text": "running fast",
+        "tr": "hızlı koşuyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Is",
+      "Are",
+      "Am",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'The dog' için doğru soru formu 'Is the dog running fast?' tir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "my friends",
+        "tr": "Arkadaşlarım"
+      },
+      {
+        "text": "studying English",
+        "tr": "İngilizce çalışıyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Are",
+      "Is",
+      "Am",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'My friends' için doğru soru formu 'Are my friends studying English?' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the teacher",
+        "tr": "Öğretmen"
+      },
+      {
+        "text": "explaining the lesson",
+        "tr": "dersi açıklıyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Is",
+      "Are",
+      "Am",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'The teacher' için doğru soru formu 'Is the teacher explaining the lesson?' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "we",
+        "tr": "Biz"
+      },
+      {
+        "text": "having lunch together",
+        "tr": "birlikte öğle yemeği yiyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Are",
+      "Is",
+      "Am",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'We' için doğru soru formu 'Are we having lunch together?' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "they",
+        "tr": "Onlar"
+      },
+      {
+        "text": "building a new house",
+        "tr": "yeni bir ev inşa ediyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Are",
+      "Is",
+      "Am",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'They' için doğru soru formu 'Are they building a new house?' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "I",
+        "tr": "Ben"
+      },
+      {
+        "text": "practicing yoga",
+        "tr": "yoga yapıyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Am",
+      "Is",
+      "Are",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'I' için doğru soru formu 'Am I practicing yoga?' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "she",
+        "tr": "O (kadın)"
+      },
+      {
+        "text": "painting a picture",
+        "tr": "bir resim çiziyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Is",
+      "Are",
+      "Am",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'She' için doğru soru formu 'Is she painting a picture?' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the children",
+        "tr": "Çocuklar"
+      },
+      {
+        "text": "playing in the park",
+        "tr": "parkta oynuyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Are",
+      "Is",
+      "Am",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'The children' için doğru soru formu 'Are the children playing in the park?' tir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "Mike",
+        "tr": "Mike"
+      },
+      {
+        "text": "fixing the car",
+        "tr": "arabayı tamir ediyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Is",
+      "Are",
+      "Am",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'Mike' için doğru soru formu 'Is Mike fixing the car?' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "Anna",
+        "tr": "Anna"
+      },
+      {
+        "text": "taking photos",
+        "tr": "fotoğraf çekiyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Is",
+      "Are",
+      "Am",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'Anna' için doğru soru formu 'Is Anna taking photos?' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the kids",
+        "tr": "Çocuklar"
+      },
+      {
+        "text": "drawing pictures",
+        "tr": "resim çiziyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Are",
+      "Is",
+      "Am",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'The kids' için doğru soru formu 'Are the kids drawing pictures?' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "I",
+        "tr": "Ben"
+      },
+      {
+        "text": "listening to the radio",
+        "tr": "radyoyu dinliyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Am",
+      "Is",
+      "Are",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'I' için doğru soru formu 'Am I listening to the radio?' dur."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "you",
+        "tr": "Sen/Siz"
+      },
+      {
+        "text": "reading a newspaper",
+        "tr": "gazete okuyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Are",
+      "Is",
+      "Am",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'You' için doğru soru formu 'Are you reading a newspaper?' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "he",
+        "tr": "O (erkek)"
+      },
+      {
+        "text": "studying math",
+        "tr": "matematik çalışıyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Is",
+      "Are",
+      "Am",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'He' için doğru soru formu 'Is he studying math?' tir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "she",
+        "tr": "O (kadın)"
+      },
+      {
+        "text": "talking on the phone",
+        "tr": "telefonda konuşuyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Is",
+      "Are",
+      "Am",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'She' için doğru soru formu 'Is she talking on the phone?' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "it",
+        "tr": "O (hava)"
+      },
+      {
+        "text": "snowing outside",
+        "tr": "dışarıda kar yağıyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Is",
+      "Are",
+      "Am",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'It' için doğru soru formu 'Is it snowing outside?' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "we",
+        "tr": "Biz"
+      },
+      {
+        "text": "having a meeting",
+        "tr": "toplantı yapıyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Are",
+      "Is",
+      "Am",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'We' için doğru soru formu 'Are we having a meeting?' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "they",
+        "tr": "Onlar"
+      },
+      {
+        "text": "traveling by train",
+        "tr": "trenle seyahat ediyor"
+      },
+      {
+        "text": "today?",
+        "tr": "bugün?"
+      }
+    ],
+    "options": [
+      "Are",
+      "Is",
+      "Am",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'They' için doğru soru formu 'Are they traveling by train?' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "Emma",
+        "tr": "Emma"
+      },
+      {
+        "text": "baking a cake",
+        "tr": "kek pişiriyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Is",
+      "Are",
+      "Am",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'Emma' için doğru soru formu 'Is Emma baking a cake?' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the cat",
+        "tr": "Kedi"
+      },
+      {
+        "text": "sleeping on the sofa",
+        "tr": "kanepede uyuyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Is",
+      "Are",
+      "Am",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'The cat' için doğru soru formu 'Is the cat sleeping on the sofa?' dur."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "I",
+        "tr": "Ben"
+      },
+      {
+        "text": "driving to work",
+        "tr": "işe gidiyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Am",
+      "Is",
+      "Are",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'I' için doğru soru formu 'Am I driving to work?' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "you",
+        "tr": "Sen/Siz"
+      },
+      {
+        "text": "cleaning your room",
+        "tr": "odanı temizliyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Are",
+      "Is",
+      "Am",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'You' için doğru soru formu 'Are you cleaning your room?' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "he",
+        "tr": "O (erkek)"
+      },
+      {
+        "text": "jogging in the park",
+        "tr": "parkta koşuyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Is",
+      "Are",
+      "Am",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'He' için doğru soru formu 'Is he jogging in the park?' tir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "they",
+        "tr": "Onlar"
+      },
+      {
+        "text": "playing chess",
+        "tr": "satranç oynuyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Are",
+      "Is",
+      "Am",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'They' için doğru soru formu 'Are they playing chess?' dir."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "I",
+        "tr": "Ben"
+      },
+      {
+        "text": "listening to music",
+        "tr": "müzik dinliyor"
+      },
+      {
+        "text": "now?",
+        "tr": "şu anda?"
+      }
+    ],
+    "options": [
+      "Am",
+      "Is",
+      "Are",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "'I' için doğru soru formu 'Am I listening to music?' dir."
+  }
+]

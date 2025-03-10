@@ -1,0 +1,13 @@
+[
+  {
+    "question": [
+      { "text": "He", "tr": "O (erkek)" },
+      { "text": "___", "tr": "___" },
+      { "text": "a book", "tr": "bir kitap" },
+      { "text": "every week", "tr": "her hafta" }
+    ],
+    "options": ["reads", "read", "reading", "wrote"],
+    "correct": 0,
+    "explanation": "Simple Present tense kullanılır çünkü düzenli bir eylemden bahsediliyor. Özne 'he' olduğundan fiile -s eki gelir."
+  }
+]

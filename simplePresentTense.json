@@ -1,0 +1,3406 @@
+[
+  {
+    "question": [
+      {
+        "text": "He",
+        "tr": "O (erkek)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "a book",
+        "tr": "bir kitap"
+      },
+      {
+        "text": "every week",
+        "tr": "her hafta"
+      }
+    ],
+    "options": [
+      "reads",
+      "read",
+      "reading",
+      "wrote"
+    ],
+    "correct": 0,
+    "explanation": "Simple Present tense kullanılır çünkü düzenli bir eylemden bahsediliyor. Özne 'he' olduğundan fiile -s eki gelir."
+  },
+  {
+    "question": [
+      {
+        "text": "They",
+        "tr": "Onlar"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "to school",
+        "tr": "okula"
+      },
+      {
+        "text": "every day",
+        "tr": "her gün"
+      }
+    ],
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "went"
+    ],
+    "correct": 0,
+    "explanation": "Simple Present tense kullanılır çünkü genel bir eylemden bahsediliyor. Özne 'they' olduğundan fiile -s eki gelmez."
+  },
+  {
+    "question": [
+      {
+        "text": "She",
+        "tr": "O (kadın)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "music",
+        "tr": "müzik"
+      },
+      {
+        "text": "every night",
+        "tr": "her gece"
+      }
+    ],
+    "options": [
+      "listens",
+      "listen",
+      "listened",
+      "listening"
+    ],
+    "correct": 0,
+    "explanation": "Simple Present tense kullanılır çünkü düzenli bir eylemden bahsediliyor. Özne 'she' olduğundan fiile -s eki gelir."
+  },
+  {
+    "question": [
+      {
+        "text": "We",
+        "tr": "Biz"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "TV",
+        "tr": "televizyon"
+      },
+      {
+        "text": "on weekends",
+        "tr": "hafta sonları"
+      }
+    ],
+    "options": [
+      "watch",
+      "watches",
+      "watching",
+      "watched"
+    ],
+    "correct": 0,
+    "explanation": "Simple Present tense kullanılır çünkü düzenli bir eylemden bahsediliyor. Özne 'we' olduğundan fiile -s eki gelmez."
+  },
+  {
+    "question": [
+      {
+        "text": "It",
+        "tr": "O (cansız/hayvan)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "a sound",
+        "tr": "bir ses"
+      },
+      {
+        "text": "every time",
+        "tr": "her seferinde"
+      }
+    ],
+    "options": [
+      "makes",
+      "make",
+      "making",
+      "made"
+    ],
+    "correct": 0,
+    "explanation": "Simple Present tense kullanılır çünkü genel bir durumdan bahsediliyor. Özne 'it' olduğundan fiile -s eki gelir."
+  },
+  {
+    "question": [
+      {
+        "text": "I",
+        "tr": "Ben"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "coffee",
+        "tr": "kahve"
+      },
+      {
+        "text": "every morning",
+        "tr": "her sabah"
+      }
+    ],
+    "options": [
+      "drink",
+      "drinks",
+      "drinking",
+      "drank"
+    ],
+    "correct": 0,
+    "explanation": "Simple Present tense kullanılır çünkü düzenli bir eylemden bahsediliyor. Özne 'I' olduğundan fiile -s eki gelmez."
+  },
+  {
+    "question": [
+      {
+        "text": "You",
+        "tr": "Sen"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "sports",
+        "tr": "spor"
+      },
+      {
+        "text": "every week",
+        "tr": "her hafta"
+      }
+    ],
+    "options": [
+      "play",
+      "plays",
+      "playing",
+      "played"
+    ],
+    "correct": 0,
+    "explanation": "Simple Present tense kullanılır çünkü düzenli bir eylemden bahsediliyor. Özne 'you' olduğundan fiile -s eki gelmez."
+  },
+  {
+    "question": [
+      {
+        "text": "She",
+        "tr": "O (kadın)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "dishes",
+        "tr": "bulaşıklar"
+      },
+      {
+        "text": "after dinner",
+        "tr": "akşam yemeğinden sonra"
+      }
+    ],
+    "options": [
+      "washes",
+      "wash",
+      "washing",
+      "washed"
+    ],
+    "correct": 0,
+    "explanation": "Simple Present tense kullanılır çünkü düzenli bir eylemden bahsediliyor. Özne 'she' olduğundan fiile -s eki gelir."
+  },
+  {
+    "question": [
+      {
+        "text": "They",
+        "tr": "Onlar"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "homework",
+        "tr": "ödev"
+      },
+      {
+        "text": "every evening",
+        "tr": "her akşam"
+      }
+    ],
+    "options": [
+      "do",
+      "does",
+      "doing",
+      "did"
+    ],
+    "correct": 0,
+    "explanation": "Simple Present tense kullanılır çünkü düzenli bir eylemden bahsediliyor. Özne 'they' olduğundan fiile -s eki gelmez."
+  },
+  {
+    "question": [
+      {
+        "text": "He",
+        "tr": "O (erkek)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "to bed early",
+        "tr": "erken yatar"
+      },
+      {
+        "text": "on weekdays",
+        "tr": "hafta içi günlerde"
+      }
+    ],
+    "options": [
+      "goes",
+      "go",
+      "going",
+      "went"
+    ],
+    "correct": 0,
+    "explanation": "Simple Present tense kullanılır çünkü düzenli bir eylemden bahsediliyor. Özne 'he' olduğundan fiile -s eki gelir."
+  },
+  {
+    "question": [
+      {
+        "text": "He",
+        "tr": "O (erkek)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "like football",
+        "tr": "futboldan hoşlanır"
+      }
+    ],
+    "options": [
+      "doesn't",
+      "don't",
+      "didn't",
+      "won't"
+    ],
+    "correct": 0,
+    "explanation": "Simple Present tense kullanılır çünkü düzenli bir durumdan bahsediliyor. Özne 'he' olduğundan yardımcı fiil 'doesn't' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "They",
+        "tr": "Onlar"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "speak Spanish",
+        "tr": "İspanyolca konuşur"
+      }
+    ],
+    "options": [
+      "doesn't",
+      "don't",
+      "didn't",
+      "can't"
+    ],
+    "correct": 1,
+    "explanation": "Simple Present tense kullanılır çünkü düzenli bir eylemden bahsediliyor. Özne 'they' olduğundan yardımcı fiil 'don't' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "She",
+        "tr": "O (kadın)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "play basketball",
+        "tr": "basketbol oynar"
+      }
+    ],
+    "options": [
+      "doesn't",
+      "don't",
+      "isn't",
+      "didn't"
+    ],
+    "correct": 0,
+    "explanation": "Simple Present tense kullanılır çünkü düzenli bir eylemden bahsediliyor. Özne 'she' olduğundan yardımcı fiil 'doesn't' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "We",
+        "tr": "Biz"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "eat fish",
+        "tr": "balık yeriz"
+      }
+    ],
+    "options": [
+      "doesn't",
+      "don't",
+      "can't",
+      "won't"
+    ],
+    "correct": 1,
+    "explanation": "Simple Present tense kullanılır çünkü düzenli bir durumdan bahsediliyor. Özne 'we' olduğundan yardımcı fiil 'don't' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "It",
+        "tr": "O (cansız/hayvan)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "rain often",
+        "tr": "sık sık yağmur yağar"
+      }
+    ],
+    "options": [
+      "doesn't",
+      "don't",
+      "isn't",
+      "won't"
+    ],
+    "correct": 0,
+    "explanation": "Simple Present tense kullanılır çünkü genel bir durumdan bahsediliyor. Özne 'it' olduğundan yardımcı fiil 'doesn't' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "I",
+        "tr": "Ben"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "drink tea",
+        "tr": "çay içerim"
+      }
+    ],
+    "options": [
+      "doesn't",
+      "don't",
+      "didn't",
+      "won't"
+    ],
+    "correct": 1,
+    "explanation": "Simple Present tense kullanılır çünkü düzenli bir eylemden bahsediliyor. Özne 'I' olduğundan yardımcı fiil 'don't' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "You",
+        "tr": "Sen"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "study hard",
+        "tr": "çok çalışırsın"
+      }
+    ],
+    "options": [
+      "doesn't",
+      "don't",
+      "isn't",
+      "can't"
+    ],
+    "correct": 1,
+    "explanation": "Simple Present tense kullanılır çünkü düzenli bir eylemden bahsediliyor. Özne 'you' olduğundan yardımcı fiil 'don't' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "She",
+        "tr": "O (kadın)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "wake up early",
+        "tr": "erken uyanır"
+      }
+    ],
+    "options": [
+      "doesn't",
+      "don't",
+      "isn't",
+      "won't"
+    ],
+    "correct": 0,
+    "explanation": "Simple Present tense kullanılır çünkü düzenli bir durumdan bahsediliyor. Özne 'she' olduğundan yardımcı fiil 'doesn't' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "They",
+        "tr": "Onlar"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "help each other",
+        "tr": "birbirlerine yardım ederler"
+      }
+    ],
+    "options": [
+      "doesn't",
+      "don't",
+      "didn't",
+      "can't"
+    ],
+    "correct": 1,
+    "explanation": "Simple Present tense kullanılır çünkü düzenli bir eylemden bahsediliyor. Özne 'they' olduğundan yardımcı fiil 'don't' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "He",
+        "tr": "O (erkek)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "write poems",
+        "tr": "şiir yazar"
+      }
+    ],
+    "options": [
+      "doesn't",
+      "don't",
+      "isn't",
+      "won't"
+    ],
+    "correct": 0,
+    "explanation": "Simple Present tense kullanılır çünkü düzenli bir durumdan bahsediliyor. Özne 'he' olduğundan yardımcı fiil 'doesn't' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "she",
+        "tr": "o (kadın)"
+      },
+      {
+        "text": "drink coffee",
+        "tr": "kahve içer"
+      },
+      {
+        "text": "every morning?",
+        "tr": "her sabah?"
+      }
+    ],
+    "options": [
+      "Does",
+      "Do",
+      "Did",
+      "Is"
+    ],
+    "correct": 0,
+    "explanation": "Simple Present tense kullanılır. Özne 'she' olduğunda soru formu için 'Does' yardımcı fiili kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "they",
+        "tr": "onlar"
+      },
+      {
+        "text": "go to school",
+        "tr": "okula gider"
+      },
+      {
+        "text": "every day?",
+        "tr": "her gün?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Are"
+    ],
+    "correct": 0,
+    "explanation": "Simple Present tense kullanılır. Özne 'they' olduğunda soru formu için 'Do' yardımcı fiili kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "he",
+        "tr": "o (erkek)"
+      },
+      {
+        "text": "like football",
+        "tr": "futboldan hoşlanır"
+      },
+      {
+        "text": "on weekends?",
+        "tr": "hafta sonları?"
+      }
+    ],
+    "options": [
+      "Does",
+      "Do",
+      "Did",
+      "Is"
+    ],
+    "correct": 0,
+    "explanation": "Simple Present tense kullanılır. Özne 'he' olduğunda soru formu için 'Does' yardımcı fiili kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "we",
+        "tr": "biz"
+      },
+      {
+        "text": "watch TV",
+        "tr": "televizyon izler"
+      },
+      {
+        "text": "at night?",
+        "tr": "geceleri?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Are"
+    ],
+    "correct": 0,
+    "explanation": "Simple Present tense kullanılır. Özne 'we' olduğunda soru formu için 'Do' yardımcı fiili kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "it",
+        "tr": "o (cansız/hayvan)"
+      },
+      {
+        "text": "rain often",
+        "tr": "sık sık yağmur yağar"
+      },
+      {
+        "text": "in summer?",
+        "tr": "yazın?"
+      }
+    ],
+    "options": [
+      "Does",
+      "Do",
+      "Did",
+      "Is"
+    ],
+    "correct": 0,
+    "explanation": "Simple Present tense kullanılır. Özne 'it' olduğunda soru formu için 'Does' yardımcı fiili kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "you",
+        "tr": "sen"
+      },
+      {
+        "text": "play sports",
+        "tr": "spor yapar"
+      },
+      {
+        "text": "every week?",
+        "tr": "her hafta?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Are"
+    ],
+    "correct": 0,
+    "explanation": "Simple Present tense kullanılır. Özne 'you' olduğunda soru formu için 'Do' yardımcı fiili kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "she",
+        "tr": "o (kadın)"
+      },
+      {
+        "text": "wash dishes",
+        "tr": "bulaşıkları yıkar"
+      },
+      {
+        "text": "after dinner?",
+        "tr": "akşam yemeğinden sonra?"
+      }
+    ],
+    "options": [
+      "Does",
+      "Do",
+      "Did",
+      "Is"
+    ],
+    "correct": 0,
+    "explanation": "Simple Present tense kullanılır. Özne 'she' olduğunda soru formu için 'Does' yardımcı fiili kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "they",
+        "tr": "onlar"
+      },
+      {
+        "text": "do their homework",
+        "tr": "ödevlerini yapar"
+      },
+      {
+        "text": "every night?",
+        "tr": "her gece?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Are"
+    ],
+    "correct": 0,
+    "explanation": "Simple Present tense kullanılır. Özne 'they' olduğunda soru formu için 'Do' yardımcı fiili kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "he",
+        "tr": "o (erkek)"
+      },
+      {
+        "text": "go to bed early",
+        "tr": "erken yatar"
+      },
+      {
+        "text": "on weekdays?",
+        "tr": "hafta içi günlerde?"
+      }
+    ],
+    "options": [
+      "Does",
+      "Do",
+      "Did",
+      "Is"
+    ],
+    "correct": 0,
+    "explanation": "Simple Present tense kullanılır. Özne 'he' olduğunda soru formu için 'Does' yardımcı fiili kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "we",
+        "tr": "biz"
+      },
+      {
+        "text": "have breakfast",
+        "tr": "kahvaltı yapar"
+      },
+      {
+        "text": "together?",
+        "tr": "birlikte?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Are"
+    ],
+    "correct": 0,
+    "explanation": "Simple Present tense kullanılır. Özne 'we' olduğunda soru formu için 'Do' yardımcı fiili kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "He",
+        "tr": "O (erkek)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "a book",
+        "tr": "bir kitap"
+      },
+      {
+        "text": "every week",
+        "tr": "her hafta"
+      }
+    ],
+    "options": [
+      "reads",
+      "read",
+      "reading",
+      "wrote"
+    ],
+    "correct": 0,
+    "explanation": "Simple Present tense kullanılır çünkü düzenli bir eylemden bahsediliyor. Özne 'he' olduğundan fiile -s eki gelir."
+  },
+  {
+    "question": [
+      {
+        "text": "She",
+        "tr": "O (kadın)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "to work",
+        "tr": "işe"
+      },
+      {
+        "text": "by bus",
+        "tr": "otobüsle"
+      }
+    ],
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "went"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs öznesi için fiile -es takısı eklenir. Doğru cevap 'goes' şeklindedir."
+  },
+  {
+    "question": [
+      {
+        "text": "They",
+        "tr": "Onlar"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "tennis",
+        "tr": "tenis"
+      },
+      {
+        "text": "on weekends",
+        "tr": "haftasonları"
+      }
+    ],
+    "options": [
+      "plays",
+      "play",
+      "playing",
+      "played"
+    ],
+    "correct": 1,
+    "explanation": "Çoğul özne kullanıldığından fiilin yalın hali olan 'play' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "I",
+        "tr": "Ben"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "coffee",
+        "tr": "kahve"
+      },
+      {
+        "text": "every morning",
+        "tr": "her sabah"
+      }
+    ],
+    "options": [
+      "drinks",
+      "drink",
+      "drinking",
+      "drank"
+    ],
+    "correct": 1,
+    "explanation": "Birinci tekil şahıs için fiilin yalın hali kullanılır; bu nedenle 'drink' doğrudur."
+  },
+  {
+    "question": [
+      {
+        "text": "We",
+        "tr": "Biz"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "English lessons",
+        "tr": "İngilizce derslerini"
+      },
+      {
+        "text": "on Tuesdays",
+        "tr": "Salı günleri"
+      }
+    ],
+    "options": [
+      "has",
+      "have",
+      "having",
+      "had"
+    ],
+    "correct": 1,
+    "explanation": "Çoğul özne 'we' kullanıldığından fiilin yalın hali 'have' doğru cevaptır."
+  },
+  {
+    "question": [
+      {
+        "text": "He",
+        "tr": "O (erkek)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "like spicy food",
+        "tr": "acı yiyecekleri"
+      }
+    ],
+    "options": [
+      "don't",
+      "doesn't",
+      "isn't",
+      "can't"
+    ],
+    "correct": 1,
+    "explanation": "Olumsuz cümlede, üçüncü tekil şahıs 'he' için 'does not' (kısaltması 'doesn't') kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "They",
+        "tr": "Onlar"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "go to school",
+        "tr": "okula giderler"
+      },
+      {
+        "text": "on weekends",
+        "tr": "haftasonları"
+      }
+    ],
+    "options": [
+      "doesn't",
+      "don't",
+      "aren't",
+      "can't"
+    ],
+    "correct": 1,
+    "explanation": "Çoğul özne için olumsuz cümlede 'do not' (kısaltması 'don't') kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "I",
+        "tr": "Ben"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "eat meat",
+        "tr": "et yerim"
+      }
+    ],
+    "options": [
+      "don't",
+      "doesn't",
+      "not",
+      "didn't"
+    ],
+    "correct": 0,
+    "explanation": "Birinci tekil şahıs için olumsuz cümlede 'do not' (kısaltması 'don't') kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "She",
+        "tr": "O (kadın)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "work on Sundays",
+        "tr": "Pazar günleri çalışır"
+      }
+    ],
+    "options": [
+      "don't",
+      "doesn't",
+      "not",
+      "didn't"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için olumsuz cümlede 'does not' (kısaltması 'doesn't') kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "We",
+        "tr": "Biz"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "like rainy weather",
+        "tr": "yağmurlu havayı severiz"
+      }
+    ],
+    "options": [
+      "doesn't",
+      "don't",
+      "not",
+      "can't"
+    ],
+    "correct": 1,
+    "explanation": "Çoğul özne için olumsuz cümlede 'do not' (kısaltması 'don't') kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "you",
+        "tr": "sen"
+      },
+      {
+        "text": "like chocolate?",
+        "tr": "çikolatayı sever misin?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Are",
+      "Did"
+    ],
+    "correct": 0,
+    "explanation": "Soru cümlesinde ikinci şahıs için 'do' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "he",
+        "tr": "o (erkek)"
+      },
+      {
+        "text": "work in an office?",
+        "tr": "ofiste mi çalışır?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Is",
+      "Did"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için soru cümlesinde 'does' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "they",
+        "tr": "onlar"
+      },
+      {
+        "text": "play football?",
+        "tr": "futbol oynarlar mı?"
+      }
+    ],
+    "options": [
+      "Does",
+      "Do",
+      "Did",
+      "Are"
+    ],
+    "correct": 1,
+    "explanation": "Çoğul özne için soru cümlesinde 'do' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "you",
+        "tr": "sen"
+      },
+      {
+        "text": "live in New York?",
+        "tr": "New York'ta yaşar mısın?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Are"
+    ],
+    "correct": 0,
+    "explanation": "İkinci şahıs için soru cümlesinde 'do' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "it",
+        "tr": "o (nesne/soyut)"
+      },
+      {
+        "text": "rain a lot here?",
+        "tr": "burada çok yağmur yağar mı?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Is"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil özne 'it' için soru cümlesinde 'does' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "they",
+        "tr": "onlar"
+      },
+      {
+        "text": "enjoy the party?",
+        "tr": "partiden hoşlanırlar mı?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Are"
+    ],
+    "correct": 0,
+    "explanation": "Çoğul özne için soru cümlesinde 'do' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "My friend",
+        "tr": "Arkadaşım"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "French very well",
+        "tr": "Fransızcayı çok iyi"
+      }
+    ],
+    "options": [
+      "speak",
+      "speaks",
+      "speaking",
+      "spoke"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için fiile -s takısı eklenir; doğru cevap 'speaks'tir."
+  },
+  {
+    "question": [
+      {
+        "text": "We",
+        "tr": "Biz"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "our homework",
+        "tr": "ödevimizi"
+      },
+      {
+        "text": "every day",
+        "tr": "her gün"
+      }
+    ],
+    "options": [
+      "do",
+      "does",
+      "doing",
+      "did"
+    ],
+    "correct": 0,
+    "explanation": "Çoğul özne için fiilin yalın hali 'do' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "She",
+        "tr": "O (kadın)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "breakfast",
+        "tr": "kahvaltısını"
+      },
+      {
+        "text": "at 7 a.m.",
+        "tr": "saat 7'de"
+      }
+    ],
+    "options": [
+      "eat",
+      "eats",
+      "eating",
+      "ate"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için fiile -s takısı eklenir; bu nedenle 'eats' doğrudur."
+  },
+  {
+    "question": [
+      {
+        "text": "They",
+        "tr": "Onlar"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "to music",
+        "tr": "müzik dinlerler"
+      },
+      {
+        "text": "in the evening",
+        "tr": "akşamları"
+      }
+    ],
+    "options": [
+      "listens",
+      "listening",
+      "listen",
+      "listened"
+    ],
+    "correct": 2,
+    "explanation": "Çoğul özne için fiilin yalın hali 'listen' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "I",
+        "tr": "Ben"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "every weekend",
+        "tr": "her hafta sonu"
+      }
+    ],
+    "options": [
+      "relaxes",
+      "relax",
+      "relaxing",
+      "relaxed"
+    ],
+    "correct": 1,
+    "explanation": "Birinci tekil şahıs için fiilin yalın hali 'relax' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "He",
+        "tr": "O (erkek)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "like vegetables",
+        "tr": "sebzeleri sever"
+      }
+    ],
+    "options": [
+      "don't",
+      "doesn't",
+      "not",
+      "didn't"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için olumsuz cümlede 'doesn't' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "They",
+        "tr": "Onlar"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "watch TV",
+        "tr": "televizyon izlerler"
+      },
+      {
+        "text": "on weekdays",
+        "tr": "hafta içi"
+      }
+    ],
+    "options": [
+      "doesn't",
+      "don't",
+      "not",
+      "won't"
+    ],
+    "correct": 1,
+    "explanation": "Çoğul özne için olumsuz cümlede 'don't' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "I",
+        "tr": "Ben"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "enjoy cold weather",
+        "tr": "soğuk havadan hoşlanmam"
+      }
+    ],
+    "options": [
+      "doesn't",
+      "don't",
+      "didn't",
+      "won't"
+    ],
+    "correct": 1,
+    "explanation": "Birinci tekil şahıs için olumsuz cümlede 'don't' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "She",
+        "tr": "O (kadın)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "drive to work",
+        "tr": "işe sürer"
+      }
+    ],
+    "options": [
+      "don't",
+      "doesn't",
+      "not",
+      "didn't"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için olumsuz cümlede 'doesn't' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "We",
+        "tr": "Biz"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "visit our relatives",
+        "tr": "akrabalarımızı ziyaret ederiz"
+      },
+      {
+        "text": "on holidays",
+        "tr": "tatillerde"
+      }
+    ],
+    "options": [
+      "doesn't",
+      "don't",
+      "not",
+      "won't"
+    ],
+    "correct": 1,
+    "explanation": "Çoğul özne için olumsuz cümlede 'don't' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "you",
+        "tr": "sen"
+      },
+      {
+        "text": "like your job?",
+        "tr": "işini sever misin?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Is"
+    ],
+    "correct": 1,
+    "explanation": "Soru cümlesinde üçüncü tekil şahıs 'she' gibi örneklerde 'does' kullanılır; burada soru öznesi 'you' olduğundan sonraki sorularda da uyum sağlanır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "they",
+        "tr": "onlar"
+      },
+      {
+        "text": "play the piano?",
+        "tr": "piyano çalarlar mı?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Are"
+    ],
+    "correct": 0,
+    "explanation": "Çoğul özne için soru cümlesinde 'do' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "you",
+        "tr": "sen"
+      },
+      {
+        "text": "read the newspaper?",
+        "tr": "gazeteyi okur musun?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Are"
+    ],
+    "correct": 0,
+    "explanation": "İkinci şahıs için soru cümlesinde 'do' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "it",
+        "tr": "o (nesne/soyut)"
+      },
+      {
+        "text": "snow in winter?",
+        "tr": "kışın kar yağar mı?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Is"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil özne için soru cümlesinde 'does' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "they",
+        "tr": "onlar"
+      },
+      {
+        "text": "enjoy the party?",
+        "tr": "partiden hoşlanırlar mı?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Are"
+    ],
+    "correct": 0,
+    "explanation": "Çoğul özne için soru cümlesinde 'do' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "My brother",
+        "tr": "Kardeşim"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "football",
+        "tr": "futbol"
+      },
+      {
+        "text": "every Saturday",
+        "tr": "her Cumartesi"
+      }
+    ],
+    "options": [
+      "play",
+      "plays",
+      "playing",
+      "played"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil özne için fiile -s eklenir; doğru cevap 'plays'tir."
+  },
+  {
+    "question": [
+      {
+        "text": "I",
+        "tr": "Ben"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "in a small town",
+        "tr": "küçük bir kasabada"
+      }
+    ],
+    "options": [
+      "lives",
+      "live",
+      "living",
+      "lived"
+    ],
+    "correct": 1,
+    "explanation": "Birinci tekil şahıs için fiilin yalın hali 'live' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "She",
+        "tr": "O (kadın)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "a letter",
+        "tr": "bir mektup"
+      },
+      {
+        "text": "to her friend",
+        "tr": "arkadaşına"
+      }
+    ],
+    "options": [
+      "write",
+      "writes",
+      "writing",
+      "wrote"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için fiile -s eklenir; doğru cevap 'writes'tir."
+  },
+  {
+    "question": [
+      {
+        "text": "They",
+        "tr": "Onlar"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "dinner",
+        "tr": "akşam yemeğini"
+      },
+      {
+        "text": "at a restaurant",
+        "tr": "bir restoranda"
+      }
+    ],
+    "options": [
+      "has",
+      "have",
+      "having",
+      "had"
+    ],
+    "correct": 1,
+    "explanation": "Çoğul özne için fiilin yalın hali 'have' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "We",
+        "tr": "Biz"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "our dog",
+        "tr": "köpeğimizi"
+      },
+      {
+        "text": "in the park",
+        "tr": "parkta"
+      }
+    ],
+    "options": [
+      "walk",
+      "walks",
+      "walking",
+      "walked"
+    ],
+    "correct": 0,
+    "explanation": "Çoğul özne için fiilin yalın hali 'walk' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The teacher",
+        "tr": "Öğretmen"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the lesson",
+        "tr": "dersi"
+      },
+      {
+        "text": "clearly",
+        "tr": "açıkça"
+      }
+    ],
+    "options": [
+      "explain",
+      "explains",
+      "explaining",
+      "explained"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için fiile -s eklenir; 'explains' doğrudur."
+  },
+  {
+    "question": [
+      {
+        "text": "I",
+        "tr": "Ben"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "breakfast at home",
+        "tr": "evde kahvaltı yaparım"
+      }
+    ],
+    "options": [
+      "has",
+      "have",
+      "having",
+      "had"
+    ],
+    "correct": 1,
+    "explanation": "Birinci tekil şahıs için fiilin yalın hali 'have' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "He",
+        "tr": "O (erkek)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "his car",
+        "tr": "arabasını"
+      },
+      {
+        "text": "every day",
+        "tr": "her gün"
+      }
+    ],
+    "options": [
+      "drive",
+      "drives",
+      "driving",
+      "drove"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için fiile -s eklenir; doğru cevap 'drives'tir."
+  },
+  {
+    "question": [
+      {
+        "text": "They",
+        "tr": "Onlar"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the news",
+        "tr": "haberleri"
+      },
+      {
+        "text": "on TV",
+        "tr": "televizyonda"
+      }
+    ],
+    "options": [
+      "watches",
+      "watch",
+      "watching",
+      "watched"
+    ],
+    "correct": 1,
+    "explanation": "Çoğul özne için fiilin yalın hali 'watch' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "She",
+        "tr": "O (kadın)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "in a beautiful house",
+        "tr": "güzel bir evde yaşar"
+      }
+    ],
+    "options": [
+      "live",
+      "lives",
+      "living",
+      "lived"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için fiile -s eklenir; doğru cevap 'lives'tir."
+  },
+  {
+    "question": [
+      {
+        "text": "I",
+        "tr": "Ben"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "books",
+        "tr": "kitaplar"
+      },
+      {
+        "text": "in my free time",
+        "tr": "boş zamanlarımda"
+      }
+    ],
+    "options": [
+      "read",
+      "reads",
+      "reading",
+      "readed"
+    ],
+    "correct": 0,
+    "explanation": "Birinci tekil şahıs için fiilin yalın hali 'read' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "He",
+        "tr": "O (erkek)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "very fast",
+        "tr": "çok hızlı"
+      }
+    ],
+    "options": [
+      "run",
+      "runs",
+      "running",
+      "ran"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için fiile -s eklenir; 'runs' doğrudur."
+  },
+  {
+    "question": [
+      {
+        "text": "We",
+        "tr": "Biz"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "music together",
+        "tr": "birlikte şarkı söyleriz"
+      }
+    ],
+    "options": [
+      "sing",
+      "sings",
+      "singing",
+      "sang"
+    ],
+    "correct": 0,
+    "explanation": "Çoğul özne için fiilin yalın hali 'sing' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "They",
+        "tr": "Onlar"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "in the morning",
+        "tr": "sabahları"
+      }
+    ],
+    "options": [
+      "exercises",
+      "exercise",
+      "exercising",
+      "exercised"
+    ],
+    "correct": 1,
+    "explanation": "Çoğul özne için fiilin yalın hali 'exercise' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "My sister",
+        "tr": "Kız kardeşim"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "to the gym",
+        "tr": "spor salonuna"
+      },
+      {
+        "text": "daily",
+        "tr": "her gün"
+      }
+    ],
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "went"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için fiile -es eklenir; doğru cevap 'goes'tir."
+  },
+  {
+    "question": [
+      {
+        "text": "I",
+        "tr": "Ben"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "my homework",
+        "tr": "ödevimi"
+      },
+      {
+        "text": "on time",
+        "tr": "zamanında"
+      }
+    ],
+    "options": [
+      "finish",
+      "finishes",
+      "finishing",
+      "finished"
+    ],
+    "correct": 0,
+    "explanation": "Birinci tekil şahıs için fiilin yalın hali 'finish' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "He",
+        "tr": "O (erkek)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "TV",
+        "tr": "televizyonu"
+      },
+      {
+        "text": "after dinner",
+        "tr": "akşam yemeğinden sonra"
+      }
+    ],
+    "options": [
+      "watch",
+      "watches",
+      "watching",
+      "watched"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için fiile -es eklenir; 'watches' doğrudur."
+  },
+  {
+    "question": [
+      {
+        "text": "We",
+        "tr": "Biz"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "to the market",
+        "tr": "pazara"
+      },
+      {
+        "text": "on Sundays",
+        "tr": "her Pazar"
+      }
+    ],
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "went"
+    ],
+    "correct": 0,
+    "explanation": "Çoğul özne için fiilin yalın hali 'go' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "She",
+        "tr": "O (kadın)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "a beautiful song",
+        "tr": "güzel bir şarkı"
+      }
+    ],
+    "options": [
+      "sing",
+      "sings",
+      "singing",
+      "sang"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için fiile -s eklenir; doğru cevap 'sings'tir."
+  },
+  {
+    "question": [
+      {
+        "text": "They",
+        "tr": "Onlar"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the project together",
+        "tr": "projeyi birlikte tamamlarlar"
+      }
+    ],
+    "options": [
+      "completes",
+      "complete",
+      "completing",
+      "completed"
+    ],
+    "correct": 1,
+    "explanation": "Çoğul özne için fiilin yalın hali 'complete' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "My parents",
+        "tr": "Ebeveynlerim"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "in a big city",
+        "tr": "büyük bir şehirde"
+      }
+    ],
+    "options": [
+      "lives",
+      "live",
+      "living",
+      "lived"
+    ],
+    "correct": 1,
+    "explanation": "Çoğul özne için fiilin yalın hali 'live' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "He",
+        "tr": "O (erkek)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "his room",
+        "tr": "odasını"
+      },
+      {
+        "text": "every Saturday",
+        "tr": "her Cumartesi"
+      }
+    ],
+    "options": [
+      "clean",
+      "cleans",
+      "cleaning",
+      "cleaned"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için fiile -s eklenir; doğru cevap 'cleans'tir."
+  },
+  {
+    "question": [
+      {
+        "text": "I",
+        "tr": "Ben"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "my bike",
+        "tr": "bisikletimle"
+      },
+      {
+        "text": "to work",
+        "tr": "işe giderim"
+      }
+    ],
+    "options": [
+      "rides",
+      "ride",
+      "riding",
+      "rode"
+    ],
+    "correct": 1,
+    "explanation": "Birinci tekil şahıs için fiilin yalın hali 'ride' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "She",
+        "tr": "O (kadın)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "a delicious cake",
+        "tr": "lezzetli bir kek"
+      }
+    ],
+    "options": [
+      "bake",
+      "bakes",
+      "baking",
+      "baked"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için fiile -s eklenir; doğru cevap 'bakes'tir."
+  },
+  {
+    "question": [
+      {
+        "text": "They",
+        "tr": "Onlar"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "new books",
+        "tr": "yeni kitaplar"
+      },
+      {
+        "text": "every month",
+        "tr": "her ay"
+      }
+    ],
+    "options": [
+      "buys",
+      "buy",
+      "buying",
+      "bought"
+    ],
+    "correct": 1,
+    "explanation": "Çoğul özne için fiilin yalın hali 'buy' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "We",
+        "tr": "Biz"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the garden",
+        "tr": "bahçeyi"
+      },
+      {
+        "text": "on sunny days",
+        "tr": "güneşli günlerde"
+      }
+    ],
+    "options": [
+      "water",
+      "waters",
+      "watering",
+      "watered"
+    ],
+    "correct": 0,
+    "explanation": "Çoğul özne için fiilin yalın hali 'water' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The student",
+        "tr": "Öğrenci"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "his notes",
+        "tr": "notlarını"
+      },
+      {
+        "text": "during class",
+        "tr": "ders sırasında"
+      }
+    ],
+    "options": [
+      "take",
+      "takes",
+      "taking",
+      "took"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için fiile -s eklenir; 'takes' doğrudur."
+  },
+  {
+    "question": [
+      {
+        "text": "I",
+        "tr": "Ben"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "my keys",
+        "tr": "anahtarlarımı"
+      },
+      {
+        "text": "every morning",
+        "tr": "her sabah"
+      }
+    ],
+    "options": [
+      "finds",
+      "find",
+      "finding",
+      "found"
+    ],
+    "correct": 1,
+    "explanation": "Birinci tekil şahıs için fiilin yalın hali 'find' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "She",
+        "tr": "O (kadın)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the newspaper",
+        "tr": "gazeteyi"
+      },
+      {
+        "text": "daily",
+        "tr": "günlük olarak"
+      }
+    ],
+    "options": [
+      "read",
+      "reads",
+      "reading",
+      "readed"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için fiile -s eklenir; doğru cevap 'reads'tir."
+  },
+  {
+    "question": [
+      {
+        "text": "They",
+        "tr": "Onlar"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "in a new apartment",
+        "tr": "yeni bir dairede"
+      }
+    ],
+    "options": [
+      "moves",
+      "move",
+      "moving",
+      "moved"
+    ],
+    "correct": 1,
+    "explanation": "Çoğul özne için fiilin yalın hali 'move' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "My brother",
+        "tr": "Kardeşim"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "enjoy fast food",
+        "tr": "hızlı yiyeceklerden hoşlanır"
+      }
+    ],
+    "options": [
+      "don't",
+      "doesn't",
+      "not",
+      "didn't"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için olumsuz cümlede 'doesn't' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "I",
+        "tr": "Ben"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "like rainy days",
+        "tr": "yağmurlu günleri sevmem"
+      }
+    ],
+    "options": [
+      "doesn't",
+      "don't",
+      "not",
+      "didn't"
+    ],
+    "correct": 1,
+    "explanation": "Birinci tekil şahıs için olumsuz cümlede 'don't' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "He",
+        "tr": "O (erkek)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "watch movies",
+        "tr": "film izlemez"
+      },
+      {
+        "text": "late at night",
+        "tr": "gece geç saatlerde"
+      }
+    ],
+    "options": [
+      "don't",
+      "doesn't",
+      "not",
+      "didn't"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için olumsuz cümlede 'doesn't' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "They",
+        "tr": "Onlar"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "buy expensive clothes",
+        "tr": "pahalı kıyafetler almazlar"
+      }
+    ],
+    "options": [
+      "doesn't",
+      "don't",
+      "not",
+      "didn't"
+    ],
+    "correct": 1,
+    "explanation": "Çoğul özne için olumsuz cümlede 'don't' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "We",
+        "tr": "Biz"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "listen to that radio station",
+        "tr": "o radyo istasyonunu dinlemezsiniz"
+      }
+    ],
+    "options": [
+      "doesn't",
+      "don't",
+      "not",
+      "didn't"
+    ],
+    "correct": 1,
+    "explanation": "Çoğul özne için olumsuz cümlede 'don't' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "you",
+        "tr": "sen"
+      },
+      {
+        "text": "like chocolate?",
+        "tr": "çikolatayı sever misin?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Are"
+    ],
+    "correct": 0,
+    "explanation": "İkinci şahıs için soru cümlesinde 'do' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "he",
+        "tr": "o (erkek)"
+      },
+      {
+        "text": "like his coffee black?",
+        "tr": "kahvesini siyah sever mi?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Is"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için soru cümlesinde 'does' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "you",
+        "tr": "sen"
+      },
+      {
+        "text": "need any help?",
+        "tr": "herhangi bir yardıma ihtiyaç var mı?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Are"
+    ],
+    "correct": 0,
+    "explanation": "İkinci şahıs için soru cümlesinde 'do' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "they",
+        "tr": "onlar"
+      },
+      {
+        "text": "finish their work on time?",
+        "tr": "işlerini zamanında bitirirler mi?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Are"
+    ],
+    "correct": 0,
+    "explanation": "Çoğul özne için soru cümlesinde 'do' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "she",
+        "tr": "o (kadın)"
+      },
+      {
+        "text": "work on weekends?",
+        "tr": "haftasonları çalışır mı?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Is"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için soru cümlesinde 'does' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "we",
+        "tr": "biz"
+      },
+      {
+        "text": "have enough time?",
+        "tr": "yeterli zamanımız var mı?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Are"
+    ],
+    "correct": 0,
+    "explanation": "Çoğul özne için soru cümlesinde 'do' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "it",
+        "tr": "o (nesne/soyut)"
+      },
+      {
+        "text": "seem difficult?",
+        "tr": "zor mu görünüyor?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Is"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için soru cümlesinde 'does' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "your brother",
+        "tr": "kardeşin"
+      },
+      {
+        "text": "like to swim?",
+        "tr": "yüzmeyi sever mi?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Is"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için soru cümlesinde 'does' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "they",
+        "tr": "onlar"
+      },
+      {
+        "text": "work every day?",
+        "tr": "her gün çalışırlar mı?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Are"
+    ],
+    "correct": 0,
+    "explanation": "Çoğul özne için soru cümlesinde 'do' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "you",
+        "tr": "sen"
+      },
+      {
+        "text": "study English regularly?",
+        "tr": "düzenli olarak İngilizce çalışır mısın?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Are"
+    ],
+    "correct": 0,
+    "explanation": "İkinci şahıs için soru cümlesinde 'do' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "he",
+        "tr": "o (erkek)"
+      },
+      {
+        "text": "visit his grandparents?",
+        "tr": "büyükanne ve büyükbabasını ziyaret eder mi?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Is"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için soru cümlesinde 'does' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "My parents",
+        "tr": "Ebeveynlerim"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "in a big city",
+        "tr": "büyük bir şehirde"
+      }
+    ],
+    "options": [
+      "lives",
+      "live",
+      "living",
+      "lived"
+    ],
+    "correct": 1,
+    "explanation": "Çoğul özne için fiilin yalın hali 'live' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "He",
+        "tr": "O (erkek)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "his room",
+        "tr": "odasını"
+      },
+      {
+        "text": "every Saturday",
+        "tr": "her Cumartesi"
+      }
+    ],
+    "options": [
+      "clean",
+      "cleans",
+      "cleaning",
+      "cleaned"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için fiile -s eklenir; doğru cevap 'cleans'tir."
+  },
+  {
+    "question": [
+      {
+        "text": "I",
+        "tr": "Ben"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "my bike",
+        "tr": "bisikletimle"
+      },
+      {
+        "text": "to work",
+        "tr": "işe giderim"
+      }
+    ],
+    "options": [
+      "rides",
+      "ride",
+      "riding",
+      "rode"
+    ],
+    "correct": 1,
+    "explanation": "Birinci tekil şahıs için fiilin yalın hali 'ride' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "She",
+        "tr": "O (kadın)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "a delicious cake",
+        "tr": "lezzetli bir kek"
+      }
+    ],
+    "options": [
+      "bake",
+      "bakes",
+      "baking",
+      "baked"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için fiile -s eklenir; doğru cevap 'bakes'tir."
+  },
+  {
+    "question": [
+      {
+        "text": "They",
+        "tr": "Onlar"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "new books",
+        "tr": "yeni kitaplar"
+      },
+      {
+        "text": "every month",
+        "tr": "her ay"
+      }
+    ],
+    "options": [
+      "buys",
+      "buy",
+      "buying",
+      "bought"
+    ],
+    "correct": 1,
+    "explanation": "Çoğul özne için fiilin yalın hali 'buy' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "We",
+        "tr": "Biz"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the garden",
+        "tr": "bahçeyi"
+      },
+      {
+        "text": "on sunny days",
+        "tr": "güneşli günlerde"
+      }
+    ],
+    "options": [
+      "water",
+      "waters",
+      "watering",
+      "watered"
+    ],
+    "correct": 0,
+    "explanation": "Çoğul özne için fiilin yalın hali 'water' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "The student",
+        "tr": "Öğrenci"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "his notes",
+        "tr": "notlarını"
+      },
+      {
+        "text": "during class",
+        "tr": "ders sırasında"
+      }
+    ],
+    "options": [
+      "take",
+      "takes",
+      "taking",
+      "took"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için fiile -s eklenir; 'takes' doğrudur."
+  },
+  {
+    "question": [
+      {
+        "text": "I",
+        "tr": "Ben"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "my keys",
+        "tr": "anahtarlarımı"
+      },
+      {
+        "text": "every morning",
+        "tr": "her sabah"
+      }
+    ],
+    "options": [
+      "finds",
+      "find",
+      "finding",
+      "found"
+    ],
+    "correct": 1,
+    "explanation": "Birinci tekil şahıs için fiilin yalın hali 'find' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "She",
+        "tr": "O (kadın)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "the newspaper",
+        "tr": "gazeteyi"
+      },
+      {
+        "text": "daily",
+        "tr": "günlük olarak"
+      }
+    ],
+    "options": [
+      "read",
+      "reads",
+      "reading",
+      "readed"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için fiile -s eklenir; doğru cevap 'reads'tir."
+  },
+  {
+    "question": [
+      {
+        "text": "They",
+        "tr": "Onlar"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "in a new apartment",
+        "tr": "yeni bir dairede"
+      }
+    ],
+    "options": [
+      "moves",
+      "move",
+      "moving",
+      "moved"
+    ],
+    "correct": 1,
+    "explanation": "Çoğul özne için fiilin yalın hali 'move' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "My brother",
+        "tr": "Kardeşim"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "enjoy fast food",
+        "tr": "hızlı yiyeceklerden hoşlanır"
+      }
+    ],
+    "options": [
+      "don't",
+      "doesn't",
+      "not",
+      "didn't"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için olumsuz cümlede 'doesn't' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "I",
+        "tr": "Ben"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "like rainy days",
+        "tr": "yağmurlu günleri sevmem"
+      }
+    ],
+    "options": [
+      "doesn't",
+      "don't",
+      "not",
+      "didn't"
+    ],
+    "correct": 1,
+    "explanation": "Birinci tekil şahıs için olumsuz cümlede 'don't' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "He",
+        "tr": "O (erkek)"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "watch movies",
+        "tr": "film izlemez"
+      },
+      {
+        "text": "late at night",
+        "tr": "gece geç saatlerde"
+      }
+    ],
+    "options": [
+      "don't",
+      "doesn't",
+      "not",
+      "didn't"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için olumsuz cümlede 'doesn't' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "They",
+        "tr": "Onlar"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "buy expensive clothes",
+        "tr": "pahalı kıyafetler almazlar"
+      }
+    ],
+    "options": [
+      "doesn't",
+      "don't",
+      "not",
+      "didn't"
+    ],
+    "correct": 1,
+    "explanation": "Çoğul özne için olumsuz cümlede 'don't' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "We",
+        "tr": "Biz"
+      },
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "listen to that radio station",
+        "tr": "o radyo istasyonunu dinlemezsiniz"
+      }
+    ],
+    "options": [
+      "doesn't",
+      "don't",
+      "not",
+      "didn't"
+    ],
+    "correct": 1,
+    "explanation": "Çoğul özne için olumsuz cümlede 'don't' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "your sister",
+        "tr": "kız kardeşin"
+      },
+      {
+        "text": "enjoy cooking?",
+        "tr": "yemek yapmaktan hoşlanır mı?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Is"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için soru cümlesinde 'does' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "you",
+        "tr": "sen"
+      },
+      {
+        "text": "go to the gym regularly?",
+        "tr": "düzenli olarak spor salonuna gider misin?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Are"
+    ],
+    "correct": 0,
+    "explanation": "İkinci şahıs için soru cümlesinde 'do' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "they",
+        "tr": "onlar"
+      },
+      {
+        "text": "know the way to the museum?",
+        "tr": "müzeye giden yolu bilirler mi?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Are"
+    ],
+    "correct": 0,
+    "explanation": "Çoğul özne için soru cümlesinde 'do' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "he",
+        "tr": "o (erkek)"
+      },
+      {
+        "text": "enjoy playing the guitar?",
+        "tr": "gitar çalmaktan hoşlanır mı?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Is"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için soru cümlesinde 'does' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "you",
+        "tr": "sen"
+      },
+      {
+        "text": "prefer tea or coffee?",
+        "tr": "çay mı kahve mi tercih edersin?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Are"
+    ],
+    "correct": 0,
+    "explanation": "İkinci şahıs için soru cümlesinde 'do' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "she",
+        "tr": "o (kadın)"
+      },
+      {
+        "text": "visit the museum every month?",
+        "tr": "her ay müzeyi ziyaret eder mi?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Is"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için soru cümlesinde 'does' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "they",
+        "tr": "onlar"
+      },
+      {
+        "text": "travel abroad often?",
+        "tr": "sık sık yurt dışına çıkarlar mı?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Are"
+    ],
+    "correct": 0,
+    "explanation": "Çoğul özne için soru cümlesinde 'do' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "you",
+        "tr": "sen"
+      },
+      {
+        "text": "finish your work on time?",
+        "tr": "işini zamanında bitirir misin?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Are"
+    ],
+    "correct": 0,
+    "explanation": "İkinci şahıs için soru cümlesinde 'do' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "he",
+        "tr": "o (erkek)"
+      },
+      {
+        "text": "need a new computer?",
+        "tr": "yeni bir bilgisayara ihtiyaç duyar mı?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Is"
+    ],
+    "correct": 1,
+    "explanation": "Üçüncü tekil şahıs için soru cümlesinde 'does' kullanılır."
+  },
+  {
+    "question": [
+      {
+        "text": "___",
+        "tr": "___"
+      },
+      {
+        "text": "we",
+        "tr": "biz"
+      },
+      {
+        "text": "go out for dinner tonight?",
+        "tr": "bu gece akşam yemeğine dışarı çıkar mıyız?"
+      }
+    ],
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Are"
+    ],
+    "correct": 0,
+    "explanation": "Çoğul özne için soru cümlesinde 'do' kullanılır."
+  }
+]
