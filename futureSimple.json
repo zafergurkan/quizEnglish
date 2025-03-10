@@ -1,0 +1,769 @@
+[
+  {
+    "question": [
+      { "text": "I", "tr": "Ben" },
+      { "text": "___", "tr": "___" },
+      { "text": "travel to Italy", "tr": "İtalya'ya seyahat edeceğim" },
+      { "text": "next summer", "tr": "gelecek yaz" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Gelecek zaman olumlu cümle için 'will' kullanılır."
+  },
+  {
+    "question": [
+      { "text": "She", "tr": "O (kadın)" },
+      { "text": "___", "tr": "___" },
+      { "text": "finish her project", "tr": "projesini bitirecek" },
+      { "text": "by tomorrow", "tr": "yarına kadar" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Olumlu gelecek zaman cümlesinde 'will' doğru yardımcı fiildir."
+  },
+  {
+    "question": [
+      { "text": "They", "tr": "Onlar" },
+      { "text": "___", "tr": "___" },
+      { "text": "start the new course", "tr": "yeni kursa başlayacaklar" },
+      { "text": "next week", "tr": "gelecek hafta" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Gelecek planlar için 'will' kullanılır."
+  },
+  {
+    "question": [
+      { "text": "We", "tr": "Biz" },
+      { "text": "___", "tr": "___" },
+      { "text": "attend the meeting", "tr": "toplantıya katılacağız" },
+      { "text": "on Monday", "tr": "Pazartesi günü" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Olumlu gelecek cümlesinde 'will' doğrudur."
+  },
+  {
+    "question": [
+      { "text": "He", "tr": "O (erkek)" },
+      { "text": "___", "tr": "___" },
+      { "text": "buy a new car", "tr": "yeni bir araba alacak" },
+      { "text": "soon", "tr": "yakında" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Gelecekte gerçekleşecek eylem için 'will' kullanılır."
+  },
+  {
+    "question": [
+      { "text": "You", "tr": "Sen" },
+      { "text": "___", "tr": "___" },
+      { "text": "receive the package", "tr": "paketi alacaksın" },
+      { "text": "by tomorrow", "tr": "yarına kadar" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "'Will' gelecekte olacak eylemi belirtir."
+  },
+  {
+    "question": [
+      { "text": "The team", "tr": "Takım" },
+      { "text": "___", "tr": "___" },
+      { "text": "win the championship", "tr": "şampiyon olacak" },
+      { "text": "this season", "tr": "bu sezon" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Olumlu gelecek zamanı için 'will' kullanılır."
+  },
+  {
+    "question": [
+      { "text": "My friend", "tr": "Arkadaşım" },
+      { "text": "___", "tr": "___" },
+      { "text": "help me with the project", "tr": "projede bana yardım edecek" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Gelecek planları için 'will' doğru seçenektir."
+  },
+  {
+    "question": [
+      { "text": "Our teacher", "tr": "Öğretmenimiz" },
+      { "text": "___", "tr": "___" },
+      { "text": "explain the lesson", "tr": "dersi açıklayacak" },
+      { "text": "clearly", "tr": "net bir şekilde" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Dersin açıklanması gelecek zamanda 'will' ile ifade edilir."
+  },
+  {
+    "question": [
+      { "text": "The manager", "tr": "Yönetici" },
+      { "text": "___", "tr": "___" },
+      { "text": "review the report", "tr": "raporu inceleyecek" },
+      { "text": "later", "tr": "daha sonra" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Gelecekteki inceleme eylemi için 'will' kullanılır."
+  },
+  {
+    "question": [
+      { "text": "I", "tr": "Ben" },
+      { "text": "___", "tr": "___" },
+      { "text": "finish reading the book", "tr": "kitabı bitireceğim" },
+      { "text": "by next week", "tr": "gelecek haftaya kadar" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Gelecek zamanda tamamlanacak eylem için 'will' uygundur."
+  },
+  {
+    "question": [
+      { "text": "They", "tr": "Onlar" },
+      { "text": "___", "tr": "___" },
+      { "text": "announce the results", "tr": "sonuçları açıklayacaklar" },
+      { "text": "tomorrow", "tr": "yarın" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Gelecek eylem 'will' ile ifade edilir."
+  },
+  {
+    "question": [
+      { "text": "We", "tr": "Biz" },
+      { "text": "___", "tr": "___" },
+      { "text": "visit the museum", "tr": "müzeyi ziyaret edeceğiz" },
+      { "text": "this weekend", "tr": "bu hafta sonu" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Planlanan ziyaret için 'will' kullanılır."
+  },
+  {
+    "question": [
+      { "text": "He", "tr": "O (erkek)" },
+      { "text": "___", "tr": "___" },
+      { "text": "call you", "tr": "seni arayacak" },
+      { "text": "as soon as he arrives", "tr": "varır varmaz" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Gelecekteki iletişim için 'will' doğrudur."
+  },
+  {
+    "question": [
+      { "text": "She", "tr": "O (kadın)" },
+      { "text": "___", "tr": "___" },
+      { "text": "bake a cake", "tr": "bir kek pişirecek" },
+      { "text": "for the party", "tr": "parti için" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Gelecek planlanan eylem 'will' ile ifade edilir."
+  },
+  {
+    "question": [
+      { "text": "You", "tr": "Sen" },
+      { "text": "___", "tr": "___" },
+      { "text": "learn a lot", "tr": "çok şey öğreneceksin" },
+      { "text": "in this course", "tr": "bu kursta" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Gelecek zamanda öğrenme eylemi 'will' ile belirtilir."
+  },
+  {
+    "question": [
+      { "text": "The company", "tr": "Şirket" },
+      { "text": "___", "tr": "___" },
+      { "text": "launch a new product", "tr": "yeni bir ürün piyasaya sürecek" },
+      { "text": "next month", "tr": "gelecek ay" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Gelecek planlanan ürün lansmanı için 'will' kullanılır."
+  },
+  {
+    "question": [
+      { "text": "I", "tr": "Ben" },
+      { "text": "___", "tr": "___" },
+      { "text": "send the email", "tr": "e-postayı göndereceğim" },
+      { "text": "by tonight", "tr": "bu geceye kadar" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Gelecekteki iletişim eylemi 'will' ile ifade edilir."
+  },
+  {
+    "question": [
+      { "text": "We", "tr": "Biz" },
+      { "text": "___", "tr": "___" },
+      { "text": "complete the assignment", "tr": "ödevi tamamlayacağız" },
+      { "text": "before the deadline", "tr": "son teslim tarihinden önce" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Planlanan tamamlanma için 'will' kullanılır."
+  },
+  {
+    "question": [
+      { "text": "He", "tr": "O (erkek)" },
+      { "text": "___", "tr": "___" },
+      { "text": "join the conference call", "tr": "konferans görüşmesine katılacak" },
+      { "text": "later", "tr": "daha sonra" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Gelecekteki toplantı katılımı için 'will' doğrudur."
+  },
+  {
+    "question": [
+      { "text": "They", "tr": "Onlar" },
+      { "text": "___", "tr": "___" },
+      { "text": "travel to Japan", "tr": "Japonya'ya seyahat edecekler" },
+      { "text": "next year", "tr": "gelecek yıl" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Gelecek zamanda seyahat eylemi 'will' ile ifade edilir."
+  },
+  {
+    "question": [
+      { "text": "She", "tr": "O (kadın)" },
+      { "text": "___", "tr": "___" },
+      { "text": "attend the workshop", "tr": "atölyeye katılacak" },
+      { "text": "on photography", "tr": "fotoğrafçılık üzerine" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Gelecekteki katılım eylemi için 'will' kullanılır."
+  },
+  {
+    "question": [
+      { "text": "I", "tr": "Ben" },
+      { "text": "___", "tr": "___" },
+      { "text": "start my new job", "tr": "yeni işime başlayacağım" },
+      { "text": "next week", "tr": "gelecek hafta" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Gelecek planlanan işe başlama için 'will' doğrudur."
+  },
+  {
+    "question": [
+      { "text": "You", "tr": "Sen" },
+      { "text": "___", "tr": "___" },
+      { "text": "improve your skills", "tr": "becerilerini geliştireceksin" },
+      { "text": "with practice", "tr": "pratikle" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Gelecekteki gelişim için 'will' kullanılır."
+  },
+  {
+    "question": [
+      { "text": "The children", "tr": "Çocuklar" },
+      { "text": "___", "tr": "___" },
+      { "text": "enjoy the trip", "tr": "geziden keyif alacaklar" },
+      { "text": "to the zoo", "tr": "hayvanat bahçesine" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Olumlu gelecek zaman kullanımı 'will' ile sağlanır."
+  },
+  {
+    "question": [
+      { "text": "We", "tr": "Biz" },
+      { "text": "___", "tr": "___" },
+      { "text": "celebrate our anniversary", "tr": "yıldönümümüzü kutlayacağız" },
+      { "text": "next month", "tr": "gelecek ay" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Gelecekteki kutlama için 'will' doğrudur."
+  },
+  {
+    "question": [
+      { "text": "He", "tr": "O (erkek)" },
+      { "text": "___", "tr": "___" },
+      { "text": "fix the computer", "tr": "bilgisayarı tamir edecek" },
+      { "text": "this evening", "tr": "bu akşam" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Gelecekte yapılacak tamir işi 'will' ile ifade edilir."
+  },
+  {
+    "question": [
+      { "text": "She", "tr": "O (kadın)" },
+      { "text": "___", "tr": "___" },
+      { "text": "meet us at the café", "tr": "kafede bizimle buluşacak" },
+      { "text": "later", "tr": "daha sonra" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Gelecekteki buluşma eylemi için 'will' uygundur."
+  },
+  {
+    "question": [
+      { "text": "They", "tr": "Onlar" },
+      { "text": "___", "tr": "___" },
+      { "text": "open a new branch", "tr": "yeni bir şube açacaklar" },
+      { "text": "in the city", "tr": "şehirde" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Gelecek planlanan açılış için 'will' kullanılır."
+  },
+  {
+    "question": [
+      { "text": "I", "tr": "Ben" },
+      { "text": "___", "tr": "___" },
+      { "text": "join you for dinner", "tr": "akşam yemeğinde sana katılacağım" },
+      { "text": "tonight", "tr": "bu gece" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Gelecekteki plan için 'will' doğrudur."
+  },
+  {
+    "question": [
+      { "text": "We", "tr": "Biz" },
+      { "text": "___", "tr": "___" },
+      { "text": "start a new project", "tr": "yeni bir projeye başlayacağız" },
+      { "text": "next week", "tr": "gelecek hafta" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Gelecek proje başlangıcı için 'will' kullanılır."
+  },
+  {
+    "question": [
+      { "text": "He", "tr": "O (erkek)" },
+      { "text": "___", "tr": "___" },
+      { "text": "write a report", "tr": "rapor yazacak" },
+      { "text": "about the meeting", "tr": "toplantı hakkında" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Rapor yazma eylemi gelecekte 'will' ile ifade edilir."
+  },
+  {
+    "question": [
+      { "text": "My sister", "tr": "Kız kardeşim" },
+      { "text": "___", "tr": "___" },
+      { "text": "finish her homework", "tr": "ödevini bitirecek" },
+      { "text": "soon", "tr": "yakında" }
+    ],
+    "options": ["will", "would", "did", "can"],
+    "correct": 0,
+    "explanation": "Olumlu gelecek cümlesinde 'will' doğru cevaptır."
+  },
+  {
+    "question": [
+      { "text": "I", "tr": "Ben" },
+      { "text": "___", "tr": "___" },
+      { "text": "travel to Italy", "tr": "İtalya'ya seyahat etmeyeceğim" },
+      { "text": "next summer", "tr": "gelecek yaz" }
+    ],
+    "options": ["won't", "would", "did", "can't"],
+    "correct": 0,
+    "explanation": "Olumsuz gelecek cümlesinde 'won't' kullanılır."
+  },
+  {
+    "question": [
+      { "text": "She", "tr": "O (kadın)" },
+      { "text": "___", "tr": "___" },
+      { "text": "finish her project", "tr": "projesini bitirmeyecek" },
+      { "text": "by tomorrow", "tr": "yarına kadar" }
+    ],
+    "options": ["won't", "would", "did", "can't"],
+    "correct": 0,
+    "explanation": "Olumsuz gelecek eylemde 'won't' doğrudur."
+  },
+  {
+    "question": [
+      { "text": "They", "tr": "Onlar" },
+      { "text": "___", "tr": "___" },
+      { "text": "start the new course", "tr": "yeni kursa başlamayacaklar" },
+      { "text": "next week", "tr": "gelecek hafta" }
+    ],
+    "options": ["won't", "would", "did", "can't"],
+    "correct": 0,
+    "explanation": "Gelecek planın olumsuz ifadesinde 'won't' kullanılır."
+  },
+  {
+    "question": [
+      { "text": "We", "tr": "Biz" },
+      { "text": "___", "tr": "___" },
+      { "text": "attend the meeting", "tr": "toplantıya katılmayacağız" },
+      { "text": "on Monday", "tr": "Pazartesi günü" }
+    ],
+    "options": ["won't", "would", "did", "can't"],
+    "correct": 0,
+    "explanation": "Olumsuz gelecek zaman ifadesinde 'won't' kullanılır."
+  },
+  {
+    "question": [
+      { "text": "He", "tr": "O (erkek)" },
+      { "text": "___", "tr": "___" },
+      { "text": "buy a new car", "tr": "yeni bir araba almayacak" },
+      { "text": "soon", "tr": "yakında" }
+    ],
+    "options": ["won't", "would", "did", "can't"],
+    "correct": 0,
+    "explanation": "Gelecekteki eylemin olumsuz hali 'won't' ile ifade edilir."
+  },
+  {
+    "question": [
+      { "text": "You", "tr": "Sen" },
+      { "text": "___", "tr": "___" },
+      { "text": "receive the package", "tr": "paketi almayacaksın" },
+      { "text": "by tomorrow", "tr": "yarına kadar" }
+    ],
+    "options": ["won't", "would", "did", "can't"],
+    "correct": 0,
+    "explanation": "Olumsuz gelecek cümlesinde doğru yardımcı fiil 'won't'tur."
+  },
+  {
+    "question": [
+      { "text": "The team", "tr": "Takım" },
+      { "text": "___", "tr": "___" },
+      { "text": "win the championship", "tr": "şampiyon olmayacak" },
+      { "text": "this season", "tr": "bu sezon" }
+    ],
+    "options": ["won't", "would", "did", "can't"],
+    "correct": 0,
+    "explanation": "Olumsuz gelecek ifadesinde 'won't' kullanılır."
+  },
+  {
+    "question": [
+      { "text": "My friend", "tr": "Arkadaşım" },
+      { "text": "___", "tr": "___" },
+      { "text": "help me with the project", "tr": "projede bana yardım etmeyecek" }
+    ],
+    "options": ["won't", "would", "did", "can't"],
+    "correct": 0,
+    "explanation": "'Won't' olumsuz gelecek için doğru seçenektir."
+  },
+  {
+    "question": [
+      { "text": "Our teacher", "tr": "Öğretmenimiz" },
+      { "text": "___", "tr": "___" },
+      { "text": "explain the lesson", "tr": "dersi açıklamayacak" },
+      { "text": "clearly", "tr": "net bir şekilde" }
+    ],
+    "options": ["won't", "would", "did", "can't"],
+    "correct": 0,
+    "explanation": "Olumsuz gelecek cümlesinde 'won't' kullanılır."
+  },
+  {
+    "question": [
+      { "text": "The manager", "tr": "Yönetici" },
+      { "text": "___", "tr": "___" },
+      { "text": "review the report", "tr": "raporu incelemeyecek" },
+      { "text": "later", "tr": "daha sonra" }
+    ],
+    "options": ["won't", "would", "did", "can't"],
+    "correct": 0,
+    "explanation": "Olumsuz gelecek ifadesi 'won't' ile sağlanır."
+  },
+  {
+    "question": [
+      { "text": "I", "tr": "Ben" },
+      { "text": "___", "tr": "___" },
+      { "text": "finish reading the book", "tr": "kitabı bitirmeyeceğim" },
+      { "text": "by next week", "tr": "gelecek haftaya kadar" }
+    ],
+    "options": ["won't", "would", "did", "can't"],
+    "correct": 0,
+    "explanation": "Olumsuz gelecek cümlesinde 'won't' doğru yardımcı fiildir."
+  },
+  {
+    "question": [
+      { "text": "They", "tr": "Onlar" },
+      { "text": "___", "tr": "___" },
+      { "text": "announce the results", "tr": "sonuçları açıklamayacaklar" },
+      { "text": "tomorrow", "tr": "yarın" }
+    ],
+    "options": ["won't", "would", "did", "can't"],
+    "correct": 0,
+    "explanation": "Olumsuz gelecek eylemde 'won't' kullanılır."
+  },
+  {
+    "question": [
+      { "text": "We", "tr": "Biz" },
+      { "text": "___", "tr": "___" },
+      { "text": "visit the museum", "tr": "müzeyi ziyaret etmeyeceğiz" },
+      { "text": "this weekend", "tr": "bu hafta sonu" }
+    ],
+    "options": ["won't", "would", "did", "can't"],
+    "correct": 0,
+    "explanation": "Olumsuz gelecek zaman ifadesi 'won't' ile yapılır."
+  },
+  {
+    "question": [
+      { "text": "He", "tr": "O (erkek)" },
+      { "text": "___", "tr": "___" },
+      { "text": "call you", "tr": "seni aramayacak" },
+      { "text": "as soon as he arrives", "tr": "varır varmaz" }
+    ],
+    "options": ["won't", "would", "did", "can't"],
+    "correct": 0,
+    "explanation": "Olumsuz gelecek iletişimde 'won't' doğru cevaptır."
+  },
+  {
+    "question": [
+      { "text": "She", "tr": "O (kadın)" },
+      { "text": "___", "tr": "___" },
+      { "text": "bake a cake", "tr": "bir kek pişirmeyecek" },
+      { "text": "for the party", "tr": "parti için" }
+    ],
+    "options": ["won't", "would", "did", "can't"],
+    "correct": 0,
+    "explanation": "Olumsuz gelecek eylemde 'won't' kullanılır."
+  },
+  {
+    "question": [
+      { "text": "You", "tr": "Sen" },
+      { "text": "___", "tr": "___" },
+      { "text": "learn a lot", "tr": "çok şey öğrenmeyeceksin" },
+      { "text": "in this course", "tr": "bu kursta" }
+    ],
+    "options": ["won't", "would", "did", "can't"],
+    "correct": 0,
+    "explanation": "Olumsuz gelecek ifadesinde 'won't' doğrudur."
+  },
+  {
+    "question": [
+      { "text": "The children", "tr": "Çocuklar" },
+      { "text": "___", "tr": "___" },
+      { "text": "enjoy the trip", "tr": "geziden keyif almayacaklar" },
+      { "text": "to the zoo", "tr": "hayvanat bahçesine" }
+    ],
+    "options": ["won't", "would", "did", "can't"],
+    "correct": 0,
+    "explanation": "Olumsuz gelecek cümlesinde 'won't' kullanılır."
+  },
+  {
+    "question": [
+      { "text": "We", "tr": "Biz" },
+      { "text": "___", "tr": "___" },
+      { "text": "celebrate our anniversary", "tr": "yıldönümümüzü kutlamayacağız" },
+      { "text": "next month", "tr": "gelecek ay" }
+    ],
+    "options": ["won't", "would", "did", "can't"],
+    "correct": 0,
+    "explanation": "Olumsuz gelecek planında 'won't' doğrudur."
+  },
+  {
+    "question": [
+      { "text": "He", "tr": "O (erkek)" },
+      { "text": "___", "tr": "___" },
+      { "text": "fix the computer", "tr": "bilgisayarı tamir etmeyecek" },
+      { "text": "this evening", "tr": "bu akşam" }
+    ],
+    "options": ["won't", "would", "did", "can't"],
+    "correct": 0,
+    "explanation": "Olumsuz gelecek eylemde 'won't' kullanılır."
+  },
+  {
+    "question": [
+      { "text": "She", "tr": "O (kadın)" },
+      { "text": "___", "tr": "___" },
+      { "text": "meet us at the café", "tr": "kafede bizimle buluşmayacak" },
+      { "text": "later", "tr": "daha sonra" }
+    ],
+    "options": ["won't", "would", "did", "can't"],
+    "correct": 0,
+    "explanation": "Olumsuz gelecek buluşma cümlesinde 'won't' doğrudur."
+  },
+  {
+    "question": [
+      { "text": "They", "tr": "Onlar" },
+      { "text": "___", "tr": "___" },
+      { "text": "open a new branch", "tr": "yeni bir şube açmayacaklar" },
+      { "text": "in the city", "tr": "şehirde" }
+    ],
+    "options": ["won't", "would", "did", "can't"],
+    "correct": 0,
+    "explanation": "Olumsuz gelecek ifadesinde 'won't' kullanılır."
+  },
+  {
+    "question": [
+      { "text": "I", "tr": "Ben" },
+      { "text": "___", "tr": "___" },
+      { "text": "join you for dinner", "tr": "akşam yemeğinde sana katılmayacağım" },
+      { "text": "tonight", "tr": "bu gece" }
+    ],
+    "options": ["won't", "would", "did", "can't"],
+    "correct": 0,
+    "explanation": "Olumsuz gelecek planı için 'won't' kullanılır."
+  },
+  {
+    "question": [
+      { "text": "We", "tr": "Biz" },
+      { "text": "___", "tr": "___" },
+      { "text": "start a new project", "tr": "yeni bir projeye başlamayacağız" },
+      { "text": "next week", "tr": "gelecek hafta" }
+    ],
+    "options": ["won't", "would", "did", "can't"],
+    "correct": 0,
+    "explanation": "Olumsuz gelecek proje başlangıcında 'won't' doğrudur."
+  },
+  {
+    "question": [
+      { "text": "He", "tr": "O (erkek)" },
+      { "text": "___", "tr": "___" },
+      { "text": "write a report", "tr": "rapor yazmayacak" },
+      { "text": "about the meeting", "tr": "toplantı hakkında" }
+    ],
+    "options": ["won't", "would", "did", "can't"],
+    "correct": 0,
+    "explanation": "Olumsuz gelecek rapor yazma eyleminde 'won't' kullanılır."
+  },
+  {
+    "question": [
+      { "text": "My sister", "tr": "Kız kardeşim" },
+      { "text": "___", "tr": "___" },
+      { "text": "finish her homework", "tr": "ödevini bitirmeyecek" },
+      { "text": "soon", "tr": "yakında" }
+    ],
+    "options": ["won't", "would", "did", "can't"],
+    "correct": 0,
+    "explanation": "Olumsuz gelecek cümlesinde 'won't' doğru yardımcı fiildir."
+  },
+  {
+    "question": [
+      { "text": "___", "tr": "___" },
+      { "text": "you", "tr": "sen" },
+      { "text": "travel to Italy", "tr": "İtalya'ya seyahat edecek misin?" },
+      { "text": "next summer?", "tr": "gelecek yaz?" }
+    ],
+    "options": ["Will", "Did", "Can", "Does"],
+    "correct": 0,
+    "explanation": "Soru cümlesinde gelecek zaman için 'Will' kullanılır."
+  },
+  {
+    "question": [
+      { "text": "___", "tr": "___" },
+      { "text": "she", "tr": "o (kadın)" },
+      { "text": "finish her project", "tr": "projesini bitirecek mi?" },
+      { "text": "by tomorrow?", "tr": "yarına kadar?" }
+    ],
+    "options": ["Will", "Did", "Can", "Does"],
+    "correct": 0,
+    "explanation": "Soru cümlesinde gelecek zaman kullanımı 'Will' ile başlar."
+  },
+  {
+    "question": [
+      { "text": "___", "tr": "___" },
+      { "text": "they", "tr": "onlar" },
+      { "text": "start the new course", "tr": "yeni kursa başlayacaklar mı?" },
+      { "text": "next week?", "tr": "gelecek hafta?" }
+    ],
+    "options": ["Will", "Did", "Can", "Does"],
+    "correct": 0,
+    "explanation": "Gelecek zamanı soru formunda ifade etmek için 'Will' kullanılır."
+  },
+  {
+    "question": [
+      { "text": "___", "tr": "___" },
+      { "text": "we", "tr": "biz" },
+      { "text": "attend the meeting", "tr": "toplantıya katılacak mıyız?" },
+      { "text": "on Monday?", "tr": "Pazartesi günü?" }
+    ],
+    "options": ["Will", "Did", "Can", "Does"],
+    "correct": 0,
+    "explanation": "'Will' ile soru cümlesi oluşturulur."
+  },
+  {
+    "question": [
+      { "text": "___", "tr": "___" },
+      { "text": "he", "tr": "o (erkek)" },
+      { "text": "buy a new car", "tr": "yeni bir araba alacak mı?" },
+      { "text": "soon?", "tr": "yakında?" }
+    ],
+    "options": ["Will", "Did", "Can", "Does"],
+    "correct": 0,
+    "explanation": "Gelecek zaman soru cümlesinde 'Will' doğru yardımcı fiildir."
+  },
+  {
+    "question": [
+      { "text": "___", "tr": "___" },
+      { "text": "you", "tr": "sen" },
+      { "text": "receive the package", "tr": "paketi alacak mısın?" },
+      { "text": "by tomorrow?", "tr": "yarına kadar?" }
+    ],
+    "options": ["Will", "Did", "Can", "Does"],
+    "correct": 0,
+    "explanation": "Soru cümlesinde gelecek zamanı belirtmek için 'Will' kullanılır."
+  },
+  {
+    "question": [
+      { "text": "___", "tr": "___" },
+      { "text": "the team", "tr": "takım" },
+      { "text": "win the championship", "tr": "şampiyon olacak mı?" },
+      { "text": "this season?", "tr": "bu sezon?" }
+    ],
+    "options": ["Will", "Did", "Can", "Does"],
+    "correct": 0,
+    "explanation": "Gelecek zaman sorusunda 'Will' kullanılır."
+  },
+  {
+    "question": [
+      { "text": "___", "tr": "___" },
+      { "text": "my friend", "tr": "arkadaşım" },
+      { "text": "help me with the project", "tr": "projede bana yardım edecek mi?" }
+    ],
+    "options": ["Will", "Did", "Can", "Does"],
+    "correct": 0,
+    "explanation": "Gelecek zaman soru cümlesinde 'Will' kullanılır."
+  },
+  {
+    "question": [
+      { "text": "___", "tr": "___" },
+      { "text": "our teacher", "tr": "öğretmenimiz" },
+      { "text": "explain the lesson", "tr": "dersi açıklayacak mı?" },
+      { "text": "clearly?", "tr": "net bir şekilde?" }
+    ],
+    "options": ["Will", "Did", "Can", "Does"],
+    "correct": 0,
+    "explanation": "Soru cümlesinde gelecek zaman ifadesi 'Will' ile başlar."
+  },
+  {
+    "question": [
+      { "text": "___", "tr": "___" },
+      { "text": "the manager", "tr": "yönetici" },
+      { "text": "review the report", "tr": "raporu inceleyecek mi?" },
+      { "text": "later?", "tr": "daha sonra?" }
+    ],
+    "options": ["Will", "Did", "Can", "Does"],
+    "correct": 0,
+    "explanation": "'Will' ile gelecek zaman soru formu oluşturulur."
+  },
+  {
+    "question": [
+      { "text": "___", "tr": "___" },
+      { "text": "I", "tr": "ben" },
+      { "text": "finish reading the book", "tr": "kitabı bitirecek miyim?" },
+      { "text": "by next week?", "tr": "gelecek haftaya kadar?" }
+    ],
+    "options": ["Will", "Did", "Can", "Should"],
+    "correct": 0,
+    "explanation": "Soru cümlesinde gelecek zamanı belirtmek için 'Will' kullanılır."
+  },
+  {
+    "question": [
+      { "text": "___", "tr": "___" },
+      { "text": "they", "tr": "onlar" },
+      { "text": "participate in the workshop", "tr": "atölyeye katılacaklar mı?" },
+      { "text": "tomorrow?", "tr": "yarın?" }
+    ],
+    "options": ["Will", "Did", "Do", "Are"],
+    "correct": 0,
+    "explanation": "Gelecek zaman için soru cümlesinde 'Will' kullanılır."
+  }
+]
