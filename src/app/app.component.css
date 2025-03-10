@@ -1,0 +1,79 @@
+ 
+  .question-container {
+    border: 2px solid #ddd;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+  }
+  
+  .correct { border-color: green; }
+  .wrong { border-color: red; }
+  
+  .explanation {
+    margin-top: 10px;
+    font-size: 0.9em;
+    color: #333;
+  }
+  
+  .tooltip {
+    border-bottom: 1px dotted #555;
+    cursor: help;
+  }
+  
+  .checkBtn {
+    position: fixed;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 10px 20px;
+    cursor: pointer;
+    z-index: 100;
+  }
+  
+  .result {
+    margin-bottom: 20px;
+    font-size: 1.1em;
+  }
+  
+  .correct-count { color: green; }
+  .wrong-count { color: red; }
+  
+  button {
+    margin-left: 15px;
+    cursor: pointer;
+    padding: 5px 10px;
+  }
+
+  div.selectedTopic {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    max-width: 250px;
+    margin-bottom: 20px;
+  }
+  
+  label {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  select {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  select:hover {
+    border-color: #007bff;
+  }
+  
+  select:focus {
+    border-color: #0056b3;
+    outline: none;
+    box-shadow: 0 0 5px rgba(0, 91, 187, 0.5);
+  }
+  
