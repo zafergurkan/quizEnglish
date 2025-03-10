@@ -12,7 +12,9 @@ import { HttpClientModule, HttpClient } from '@angular/common/http'; // http iç
 })
 export class AppComponent {
   topics = [
-      {"key": "simplePresentTense", "value": "Simple Present Tense"},
+      {"key": "simplePresentTense", "value": "Present Simple Tense"},
+      {"key": "futureSimple", "value": "Future Simple Tense"},
+      {"key": "pastSimple", "value": "Past Simple Tense"},
       {"key": "presentContinuousTense", "value": "Present Continuous Tense"},
       {"key": "prepositions", "value": "Prepositions - In, On, At"},
     ]; // konular
