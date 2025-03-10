@@ -1,1042 +1,1051 @@
 [
   {
     "question": [
-      { "text": "He", "tr": "O (erkek)" },
+      { "text": "I", "tr": "Ben" },
       { "text": "___", "tr": "___" },
-      { "text": "football", "tr": "futbol" },
-      { "text": "yesterday", "tr": "dün" }
+      { "text": "to the store yesterday", "tr": "dün mağazaya gittim" },
+      { "text": ".", "tr": "." }
     ],
-    "options": ["played", "play", "playing", "plays"],
+    "options": ["went", "go", "going", "gone"],
     "correct": 0,
-    "explanation": "Geçmişte tamamlanmış eylemleri anlatmak için Past Simple formu kullanılır; 'play' fiilinin geçmiş zamanı 'played'dir."
+    "explanation": "Past simple form of 'go' is 'went'."
   },
   {
     "question": [
       { "text": "She", "tr": "O (kadın)" },
       { "text": "___", "tr": "___" },
-      { "text": "her friend", "tr": "arkadaşını" },
-      { "text": "last weekend", "tr": "geçen hafta sonu" }
+      { "text": "a delicious cake last weekend", "tr": "geçen hafta sonu lezzetli bir kek pişirdi" },
+      { "text": ".", "tr": "." }
     ],
-    "options": ["visits", "visited", "visiting", "visit"],
-    "correct": 1,
-    "explanation": "Geçmişte gerçekleşen ziyaret eylemi için doğru form 'visited'dir."
+    "options": ["baked", "bake", "baking", "bakes"],
+    "correct": 0,
+    "explanation": "Past simple of 'bake' is 'baked'."
   },
   {
     "question": [
       { "text": "They", "tr": "Onlar" },
       { "text": "___", "tr": "___" },
-      { "text": "a movie", "tr": "bir film" },
-      { "text": "last night", "tr": "dün gece" }
+      { "text": "a movie last night", "tr": "geçen gece bir film izlediler" },
+      { "text": ".", "tr": "." }
     ],
-    "options": ["watch", "watched", "watches", "watching"],
-    "correct": 1,
-    "explanation": "Geçmiş zaman ifadesi için 'watch' fiilinin doğru geçmiş zamanı 'watched' kullanılmalıdır."
+    "options": ["watched", "watch", "watching", "watches"],
+    "correct": 0,
+    "explanation": "Past simple of 'watch' is 'watched'."
   },
   {
     "question": [
-      { "text": "I", "tr": "Ben" },
+      { "text": "He", "tr": "O (erkek)" },
       { "text": "___", "tr": "___" },
-      { "text": "dinner", "tr": "akşam yemeği" },
-      { "text": "yesterday", "tr": "dün" }
+      { "text": "his homework on time", "tr": "ödevini zamanında bitirdi" },
+      { "text": ".", "tr": "." }
     ],
-    "options": ["cooks", "cooking", "cooked", "cook"],
-    "correct": 2,
-    "explanation": "Geçmişte yapılan yemek yapma eylemi 'cooked' ile ifade edilir."
+    "options": ["finished", "finish", "finishing", "finishes"],
+    "correct": 0,
+    "explanation": "Past simple of 'finish' is 'finished'."
   },
   {
     "question": [
       { "text": "We", "tr": "Biz" },
       { "text": "___", "tr": "___" },
-      { "text": "in the park", "tr": "parkta" },
-      { "text": "yesterday", "tr": "dün" }
+      { "text": "the museum during our trip", "tr": "seyahatimiz sırasında müzeyi ziyaret ettik" }
     ],
-    "options": ["walking", "walked", "walk", "walks"],
-    "correct": 1,
-    "explanation": "Geçmiş zaman anlatımında 'walk' fiilinin doğru formu 'walked'dir."
+    "options": ["visited", "visit", "visiting", "visits"],
+    "correct": 0,
+    "explanation": "Past simple of 'visit' is 'visited'."
   },
   {
     "question": [
       { "text": "You", "tr": "Sen" },
       { "text": "___", "tr": "___" },
-      { "text": "hard", "tr": "çok" },
-      { "text": "last night", "tr": "dün gece" }
+      { "text": "a great presentation yesterday", "tr": "dün harika bir sunum yaptın" },
+      { "text": ".", "tr": "." }
     ],
-    "options": ["studied", "studies", "studying", "study"],
+    "options": ["gave", "give", "giving", "gives"],
     "correct": 0,
-    "explanation": "Geçmişte yoğun çalışma eylemi 'studied' olarak ifade edilir."
+    "explanation": "Past simple of 'give' is 'gave'."
   },
   {
     "question": [
-      { "text": "John", "tr": "John" },
+      { "text": "The teacher", "tr": "Öğretmen" },
       { "text": "___", "tr": "___" },
-      { "text": "a new car", "tr": "yeni bir araba" },
-      { "text": "last month", "tr": "geçen ay" }
+      { "text": "the lesson clearly", "tr": "dersi net bir şekilde açıkladı" }
     ],
-    "options": ["buy", "bought", "buys", "buying"],
-    "correct": 1,
-    "explanation": "Fiilin geçmiş zamanı 'bought' olduğundan bu form doğru cevaptır."
+    "options": ["explained", "explain", "explaining", "explains"],
+    "correct": 0,
+    "explanation": "Past simple of 'explain' is 'explained'."
   },
   {
     "question": [
-      { "text": "Anna", "tr": "Anna" },
+      { "text": "My friend", "tr": "Arkadaşım" },
       { "text": "___", "tr": "___" },
-      { "text": "her room", "tr": "odası" },
-      { "text": "yesterday", "tr": "dün" }
+      { "text": "me a birthday gift", "tr": "bana doğum günü hediyesi gönderdi" }
     ],
-    "options": ["cleaned", "cleans", "clean", "cleaning"],
+    "options": ["sent", "send", "sending", "sends"],
     "correct": 0,
-    "explanation": "Geçmişte temizlik yapma eylemi 'cleaned' ile ifade edilir."
+    "explanation": "Past simple of 'send' is 'sent'."
   },
   {
     "question": [
       { "text": "They", "tr": "Onlar" },
       { "text": "___", "tr": "___" },
-      { "text": "their work", "tr": "işlerini" },
-      { "text": "yesterday", "tr": "dün" }
+      { "text": "the project together", "tr": "projeyi birlikte tamamladılar" }
     ],
-    "options": ["finish", "finished", "finishes", "finishing"],
-    "correct": 1,
-    "explanation": "Geçmişte tamamlanan iş için 'finished' doğru kullanımdır."
-  },
-  {
-    "question": [
-      { "text": "I", "tr": "Ben" },
-      { "text": "___", "tr": "___" },
-      { "text": "TV", "tr": "televizyon" },
-      { "text": "last night", "tr": "dün gece" }
-    ],
-    "options": ["watched", "watches", "watch", "watching"],
+    "options": ["completed", "complete", "completing", "completes"],
     "correct": 0,
-    "explanation": "Geçmişte izleme eylemi 'watched' olarak ifade edilir."
+    "explanation": "Past simple of 'complete' is 'completed'."
   },
   {
     "question": [
       { "text": "He", "tr": "O (erkek)" },
-      { "text": "did not", "tr": "yapmadı" },
       { "text": "___", "tr": "___" },
-      { "text": "tennis", "tr": "tenis" },
-      { "text": "yesterday", "tr": "dün" }
+      { "text": "the bus to work", "tr": "işe otobüse bindi" },
+      { "text": ".", "tr": "." }
     ],
-    "options": ["play", "played", "playing", "plays"],
+    "options": ["caught", "catch", "catching", "catches"],
     "correct": 0,
-    "explanation": "Olumsuz cümlelerde 'did not' kullanıldığında fiil yalın halde olmalıdır; doğru cevap 'play'dir."
-  },
-  {
-    "question": [
-      { "text": "She", "tr": "O (kadın)" },
-      { "text": "did not", "tr": "yapmadı" },
-      { "text": "___", "tr": "___" },
-      { "text": "the museum", "tr": "müzeyi" },
-      { "text": "last weekend", "tr": "geçen hafta sonu" }
-    ],
-    "options": ["visited", "visits", "visit", "visiting"],
-    "correct": 2,
-    "explanation": "Did not kullanıldığında fiilin yalın hali kullanılır; bu nedenle doğru cevap 'visit'dir."
-  },
-  {
-    "question": [
-      { "text": "They", "tr": "Onlar" },
-      { "text": "did not", "tr": "yapmadı" },
-      { "text": "___", "tr": "___" },
-      { "text": "the match", "tr": "maçı" },
-      { "text": "yesterday", "tr": "dün" }
-    ],
-    "options": ["watched", "watches", "watch", "watching"],
-    "correct": 2,
-    "explanation": "Olumsuz cümlelerde 'did not' ile fiil yalın halde kullanılır; doğru cevap 'watch'dir."
+    "explanation": "Past simple of 'catch' is 'caught'."
   },
   {
     "question": [
       { "text": "I", "tr": "Ben" },
-      { "text": "did not", "tr": "yapmadım" },
       { "text": "___", "tr": "___" },
-      { "text": "dinner", "tr": "akşam yemeği" },
-      { "text": "last night", "tr": "dün gece" }
+      { "text": "a new book last month", "tr": "geçen ay yeni bir kitap okudum" },
+      { "text": ".", "tr": "." }
     ],
-    "options": ["cooked", "cook", "cooking", "cooks"],
-    "correct": 1,
-    "explanation": "Did not kullanıldığında ana fiil yalın halde olur; doğru cevap 'cook'dur."
+    "options": ["read", "reading", "reads", "reread"],
+    "correct": 0,
+    "explanation": "Past simple of 'read' (pronounced 'red') is 'read'."
+  },
+  {
+    "question": [
+      { "text": "She", "tr": "O (kadın)" },
+      { "text": "___", "tr": "___" },
+      { "text": "a letter to her friend", "tr": "arkadaşına mektup yazdı" },
+      { "text": ".", "tr": "." }
+    ],
+    "options": ["wrote", "write", "writing", "writes"],
+    "correct": 0,
+    "explanation": "Past simple of 'write' is 'wrote'."
   },
   {
     "question": [
       { "text": "We", "tr": "Biz" },
-      { "text": "did not", "tr": "yapmadık" },
       { "text": "___", "tr": "___" },
-      { "text": "to school", "tr": "okula" },
-      { "text": "yesterday", "tr": "dün" }
+      { "text": "a wonderful time at the park", "tr": "parkta harika zaman geçirdik" },
+      { "text": ".", "tr": "." }
     ],
-    "options": ["walk", "walked", "walking", "walks"],
+    "options": ["had", "have", "having", "has"],
     "correct": 0,
-    "explanation": "Olumsuz cümlelerde 'did not' kullanıldığında fiil base formu, yani 'walk' kullanılır."
+    "explanation": "Past simple of 'have' is 'had'."
+  },
+  {
+    "question": [
+      { "text": "They", "tr": "Onlar" },
+      { "text": "___", "tr": "___" },
+      { "text": "the concert last night", "tr": "geçen gece konseri beğendiler" },
+      { "text": ".", "tr": "." }
+    ],
+    "options": ["enjoyed", "enjoy", "enjoying", "enjoys"],
+    "correct": 0,
+    "explanation": "Past simple of 'enjoy' is 'enjoyed'."
+  },
+  {
+    "question": [
+      { "text": "He", "tr": "O (erkek)" },
+      { "text": "___", "tr": "___" },
+      { "text": "his keys on the table", "tr": "anahtarlarını masanın üzerine bıraktı" },
+      { "text": ".", "tr": "." }
+    ],
+    "options": ["left", "leave", "leaving", "leaves"],
+    "correct": 0,
+    "explanation": "Past simple of 'leave' is 'left'."
+  },
+  {
+    "question": [
+      { "text": "I", "tr": "Ben" },
+      { "text": "___", "tr": "___" },
+      { "text": "my car last weekend", "tr": "geçen hafta sonu arabamı yıkadım" },
+      { "text": ".", "tr": "." }
+    ],
+    "options": ["washed", "wash", "washing", "washes"],
+    "correct": 0,
+    "explanation": "Past simple of 'wash' is 'washed'."
+  },
+  {
+    "question": [
+      { "text": "She", "tr": "O (kadın)" },
+      { "text": "___", "tr": "___" },
+      { "text": "a beautiful song at the event", "tr": "etkinlikte güzel bir şarkı söyledi" },
+      { "text": ".", "tr": "." }
+    ],
+    "options": ["sang", "sing", "singing", "sings"],
+    "correct": 0,
+    "explanation": "Past simple of 'sing' is 'sang'."
+  },
+  {
+    "question": [
+      { "text": "We", "tr": "Biz" },
+      { "text": "___", "tr": "___" },
+      { "text": "the offer immediately", "tr": "teklifi hemen kabul ettik" }
+    ],
+    "options": ["accepted", "accept", "accepting", "accepts"],
+    "correct": 0,
+    "explanation": "Past simple of 'accept' is 'accepted'."
+  },
+  {
+    "question": [
+      { "text": "They", "tr": "Onlar" },
+      { "text": "___", "tr": "___" },
+      { "text": "the game in the finals", "tr": "finallerde maçı kazandılar" },
+      { "text": ".", "tr": "." }
+    ],
+    "options": ["won", "win", "winning", "wins"],
+    "correct": 0,
+    "explanation": "Past simple of 'win' is 'won'."
+  },
+  {
+    "question": [
+      { "text": "He", "tr": "O (erkek)" },
+      { "text": "___", "tr": "___" },
+      { "text": "to the radio this morning", "tr": "bu sabah radyoyu dinledi" },
+      { "text": ".", "tr": "." }
+    ],
+    "options": ["listened", "listen", "listening", "listens"],
+    "correct": 0,
+    "explanation": "Past simple of 'listen' is 'listened'."
+  },
+  {
+    "question": [
+      { "text": "I", "tr": "Ben" },
+      { "text": "___", "tr": "___" },
+      { "text": "a letter to the manager", "tr": "yöneticiye bir mektup yazdım" },
+      { "text": ".", "tr": "." }
+    ],
+    "options": ["wrote", "write", "writing", "writes"],
+    "correct": 0,
+    "explanation": "Past simple of 'write' is 'wrote'."
+  },
+  {
+    "question": [
+      { "text": "She", "tr": "O (kadın)" },
+      { "text": "___", "tr": "___" },
+      { "text": "her appointment on time", "tr": "randevusuna zamanında uymadı" },
+      { "text": "properly", "tr": "düzgün bir şekilde" }
+    ],
+    "options": ["kept", "keep", "keeping", "keeps"],
+    "correct": 0,
+    "explanation": "Past simple of 'keep' is 'kept'."
+  },
+  {
+    "question": [
+      { "text": "They", "tr": "Onlar" },
+      { "text": "___", "tr": "___" },
+      { "text": "in the garden all afternoon", "tr": "bütün öğleden sonra bahçede çalıştılar" }
+    ],
+    "options": ["worked", "work", "working", "works"],
+    "correct": 0,
+    "explanation": "Past simple of 'work' is 'worked'."
+  },
+  {
+    "question": [
+      { "text": "We", "tr": "Biz" },
+      { "text": "___", "tr": "___" },
+      { "text": "the news on TV last night", "tr": "geçen gece televizyonda haber izledik" },
+      { "text": ".", "tr": "." }
+    ],
+    "options": ["saw", "see", "seeing", "sees"],
+    "correct": 0,
+    "explanation": "Past simple of 'see' is 'saw'."
+  },
+  {
+    "question": [
+      { "text": "He", "tr": "O (erkek)" },
+      { "text": "___", "tr": "___" },
+      { "text": "his friend at the café", "tr": "kafede arkadaşıyla buluştu" },
+      { "text": ".", "tr": "." }
+    ],
+    "options": ["met", "meet", "meeting", "meets"],
+    "correct": 0,
+    "explanation": "Past simple of 'meet' is 'met'."
+  },
+  {
+    "question": [
+      { "text": "I", "tr": "Ben" },
+      { "text": "___", "tr": "___" },
+      { "text": "a mistake in my report", "tr": "raporumda bir hata fark ettim" },
+      { "text": ".", "tr": "." }
+    ],
+    "options": ["noticed", "notice", "noticing", "notices"],
+    "correct": 0,
+    "explanation": "Past simple of 'notice' is 'noticed'."
+  },
+  {
+    "question": [
+      { "text": "She", "tr": "O (kadın)" },
+      { "text": "___", "tr": "___" },
+      { "text": "an email to her colleague", "tr": "iş arkadaşına e-posta gönderdi" },
+      { "text": ".", "tr": "." }
+    ],
+    "options": ["sent", "send", "sending", "sends"],
+    "correct": 0,
+    "explanation": "Past simple of 'send' is 'sent'."
+  },
+  {
+    "question": [
+      { "text": "They", "tr": "Onlar" },
+      { "text": "___", "tr": "___" },
+      { "text": "the room before the meeting", "tr": "toplantıdan önce odayı düzenlediler" }
+    ],
+    "options": ["arranged", "arrange", "arranging", "arranges"],
+    "correct": 0,
+    "explanation": "Past simple of 'arrange' is 'arranged'."
+  },
+  {
+    "question": [
+      { "text": "We", "tr": "Biz" },
+      { "text": "___", "tr": "___" },
+      { "text": "a long walk after dinner", "tr": "akşam yemeğinden sonra uzun bir yürüyüş yaptık" }
+    ],
+    "options": ["took", "take", "taking", "takes"],
+    "correct": 0,
+    "explanation": "Past simple of 'take' is 'took'."
+  },
+  {
+    "question": [
+      { "text": "He", "tr": "O (erkek)" },
+      { "text": "___", "tr": "___" },
+      { "text": "his favorite song on the guitar", "tr": "favori şarkısını gitarla çaldı" },
+      { "text": ".", "tr": "." }
+    ],
+    "options": ["played", "play", "playing", "plays"],
+    "correct": 0,
+    "explanation": "Past simple of 'play' is 'played'."
+  },
+  {
+    "question": [
+      { "text": "I", "tr": "Ben" },
+      { "text": "___", "tr": "___" },
+      { "text": "the museum last Saturday", "tr": "geçen cumartesi müzeyi ziyaret ettim" },
+      { "text": ".", "tr": "." }
+    ],
+    "options": ["visited", "visit", "visiting", "visits"],
+    "correct": 0,
+    "explanation": "Past simple of 'visit' is 'visited'."
+  },
+  {
+    "question": [
+      { "text": "She", "tr": "O (kadın)" },
+      { "text": "___", "tr": "___" },
+      { "text": "the lecture with interest", "tr": "derse ilgiyle katıldı" },
+      { "text": ".", "tr": "." }
+    ],
+    "options": ["listened", "listen", "listening", "listens"],
+    "correct": 0,
+    "explanation": "Past simple of 'listen' is 'listened'."
+  },
+  {
+    "question": [
+      { "text": "They", "tr": "Onlar" },
+      { "text": "___", "tr": "___" },
+      { "text": "a picnic in the park", "tr": "parkta piknik düzenlediler" }
+    ],
+    "options": ["organized", "organize", "organizing", "organizes"],
+    "correct": 0,
+    "explanation": "Past simple of 'organize' is 'organized'."
+  },
+  {
+    "question": [
+      { "text": "I", "tr": "Ben" },
+      { "text": "___", "tr": "___" },
+      { "text": "go to the store yesterday", "tr": "dün mağazaya gitmedim" },
+      { "text": ".", "tr": "." }
+    ],
+    "options": ["didn't", "don't", "wasn't", "couldn't"],
+    "correct": 0,
+    "explanation": "Past simple negative form uses 'didn't' + base form."
+  },
+  {
+    "question": [
+      { "text": "She", "tr": "O (kadın)" },
+      { "text": "___", "tr": "___" },
+      { "text": "a cake last weekend", "tr": "geçen hafta sonu kek pişirmedi" },
+      { "text": ".", "tr": "." }
+    ],
+    "options": ["didn't", "don't", "wasn't", "couldn't"],
+    "correct": 0,
+    "explanation": "Negative past simple uses 'didn't' + base form."
+  },
+  {
+    "question": [
+      { "text": "They", "tr": "Onlar" },
+      { "text": "___", "tr": "___" },
+      { "text": "a movie last night", "tr": "geçen gece film izlemediler" },
+      { "text": ".", "tr": "." }
+    ],
+    "options": ["didn't", "don't", "wasn't", "couldn't"],
+    "correct": 0,
+    "explanation": "Use 'didn't' for negative past simple."
+  },
+  {
+    "question": [
+      { "text": "He", "tr": "O (erkek)" },
+      { "text": "___", "tr": "___" },
+      { "text": "his homework on time", "tr": "ödevini zamanında bitirmedi" },
+      { "text": ".", "tr": "." }
+    ],
+    "options": ["didn't", "don't", "wasn't", "couldn't"],
+    "correct": 0,
+    "explanation": "Negative past simple: 'didn't finish'."
+  },
+  {
+    "question": [
+      { "text": "We", "tr": "Biz" },
+      { "text": "___", "tr": "___" },
+      { "text": "the museum during our trip", "tr": "seyahatimiz sırasında müzeyi ziyaret etmedik" }
+    ],
+    "options": ["didn't", "don't", "wasn't", "couldn't"],
+    "correct": 0,
+    "explanation": "Negative past simple: 'didn't visit'."
   },
   {
     "question": [
       { "text": "You", "tr": "Sen" },
-      { "text": "did not", "tr": "yapmadın" },
       { "text": "___", "tr": "___" },
-      { "text": "the lesson", "tr": "dersi" },
-      { "text": "last night", "tr": "dün gece" }
+      { "text": "a great presentation yesterday", "tr": "dün harika bir sunum yapmadın" },
+      { "text": ".", "tr": "." }
     ],
-    "options": ["studied", "study", "studying", "studies"],
-    "correct": 1,
-    "explanation": "Did not kullanıldığında fiilin yalın hali kullanılır; doğru cevap 'study'dir."
-  },
-  {
-    "question": [
-      { "text": "John", "tr": "John" },
-      { "text": "did not", "tr": "yapmadı" },
-      { "text": "___", "tr": "___" },
-      { "text": "a ticket", "tr": "bir bilet" },
-      { "text": "yesterday", "tr": "dün" }
-    ],
-    "options": ["bought", "buy", "buys", "buying"],
-    "correct": 1,
-    "explanation": "Olumsuz cümlelerde 'did not' ile fiilin base formu kullanılır; doğru cevap 'buy'dur."
-  },
-  {
-    "question": [
-      { "text": "Anna", "tr": "Anna" },
-      { "text": "did not", "tr": "yapmadı" },
-      { "text": "___", "tr": "___" },
-      { "text": "the house", "tr": "evi" },
-      { "text": "yesterday", "tr": "dün" }
-    ],
-    "options": ["cleaned", "clean", "cleaning", "cleans"],
-    "correct": 1,
-    "explanation": "Did not kullanıldığında fiilin yalın hali gerekir; doğru cevap 'clean'dir."
-  },
-  {
-    "question": [
-      { "text": "They", "tr": "Onlar" },
-      { "text": "did not", "tr": "yapmadılar" },
-      { "text": "___", "tr": "___" },
-      { "text": "the project", "tr": "projeyi" },
-      { "text": "last week", "tr": "geçen hafta" }
-    ],
-    "options": ["finish", "finished", "finishes", "finishing"],
+    "options": ["didn't", "don't", "wasn't", "couldn't"],
     "correct": 0,
-    "explanation": "Olumsuz cümlelerde 'did not' kullanıldığında fiil yalın formda kalır; doğru cevap 'finish'dir."
+    "explanation": "Negative past simple: 'didn't give'."
   },
   {
     "question": [
-      { "text": "I", "tr": "Ben" },
-      { "text": "did not", "tr": "yapmadım" },
+      { "text": "The teacher", "tr": "Öğretmen" },
       { "text": "___", "tr": "___" },
-      { "text": "the game", "tr": "maçı" },
-      { "text": "last night", "tr": "dün gece" }
+      { "text": "the lesson clearly", "tr": "dersi net bir şekilde açıklamadı" }
     ],
-    "options": ["watched", "watch", "watches", "watching"],
-    "correct": 1,
-    "explanation": "Did not kullanıldığında fiilin yalın hali kullanılır; doğru cevap 'watch'dir."
-  },
-  {
-    "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "he", "tr": "o (erkek)" },
-      { "text": "___", "tr": "___" },
-      { "text": "football", "tr": "futbol" },
-      { "text": "yesterday?", "tr": "dün?" }
-    ],
-    "options": ["played", "play", "playing", "plays"],
-    "correct": 1,
-    "explanation": "Soru cümlelerinde 'Did' yardımcı fiili kullanılır ve ana fiil yalın halde yer alır; doğru cevap 'play'dir."
-  },
-  {
-    "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "she", "tr": "o (kadın)" },
-      { "text": "___", "tr": "___" },
-      { "text": "her friend", "tr": "arkadaşını" },
-      { "text": "last weekend?", "tr": "geçen hafta sonu?" }
-    ],
-    "options": ["visited", "visits", "visit", "visiting"],
-    "correct": 2,
-    "explanation": "Did ile sorulan cümlelerde fiil yalın halde kullanılır; doğru cevap 'visit'dir."
-  },
-  {
-    "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "they", "tr": "onlar" },
-      { "text": "___", "tr": "___" },
-      { "text": "a movie", "tr": "bir film" },
-      { "text": "last night?", "tr": "dün gece?" }
-    ],
-    "options": ["watched", "watch", "watches", "watching"],
-    "correct": 1,
-    "explanation": "Soru cümlesinde 'Did' kullanıldığında ana fiil yalın halde yer alır; doğru cevap 'watch'dir."
-  },
-  {
-    "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "I", "tr": "ben" },
-      { "text": "___", "tr": "___" },
-      { "text": "dinner", "tr": "akşam yemeğini" },
-      { "text": "yesterday?", "tr": "dün?" }
-    ],
-    "options": ["cooked", "cook", "cooking", "cooks"],
-    "correct": 1,
-    "explanation": "Did soru cümlesinde fiil yalın halde kullanılır; doğru cevap 'cook'dur."
-  },
-  {
-    "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "we", "tr": "biz" },
-      { "text": "___", "tr": "___" },
-      { "text": "in the park", "tr": "parkta" },
-      { "text": "yesterday?", "tr": "dün?" }
-    ],
-    "options": ["walk", "walked", "walking", "walks"],
+    "options": ["didn't", "don't", "wasn't", "couldn't"],
     "correct": 0,
-    "explanation": "Did ile sorulan cümlelerde ana fiil yalın halde kullanılır; doğru cevap 'walk'dir."
+    "explanation": "Negative past simple: 'didn't explain'."
   },
   {
     "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "you", "tr": "sen" },
+      { "text": "My friend", "tr": "Arkadaşım" },
       { "text": "___", "tr": "___" },
-      { "text": "hard", "tr": "çok" },
-      { "text": "last night?", "tr": "dün gece?" }
+      { "text": "me a birthday gift", "tr": "bana doğum günü hediyesi göndermedi" }
     ],
-    "options": ["studied", "study", "studying", "studies"],
-    "correct": 1,
-    "explanation": "Soru cümlesinde 'Did' kullanıldığında fiil yalın halde olur; doğru cevap 'study'dir."
-  },
-  {
-    "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "John", "tr": "John" },
-      { "text": "___", "tr": "___" },
-      { "text": "a new car", "tr": "yeni bir araba" },
-      { "text": "last month?", "tr": "geçen ay?" }
-    ],
-    "options": ["bought", "buy", "buys", "buying"],
-    "correct": 1,
-    "explanation": "Did ile sorulan cümlelerde ana fiil yalın halde kullanılır; doğru cevap 'buy'dir."
-  },
-  {
-    "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "Anna", "tr": "Anna" },
-      { "text": "___", "tr": "___" },
-      { "text": "her room", "tr": "odasını" },
-      { "text": "yesterday?", "tr": "dün?" }
-    ],
-    "options": ["cleaned", "clean", "cleaning", "cleans"],
-    "correct": 1,
-    "explanation": "Soru cümlesinde 'Did' kullanıldığında fiil yalın halde yer alır; doğru cevap 'clean'dir."
-  },
-  {
-    "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "they", "tr": "onlar" },
-      { "text": "___", "tr": "___" },
-      { "text": "their work", "tr": "işlerini" },
-      { "text": "yesterday?", "tr": "dün?" }
-    ],
-    "options": ["finish", "finished", "finishes", "finishing"],
+    "options": ["didn't", "don't", "wasn't", "couldn't"],
     "correct": 0,
-    "explanation": "Did soru cümlesinde fiil yalın halde kullanılır; doğru cevap 'finish'dir."
-  },
-  {
-    "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "I", "tr": "ben" },
-      { "text": "___", "tr": "___" },
-      { "text": "TV", "tr": "televizyonu" },
-      { "text": "last night?", "tr": "dün gece?" }
-    ],
-    "options": ["watched", "watch", "watches", "watching"],
-    "correct": 1,
-    "explanation": "Soru cümlesinde 'Did' kullanıldığında ana fiil yalın halde kullanılır; doğru cevap 'watch'dir."
-  },
-  {
-    "question": [
-      { "text": "Michael", "tr": "Michael" },
-      { "text": "___", "tr": "___" },
-      { "text": "to work", "tr": "işe" },
-      { "text": "yesterday", "tr": "dün" }
-    ],
-    "options": ["drives", "drove", "driving", "drive"],
-    "correct": 1,
-    "explanation": "Past Simple formunda 'drive' fiilinin doğru hali 'drove'dir."
-  },
-  {
-    "question": [
-      { "text": "Lisa", "tr": "Lisa" },
-      { "text": "___", "tr": "___" },
-      { "text": "a letter", "tr": "bir mektup" },
-      { "text": "last night", "tr": "dün gece" }
-    ],
-    "options": ["wrote", "writes", "writing", "write"],
-    "correct": 0,
-    "explanation": "'Write' fiilinin geçmiş zamanı 'wrote' olarak kullanılır."
-  },
-  {
-    "question": [
-      { "text": "They", "tr": "Onlar" },
-      { "text": "___", "tr": "___" },
-      { "text": "their old furniture", "tr": "eski mobilyalarını" },
-      { "text": "last week", "tr": "geçen hafta" }
-    ],
-    "options": ["sold", "sell", "selling", "sells"],
-    "correct": 0,
-    "explanation": "Geçmişte gerçekleşen satış eylemi 'sold' ile ifade edilir."
-  },
-  {
-    "question": [
-      { "text": "I", "tr": "Ben" },
-      { "text": "___", "tr": "___" },
-      { "text": "Paris", "tr": "Paris" },
-      { "text": "last summer", "tr": "geçen yaz" }
-    ],
-    "options": ["visited", "visits", "visit", "visiting"],
-    "correct": 0,
-    "explanation": "Geçmişteki ziyaret eylemi için doğru form 'visited'dir."
-  },
-  {
-    "question": [
-      { "text": "We", "tr": "Biz" },
-      { "text": "___", "tr": "___" },
-      { "text": "the concert", "tr": "konseri" },
-      { "text": "last night", "tr": "dün gece" }
-    ],
-    "options": ["enjoy", "enjoyed", "enjoying", "enjoys"],
-    "correct": 1,
-    "explanation": "Geçmişteki konser keyfi 'enjoyed' ile ifade edilir."
-  },
-  {
-    "question": [
-      { "text": "Sarah", "tr": "Sarah" },
-      { "text": "___", "tr": "___" },
-      { "text": "an interesting book", "tr": "ilginç bir kitap" },
-      { "text": "yesterday", "tr": "dün" }
-    ],
-    "options": ["read", "reads", "reading", "red"],
-    "correct": 0,
-    "explanation": "'Read' fiilinin geçmiş zamanı yazılış olarak aynı kalır ancak telaffuz farklıdır; doğru cevap 'read'dir."
-  },
-  {
-    "question": [
-      { "text": "We", "tr": "Biz" },
-      { "text": "___", "tr": "___" },
-      { "text": "the zoo", "tr": "hayvanat bahçesini" },
-      { "text": "last weekend", "tr": "geçen hafta sonu" }
-    ],
-    "options": ["visited", "visiting", "visit", "visits"],
-    "correct": 0,
-    "explanation": "Geçmişte yapılan ziyaret eylemi için 'visited' kullanılır."
-  },
-  {
-    "question": [
-      { "text": "John", "tr": "John" },
-      { "text": "___", "tr": "___" },
-      { "text": "his bike", "tr": "bisikletini" },
-      { "text": "yesterday", "tr": "dün" }
-    ],
-    "options": ["fix", "fixed", "fixes", "fixing"],
-    "correct": 1,
-    "explanation": "Geçmişte tamir etme eylemi 'fixed' olarak ifade edilir."
-  },
-  {
-    "question": [
-      { "text": "They", "tr": "Onlar" },
-      { "text": "___", "tr": "___" },
-      { "text": "at the station", "tr": "istasyona" },
-      { "text": "on time", "tr": "zamanında" }
-    ],
-    "options": ["arrive", "arrived", "arrives", "arriving"],
-    "correct": 1,
-    "explanation": "Geçmiş zamanda varış eylemi 'arrived' ile ifade edilir."
-  },
-  {
-    "question": [
-      { "text": "I", "tr": "Ben" },
-      { "text": "___", "tr": "___" },
-      { "text": "my grandparents", "tr": "büyükanne ve büyükbabamı" },
-      { "text": "last weekend", "tr": "geçen hafta sonu" }
-    ],
-    "options": ["visited", "visits", "visiting", "visit"],
-    "correct": 0,
-    "explanation": "Geçmişte ziyaret edilen kişiler için doğru form 'visited'dir."
-  },
-  {
-    "question": [
-      { "text": "Michael", "tr": "Michael" },
-      { "text": "did not", "tr": "yapmadı" },
-      { "text": "___", "tr": "___" },
-      { "text": "to work", "tr": "işe" },
-      { "text": "yesterday", "tr": "dün" }
-    ],
-    "options": ["drove", "drives", "drive", "driving"],
-    "correct": 2,
-    "explanation": "Olumsuz cümlede 'did not' kullanıldığında fiil yalın halde olur; doğru cevap 'drive'dur."
-  },
-  {
-    "question": [
-      { "text": "Lisa", "tr": "Lisa" },
-      { "text": "did not", "tr": "yapmadı" },
-      { "text": "___", "tr": "___" },
-      { "text": "a letter", "tr": "bir mektup" },
-      { "text": "last night", "tr": "dün gece" }
-    ],
-    "options": ["wrote", "write", "writes", "writing"],
-    "correct": 1,
-    "explanation": "Did not ile kullanılan cümlede fiil base formdedir; doğru cevap 'write'dir."
-  },
-  {
-    "question": [
-      { "text": "They", "tr": "Onlar" },
-      { "text": "did not", "tr": "yapmadılar" },
-      { "text": "___", "tr": "___" },
-      { "text": "their old furniture", "tr": "eski mobilyalarını" },
-      { "text": "last week", "tr": "geçen hafta" }
-    ],
-    "options": ["sold", "sell", "selling", "sells"],
-    "correct": 1,
-    "explanation": "Olumsuz cümlede 'did not' ile fiil yalın halde kullanılır; doğru cevap 'sell'dir."
-  },
-  {
-    "question": [
-      { "text": "I", "tr": "Ben" },
-      { "text": "did not", "tr": "yapmadım" },
-      { "text": "___", "tr": "___" },
-      { "text": "Paris", "tr": "Paris" },
-      { "text": "last summer", "tr": "geçen yaz" }
-    ],
-    "options": ["visited", "visits", "visit", "visiting"],
-    "correct": 2,
-    "explanation": "Did not kullanıldığında fiil yalın halde kullanılır; doğru cevap 'visit'dir."
-  },
-  {
-    "question": [
-      { "text": "We", "tr": "Biz" },
-      { "text": "did not", "tr": "yapmadık" },
-      { "text": "___", "tr": "___" },
-      { "text": "the concert", "tr": "konseri" },
-      { "text": "last night", "tr": "dün gece" }
-    ],
-    "options": ["enjoyed", "enjoy", "enjoys", "enjoying"],
-    "correct": 1,
-    "explanation": "Olumsuz cümlede 'did not' ile fiil yalın halde kalır; doğru cevap 'enjoy'dir."
-  },
-  {
-    "question": [
-      { "text": "Sarah", "tr": "Sarah" },
-      { "text": "did not", "tr": "yapmadı" },
-      { "text": "___", "tr": "___" },
-      { "text": "an interesting book", "tr": "ilginç bir kitap" },
-      { "text": "yesterday", "tr": "dün" }
-    ],
-    "options": ["read", "reads", "reading", "red"],
-    "correct": 0,
-    "explanation": "Did not kullanıldığında fiil base form kullanılır; 'read' burada doğru cevaptır."
-  },
-  {
-    "question": [
-      { "text": "We", "tr": "Biz" },
-      { "text": "did not", "tr": "yapmadık" },
-      { "text": "___", "tr": "___" },
-      { "text": "the zoo", "tr": "hayvanat bahçesini" },
-      { "text": "last weekend", "tr": "geçen hafta sonu" }
-    ],
-    "options": ["visited", "visit", "visits", "visiting"],
-    "correct": 1,
-    "explanation": "Did not kullanıldığında fiil yalın halde olmalıdır; doğru cevap 'visit'dir."
-  },
-  {
-    "question": [
-      { "text": "John", "tr": "John" },
-      { "text": "did not", "tr": "yapmadı" },
-      { "text": "___", "tr": "___" },
-      { "text": "his bike", "tr": "bisikletini" },
-      { "text": "yesterday", "tr": "dün" }
-    ],
-    "options": ["fixed", "fix", "fixes", "fixing"],
-    "correct": 1,
-    "explanation": "Did not kullanıldığında fiilin yalın hali kullanılır; doğru cevap 'fix' (base form) olmalıdır."
-  },
-  {
-    "question": [
-      { "text": "They", "tr": "Onlar" },
-      { "text": "did not", "tr": "yapmadılar" },
-      { "text": "___", "tr": "___" },
-      { "text": "at the station", "tr": "istasyonda" },
-      { "text": "on time", "tr": "zamanında" }
-    ],
-    "options": ["arrived", "arrives", "arrive", "arriving"],
-    "correct": 2,
-    "explanation": "Did not kullanıldığında fiil base form alınır; doğru cevap 'arrive'dir."
-  },
-  {
-    "question": [
-      { "text": "I", "tr": "Ben" },
-      { "text": "did not", "tr": "yapmadım" },
-      { "text": "___", "tr": "___" },
-      { "text": "my grandparents", "tr": "büyükanne ve büyükbabamı" },
-      { "text": "last weekend", "tr": "geçen hafta sonu" }
-    ],
-    "options": ["visited", "visit", "visits", "visiting"],
-    "correct": 1,
-    "explanation": "Olumsuz cümlede 'did not' ile fiilin yalın hali kullanılır; doğru cevap 'visit'dir."
-  },
-  {
-    "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "Tom", "tr": "Tom" },
-      { "text": "___", "tr": "___" },
-      { "text": "a computer", "tr": "bir bilgisayar" },
-      { "text": "yesterday?", "tr": "dün?" }
-    ],
-    "options": ["bought", "buy", "buys", "buying"],
-    "correct": 1,
-    "explanation": "Soru cümlesinde 'Did' kullanılır ve fiil yalın halde olur; doğru cevap 'buy'dir."
-  },
-  {
-    "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "Emily", "tr": "Emily" },
-      { "text": "___", "tr": "___" },
-      { "text": "an email", "tr": "bir e-posta" },
-      { "text": "last night?", "tr": "dün gece?" }
-    ],
-    "options": ["sent", "send", "sending", "sends"],
-    "correct": 1,
-    "explanation": "Did soru cümlesinde fiil yalın halde kullanılır; doğru cevap 'send'dir."
-  },
-  {
-    "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "we", "tr": "biz" },
-      { "text": "___", "tr": "___" },
-      { "text": "our teacher", "tr": "öğretmenimizi" },
-      { "text": "yesterday?", "tr": "dün?" }
-    ],
-    "options": ["met", "meet", "meeting", "meets"],
-    "correct": 1,
-    "explanation": "Did ile sorulan cümlelerde fiil yalın halde kullanılır; doğru cevap 'meet'dir."
-  },
-  {
-    "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "I", "tr": "ben" },
-      { "text": "___", "tr": "___" },
-      { "text": "a museum", "tr": "bir müze" },
-      { "text": "last weekend?", "tr": "geçen hafta sonu?" }
-    ],
-    "options": ["visited", "visit", "visits", "visiting"],
-    "correct": 1,
-    "explanation": "Did soru cümlesinde fiil yalın halde kullanılır; doğru cevap 'visit'dir."
-  },
-  {
-    "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "he", "tr": "o (kadın/erkek)" },
-      { "text": "___", "tr": "___" },
-      { "text": "a meal", "tr": "bir yemek" },
-      { "text": "yesterday?", "tr": "dün?" }
-    ],
-    "options": ["cooked", "cook", "cooks", "cooking"],
-    "correct": 1,
-    "explanation": "Soru cümlesinde 'Did' kullanılır; fiilin yalın hali 'cook' doğru cevaptır."
-  },
-  {
-    "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "they", "tr": "onlar" },
-      { "text": "___", "tr": "___" },
-      { "text": "at the party", "tr": "partide" },
-      { "text": "last night?", "tr": "dün gece?" }
-    ],
-    "options": ["danced", "dance", "dances", "dancing"],
-    "correct": 1,
-    "explanation": "Did ile sorulan cümlelerde fiil yalın halde kullanılır; doğru cevap 'dance'dir."
-  },
-  {
-    "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "we", "tr": "biz" },
-      { "text": "___", "tr": "___" },
-      { "text": "to London", "tr": "Londra'ya" },
-      { "text": "last year?", "tr": "geçen yıl?" }
-    ],
-    "options": ["traveled", "travel", "travels", "traveling"],
-    "correct": 1,
-    "explanation": "Did soru cümlesinde fiil yalın halde yer alır; doğru cevap 'travel'dir."
-  },
-  {
-    "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "Sarah", "tr": "Sarah" },
-      { "text": "___", "tr": "___" },
-      { "text": "French", "tr": "Fransızca" },
-      { "text": "last semester?", "tr": "geçen dönem?" }
-    ],
-    "options": ["studied", "study", "studies", "studying"],
-    "correct": 1,
-    "explanation": "Did ile sorulan cümlelerde fiil base formdedir; doğru cevap 'study'dir."
-  },
-  {
-    "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "I", "tr": "ben" },
-      { "text": "___", "tr": "___" },
-      { "text": "to music", "tr": "müziğe" },
-      { "text": "yesterday?", "tr": "dün?" }
-    ],
-    "options": ["listened", "listen", "listens", "listening"],
-    "correct": 1,
-    "explanation": "Did soru cümlesinde fiil yalın halde kullanılır; doğru cevap 'listen'dir."
-  },
-  {
-    "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "they", "tr": "onlar" },
-      { "text": "___", "tr": "___" },
-      { "text": "basketball", "tr": "basketbol" },
-      { "text": "last weekend?", "tr": "geçen hafta sonu?" }
-    ],
-    "options": ["played", "play", "plays", "playing"],
-    "correct": 1,
-    "explanation": "Did ile sorulan cümlelerde fiil yalın halde kullanılır; doğru cevap 'play'dir."
-  },
-  {
-    "question": [
-      { "text": "Mark", "tr": "Mark" },
-      { "text": "___", "tr": "___" },
-      { "text": "early", "tr": "erken" },
-      { "text": "last night", "tr": "dün gece" }
-    ],
-    "options": ["sleep", "slept", "sleeps", "sleeping"],
-    "correct": 1,
-    "explanation": "'Sleep' fiilinin geçmiş zamanı 'slept'dir."
-  },
-  {
-    "question": [
-      { "text": "I", "tr": "Ben" },
-      { "text": "___", "tr": "___" },
-      { "text": "in the garden", "tr": "bahçede" },
-      { "text": "yesterday", "tr": "dün" }
-    ],
-    "options": ["work", "worked", "working", "works"],
-    "correct": 1,
-    "explanation": "Geçmişte yapılan iş için 'worked' doğru formdur."
-  },
-  {
-    "question": [
-      { "text": "They", "tr": "Onlar" },
-      { "text": "___", "tr": "___" },
-      { "text": "the store", "tr": "mağazayı" },
-      { "text": "last week", "tr": "geçen hafta" }
-    ],
-    "options": ["open", "opened", "opens", "opening"],
-    "correct": 1,
-    "explanation": "Geçmişte açılan mağaza eylemi 'opened' ile ifade edilir."
-  },
-  {
-    "question": [
-      { "text": "She", "tr": "O (kadın)" },
-      { "text": "___", "tr": "___" },
-      { "text": "the window", "tr": "pencereyi" },
-      { "text": "yesterday", "tr": "dün" }
-    ],
-    "options": ["closed", "close", "closes", "closing"],
-    "correct": 0,
-    "explanation": "Geçmişte kapanan pencere eylemi için 'closed' kullanılır."
-  },
-  {
-    "question": [
-      { "text": "We", "tr": "Biz" },
-      { "text": "___", "tr": "___" },
-      { "text": "in the park", "tr": "parkta" },
-      { "text": "yesterday", "tr": "dün" }
-    ],
-    "options": ["sit", "sat", "sits", "sitting"],
-    "correct": 1,
-    "explanation": "'Sit' fiilinin geçmiş zamanı 'sat'dir."
-  },
-  {
-    "question": [
-      { "text": "Mark", "tr": "Mark" },
-      { "text": "did not", "tr": "yapmadı" },
-      { "text": "___", "tr": "___" },
-      { "text": "early", "tr": "erken" },
-      { "text": "last night", "tr": "dün gece" }
-    ],
-    "options": ["slept", "sleep", "sleeps", "sleeping"],
-    "correct": 1,
-    "explanation": "Olumsuz cümlede 'did not' kullanıldığında fiilin yalın hali kullanılır; doğru cevap 'sleep'dir."
-  },
-  {
-    "question": [
-      { "text": "I", "tr": "Ben" },
-      { "text": "did not", "tr": "yapmadım" },
-      { "text": "___", "tr": "___" },
-      { "text": "in the garden", "tr": "bahçede" },
-      { "text": "yesterday", "tr": "dün" }
-    ],
-    "options": ["worked", "work", "works", "working"],
-    "correct": 1,
-    "explanation": "Did not kullanıldığında fiilin yalın hali kullanılır; doğru cevap 'work'dir."
-  },
-  {
-    "question": [
-      { "text": "They", "tr": "Onlar" },
-      { "text": "did not", "tr": "yapmadılar" },
-      { "text": "___", "tr": "___" },
-      { "text": "the store", "tr": "mağazayı" },
-      { "text": "last week", "tr": "geçen hafta" }
-    ],
-    "options": ["opened", "open", "opens", "opening"],
-    "correct": 1,
-    "explanation": "Olumsuz cümlede 'did not' ile fiil yalın halde kullanılır; doğru cevap 'open'dir."
-  },
-  {
-    "question": [
-      { "text": "She", "tr": "O (kadın)" },
-      { "text": "did not", "tr": "yapmadı" },
-      { "text": "___", "tr": "___" },
-      { "text": "the window", "tr": "pencereyi" },
-      { "text": "yesterday", "tr": "dün" }
-    ],
-    "options": ["closed", "close", "closes", "closing"],
-    "correct": 1,
-    "explanation": "Did not kullanıldığında fiilin base formu kullanılır; doğru cevap 'close'dir."
-  },
-  {
-    "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "we", "tr": "biz" },
-      { "text": "___", "tr": "___" },
-      { "text": "a computer", "tr": "bir bilgisayar" },
-      { "text": "yesterday?", "tr": "dün?" }
-    ],
-    "options": ["bought", "buy", "buys", "buying"],
-    "correct": 1,
-    "explanation": "Soru cümlesinde 'Did' kullanıldığı için fiil yalın halde yer alır; doğru cevap 'buy'dir."
-  },
-  {
-    "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "Emily", "tr": "Emily" },
-      { "text": "___", "tr": "___" },
-      { "text": "an email", "tr": "bir e-posta" },
-      { "text": "last night?", "tr": "dün gece?" }
-    ],
-    "options": ["sent", "send", "sending", "sends"],
-    "correct": 1,
-    "explanation": "Did ile sorulan cümlelerde fiil yalın halde kullanılır; doğru cevap 'send'dir."
-  },
-  {
-    "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "we", "tr": "biz" },
-      { "text": "___", "tr": "___" },
-      { "text": "our teacher", "tr": "öğretmenimizi" },
-      { "text": "yesterday?", "tr": "dün?" }
-    ],
-    "options": ["met", "meet", "meeting", "meets"],
-    "correct": 1,
-    "explanation": "Soru cümlesinde 'Did' kullanılır; fiil base formdedir ve doğru cevap 'meet'dir."
-  },
-  {
-    "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "I", "tr": "ben" },
-      { "text": "___", "tr": "___" },
-      { "text": "a museum", "tr": "bir müze" },
-      { "text": "last weekend?", "tr": "geçen hafta sonu?" }
-    ],
-    "options": ["visited", "visit", "visits", "visiting"],
-    "correct": 1,
-    "explanation": "Did kullanıldığında fiil yalın halde yer alır; doğru cevap 'visit'dir."
-  },
-  {
-    "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "he", "tr": "o" },
-      { "text": "___", "tr": "___" },
-      { "text": "a meal", "tr": "bir yemek" },
-      { "text": "yesterday?", "tr": "dün?" }
-    ],
-    "options": ["cooked", "cook", "cooks", "cooking"],
-    "correct": 1,
-    "explanation": "Soru cümlesinde 'Did' kullanıldığı için fiil yalın halde yer alır; doğru cevap 'cook'dir."
+    "explanation": "Negative past simple: 'didn't send'."
   },
   {
       "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "they", "tr": "onlar" },
-      { "text": "___", "tr": "___" },
-      { "text": "at the party", "tr": "partide" },
-      { "text": "last night?", "tr": "dün gece?" }
-    ],
-    "options": ["danced", "dance", "dances", "dancing"],
-    "correct": 1,
-    "explanation": "Did ile sorulan cümlelerde fiil yalın halde kullanılır; doğru cevap 'dance'dir."
+        { "text": "They", "tr": "Onlar" },
+        { "text": "___", "tr": "___" },
+        { "text": "the project together", "tr": "projeyi birlikte tamamlamadılar" },
+        { "text": ".", "tr": "." }
+      ],
+      "options": ["didn't", "don't", "wasn't", "couldn't"],
+      "correct": 0,
+      "explanation": "Negative past simple: 'didn't complete'."
   },
   {
       "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "we", "tr": "biz" },
-      { "text": "___", "tr": "___" },
-      { "text": "to London", "tr": "Londra'ya" },
-      { "text": "last year?", "tr": "geçen yıl?" }
-    ],
-    "options": ["traveled", "travel", "travels", "traveling"],
-    "correct": 1,
-    "explanation": "Did soru cümlesinde fiil yalın halde yer alır; doğru cevap 'travel'dir."
+        { "text": "He", "tr": "O (erkek)" },
+        { "text": "___", "tr": "___" },
+        { "text": "the bus to work", "tr": "işe otobüse binmedi" },
+        { "text": ".", "tr": "." }
+      ],
+      "options": ["didn't", "don't", "wasn't", "couldn't"],
+      "correct": 0,
+      "explanation": "Negative past simple: 'didn't catch'."
   },
   {
       "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "Sarah", "tr": "Sarah" },
-      { "text": "___", "tr": "___" },
-      { "text": "French", "tr": "Fransızca" },
-      { "text": "last semester?", "tr": "geçen dönem?" }
-    ],
-    "options": ["studied", "study", "studies", "studying"],
-    "correct": 1,
-    "explanation": "Soru cümlesinde 'Did' kullanıldığı için fiil yalın halde yer alır; doğru cevap 'study'dir."
+        { "text": "I", "tr": "Ben" },
+        { "text": "___", "tr": "___" },
+        { "text": "the new book last month", "tr": "geçen ay yeni kitabı okumadım" },
+        { "text": ".", "tr": "." }
+      ],
+      "options": ["didn't", "don't", "wasn't", "couldn't"],
+      "correct": 0,
+      "explanation": "Negative past simple: 'didn't read'."
   },
   {
       "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "I", "tr": "ben" },
-      { "text": "___", "tr": "___" },
-      { "text": "to music", "tr": "müziğe" },
-      { "text": "yesterday?", "tr": "dün?" }
-    ],
-    "options": ["listened", "listen", "listens", "listening"],
-    "correct": 1,
-    "explanation": "Did soru cümlesinde fiil yalın halde kullanılır; doğru cevap 'listen'dir."
+        { "text": "She", "tr": "O (kadın)" },
+        { "text": "___", "tr": "___" },
+        { "text": "a letter to her friend", "tr": "arkadaşına mektup yazmadı" },
+        { "text": ".", "tr": "." }
+      ],
+      "options": ["didn't", "don't", "wasn't", "couldn't"],
+      "correct": 0,
+      "explanation": "Negative past simple: 'didn't write'."
   },
   {
       "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "they", "tr": "onlar" },
-      { "text": "___", "tr": "___" },
-      { "text": "basketball", "tr": "basketbol" },
-      { "text": "last weekend?", "tr": "geçen hafta sonu?" }
-    ],
-    "options": ["played", "play", "plays", "playing"],
-    "correct": 1,
-    "explanation": "Did ile sorulan cümlede fiil yalın halde yer alır; doğru cevap 'play'dir."
+        { "text": "We", "tr": "Biz" },
+        { "text": "___", "tr": "___" },
+        { "text": "a wonderful time at the park", "tr": "parkta harika zaman geçirmedik" },
+        { "text": ".", "tr": "." }
+      ],
+      "options": ["didn't", "don't", "wasn't", "couldn't"],
+      "correct": 0,
+      "explanation": "Negative past simple: 'didn't have'."
   },
   {
       "question": [
-      { "text": "Mark", "tr": "Mark" },
-      { "text": "___", "tr": "___" },
-      { "text": "early", "tr": "erken" },
-      { "text": "last night", "tr": "dün gece" }
-    ],
-    "options": ["sleep", "slept", "sleeps", "sleeping"],
-    "correct": 1,
-    "explanation": "'Sleep' fiilinin geçmiş zamanı 'slept'dir."
+        { "text": "They", "tr": "Onlar" },
+        { "text": "___", "tr": "___" },
+        { "text": "the concert last night", "tr": "geçen gece konseri beğenmediler" },
+        { "text": ".", "tr": "." }
+      ],
+      "options": ["didn't", "don't", "wasn't", "couldn't"],
+      "correct": 0,
+      "explanation": "Negative past simple: 'didn't enjoy'."
   },
   {
       "question": [
-      { "text": "I", "tr": "Ben" },
-      { "text": "___", "tr": "___" },
-      { "text": "in the garden", "tr": "bahçede" },
-      { "text": "yesterday", "tr": "dün" }
-    ],
-    "options": ["work", "worked", "working", "works"],
-    "correct": 1,
-    "explanation": "Geçmişte yapılan iş için 'worked' doğru formdur."
+        { "text": "He", "tr": "O (erkek)" },
+        { "text": "___", "tr": "___" },
+        { "text": "his keys on the table", "tr": "anahtarlarını masanın üzerine bırakmadı" },
+        { "text": ".", "tr": "." }
+      ],
+      "options": ["didn't", "don't", "wasn't", "couldn't"],
+      "correct": 0,
+      "explanation": "Negative past simple: 'didn't leave'."
   },
   {
       "question": [
-      { "text": "They", "tr": "Onlar" },
-      { "text": "___", "tr": "___" },
-      { "text": "the store", "tr": "mağazayı" },
-      { "text": "last week", "tr": "geçen hafta" }
-    ],
-    "options": ["open", "opened", "opens", "opening"],
-    "correct": 1,
-    "explanation": "Geçmişte gerçekleşen eylem için 'opened' doğru cevaptır."
+        { "text": "I", "tr": "Ben" },
+        { "text": "___", "tr": "___" },
+        { "text": "my car last weekend", "tr": "geçen hafta sonu arabamı yıkamadım" },
+        { "text": ".", "tr": "." }
+      ],
+      "options": ["didn't", "don't", "wasn't", "couldn't"],
+      "correct": 0,
+      "explanation": "Negative past simple: 'didn't wash'."
   },
   {
       "question": [
-      { "text": "She", "tr": "O (kadın)" },
-      { "text": "did not", "tr": "yapmadı" },
-      { "text": "___", "tr": "___" },
-      { "text": "the window", "tr": "pencereyi" },
-      { "text": "yesterday", "tr": "dün" }
-    ],
-    "options": ["closed", "close", "closes", "closing"],
-    "correct": 1,
-    "explanation": "Did not kullanıldığında fiilin base formu kullanılır; doğru cevap 'close'dir."
+        { "text": "She", "tr": "O (kadın)" },
+        { "text": "___", "tr": "___" },
+        { "text": "a beautiful song at the event", "tr": "etkinlikte güzel bir şarkı söylemedi" },
+        { "text": ".", "tr": "." }
+      ],
+      "options": ["didn't", "don't", "wasn't", "couldn't"],
+      "correct": 0,
+      "explanation": "Negative past simple: 'didn't sing'."
   },
   {
       "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "we", "tr": "biz" },
-      { "text": "___", "tr": "___" },
-      { "text": "a computer", "tr": "bir bilgisayar" },
-      { "text": "yesterday?", "tr": "dün?" }
-    ],
-    "options": ["bought", "buy", "buys", "buying"],
-    "correct": 1,
-    "explanation": "Soru cümlesinde 'Did' kullanıldığı için fiil yalın halde yer alır; doğru cevap 'buy'dir."
+        { "text": "We", "tr": "Biz" },
+        { "text": "___", "tr": "___" },
+        { "text": "the offer immediately", "tr": "teklifi hemen kabul etmedik" }
+      ],
+      "options": ["didn't", "don't", "wasn't", "couldn't"],
+      "correct": 0,
+      "explanation": "Negative past simple: 'didn't accept'."
   },
   {
       "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "Emily", "tr": "Emily" },
-      { "text": "___", "tr": "___" },
-      { "text": "an email", "tr": "bir e-posta" },
-      { "text": "last night?", "tr": "dün gece?" }
-    ],
-    "options": ["sent", "send", "sending", "sends"],
-    "correct": 1,
-    "explanation": "Did ile sorulan cümlelerde fiil yalın halde kullanılır; doğru cevap 'send'dir."
+        { "text": "They", "tr": "Onlar" },
+        { "text": "___", "tr": "___" },
+        { "text": "the game in the finals", "tr": "finallerde maçı kazanamadılar" },
+        { "text": ".", "tr": "." }
+      ],
+      "options": ["didn't", "don't", "wasn't", "couldn't"],
+      "correct": 0,
+      "explanation": "Negative past simple: 'didn't win'."
   },
   {
       "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "we", "tr": "biz" },
-      { "text": "___", "tr": "___" },
-      { "text": "our teacher", "tr": "öğretmenimizi" },
-      { "text": "yesterday?", "tr": "dün?" }
-    ],
-    "options": ["met", "meet", "meeting", "meets"],
-    "correct": 1,
-    "explanation": "Soru cümlesinde 'Did' kullanılır; fiil yalın halde olduğundan doğru cevap 'meet'dir."
+        { "text": "He", "tr": "O (erkek)" },
+        { "text": "___", "tr": "___" },
+        { "text": "to the radio this morning", "tr": "bu sabah radyoyu dinlemedi" },
+        { "text": ".", "tr": "." }
+      ],
+      "options": ["didn't", "don't", "wasn't", "couldn't"],
+      "correct": 0,
+      "explanation": "Negative past simple: 'didn't listen'."
   },
   {
       "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "I", "tr": "ben" },
-      { "text": "___", "tr": "___" },
-      { "text": "a museum", "tr": "bir müze" },
-      { "text": "last weekend?", "tr": "geçen hafta sonu?" }
-    ],
-    "options": ["visited", "visit", "visits", "visiting"],
-    "correct": 1,
-    "explanation": "Did kullanıldığında fiil yalın halde kullanılır; doğru cevap 'visit'dir."
+        { "text": "I", "tr": "Ben" },
+        { "text": "___", "tr": "___" },
+        { "text": "a letter to the manager", "tr": "yöneticiye mektup yazmadım" },
+        { "text": ".", "tr": "." }
+      ],
+      "options": ["didn't", "don't", "wasn't", "couldn't"],
+      "correct": 0,
+      "explanation": "Negative past simple: 'didn't write'."
   },
   {
       "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "he", "tr": "o" },
-      { "text": "___", "tr": "___" },
-      { "text": "a meal", "tr": "bir yemek" },
-      { "text": "last night?", "tr": "dün?" }
-    ],
-    "options": ["cooked", "cook", "cooks", "cooking"],
-    "correct": 1,
-    "explanation": "Soru cümlesinde 'Did' kullanıldığında fiil yalın halde yer alır; doğru cevap 'cook'dir."
+        { "text": "She", "tr": "O (kadın)" },
+        { "text": "___", "tr": "___" },
+        { "text": "her appointment on time", "tr": "randevusuna zamanında uymadı" },
+        { "text": ".", "tr": "." }
+      ],
+      "options": ["didn't", "don't", "wasn't", "couldn't"],
+      "correct": 0,
+      "explanation": "Negative past simple: 'didn't keep'."
   },
   {
       "question": [
-      { "text": "Did", "tr": "Mı" },
-      { "text": "they", "tr": "onlar" },
-      { "text": "___", "tr": "___" },
-      { "text": "at the party", "tr": "partide" },
-      { "text": "last night?", "tr": "dün gece?" }
-    ],
-    "options": ["danced", "dance", "dances", "dancing"],
-    "correct": 1,
-    "explanation": "Did ile sorulan cümlede fiil yalın halde yer alır; doğru cevap 'dance'dir."
+        { "text": "They", "tr": "Onlar" },
+        { "text": "___", "tr": "___" },
+        { "text": "in the garden all afternoon", "tr": "bütün öğleden sonra bahçede çalışmadılar" }
+      ],
+      "options": ["didn't", "don't", "wasn't", "couldn't"],
+      "correct": 0,
+      "explanation": "Negative past simple: 'didn't work'."
+  },
+  {
+      "question": [
+        { "text": "We", "tr": "Biz" },
+        { "text": "___", "tr": "___" },
+        { "text": "the news on TV last night", "tr": "geçen gece televizyonda haber izlemedik" },
+        { "text": ".", "tr": "." }
+      ],
+      "options": ["didn't", "don't", "wasn't", "couldn't"],
+      "correct": 0,
+      "explanation": "Negative past simple: 'didn't see'."
+  },
+  {
+      "question": [
+        { "text": "He", "tr": "O (erkek)" },
+        { "text": "___", "tr": "___" },
+        { "text": "his friend at the café", "tr": "kafede arkadaşıyla buluşmadı" },
+        { "text": ".", "tr": "." }
+      ],
+      "options": ["didn't", "don't", "wasn't", "couldn't"],
+      "correct": 0,
+      "explanation": "Negative past simple: 'didn't meet'."
+  },
+  {
+      "question": [
+        { "text": "I", "tr": "Ben" },
+        { "text": "___", "tr": "___" },
+        { "text": "a mistake in my report", "tr": "raporumdaki hatayı fark etmedim" },
+        { "text": ".", "tr": "." }
+      ],
+      "options": ["didn't", "don't", "wasn't", "couldn't"],
+      "correct": 0,
+      "explanation": "Negative past simple: 'didn't notice'."
+  },
+  {
+      "question": [
+        { "text": "She", "tr": "O (kadın)" },
+        { "text": "___", "tr": "___" },
+        { "text": "an email to her colleague", "tr": "iş arkadaşına e-posta göndermedi" },
+        { "text": ".", "tr": "." }
+      ],
+      "options": ["didn't", "don't", "wasn't", "couldn't"],
+      "correct": 0,
+      "explanation": "Negative past simple: 'didn't send'."
+  },
+  {
+      "question": [
+        { "text": "They", "tr": "Onlar" },
+        { "text": "___", "tr": "___" },
+        { "text": "the room before the meeting", "tr": "toplantıdan önce odayı düzenlemediler" }
+      ],
+      "options": ["didn't", "don't", "wasn't", "couldn't"],
+      "correct": 0,
+      "explanation": "Negative past simple: 'didn't arrange'."
+  },
+  {
+      "question": [
+        { "text": "We", "tr": "Biz" },
+        { "text": "___", "tr": "___" },
+        { "text": "a long walk after dinner", "tr": "akşam yemeğinden sonra uzun bir yürüyüş yapmadık" }
+      ],
+      "options": ["didn't", "don't", "wasn't", "couldn't"],
+      "correct": 0,
+      "explanation": "Negative past simple: 'didn't take'."
+  },
+  {
+      "question": [
+        { "text": "He", "tr": "O (erkek)" },
+        { "text": "___", "tr": "___" },
+        { "text": "his favorite song on the guitar", "tr": "favori şarkısını gitarla çalmadı" },
+        { "text": ".", "tr": "." }
+      ],
+      "options": ["didn't", "don't", "wasn't", "couldn't"],
+      "correct": 0,
+      "explanation": "Negative past simple: 'didn't play'."
+  },
+  {
+      "question": [
+        { "text": "I", "tr": "Ben" },
+        { "text": "___", "tr": "___" },
+        { "text": "the museum last Saturday", "tr": "geçen cumartesi müzeyi ziyaret etmedim" },
+        { "text": ".", "tr": "." }
+      ],
+      "options": ["didn't", "don't", "wasn't", "couldn't"],
+      "correct": 0,
+      "explanation": "Negative past simple: 'didn't visit'."
+  },
+  {
+      "question": [
+        { "text": "She", "tr": "O (kadın)" },
+        { "text": "___", "tr": "___" },
+        { "text": "the lecture with interest", "tr": "derse ilgiyle katılmadı" },
+        { "text": ".", "tr": "." }
+      ],
+      "options": ["didn't", "don't", "wasn't", "couldn't"],
+      "correct": 0,
+      "explanation": "Negative past simple: 'didn't listen'."
+  },
+  {
+      "question": [
+        { "text": "They", "tr": "Onlar" },
+        { "text": "___", "tr": "___" },
+        { "text": "a picnic in the park", "tr": "parkta piknik düzenlemediler" }
+      ],
+      "options": ["didn't", "don't", "wasn't", "couldn't"],
+      "correct": 0,
+      "explanation": "Negative past simple: 'didn't organize'."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "you", "tr": "sen" },
+        { "text": "go to the store yesterday?", "tr": "dün mağazaya gittin mi?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "Interrogative past simple questions start with 'Did'."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "she", "tr": "o (kadın)" },
+        { "text": "bake a cake last weekend?", "tr": "geçen hafta sonu kek pişirdi mi?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "Use 'Did' to form past simple questions."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "they", "tr": "onlar" },
+        { "text": "watch a movie last night?", "tr": "geçen gece film izlediler mi?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "'Did' is used to ask about past actions."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "he", "tr": "o (erkek)" },
+        { "text": "finish his homework on time?", "tr": "ödevini zamanında bitirdi mi?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "Past simple questions use 'Did'."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "we", "tr": "biz" },
+        { "text": "visit the museum during our trip?", "tr": "seyahatimiz sırasında müzeyi ziyaret ettik mi?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "Interrogative past simple requires 'Did'."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "you", "tr": "sen" },
+        { "text": "give a great presentation yesterday?", "tr": "dün harika bir sunum yaptın mı?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "'Did' is used for forming past simple questions."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "the teacher", "tr": "öğretmen" },
+        { "text": "explain the lesson clearly?", "tr": "dersi net bir şekilde açıkladı mı?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "Use 'Did' to ask about past actions."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "your friend", "tr": "arkadaşın" },
+        { "text": "send you a birthday gift?", "tr": "sana doğum günü hediyesi gönderdi mi?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "'Did' forms the past simple question."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "they", "tr": "onlar" },
+        { "text": "complete the project together?", "tr": "projeyi birlikte tamamladılar mı?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "Interrogative past simple uses 'Did'."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "he", "tr": "o (erkek)" },
+        { "text": "catch the bus to work?", "tr": "işe otobüse bindi mi?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "Use 'Did' for past simple questions."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "you", "tr": "sen" },
+        { "text": "read the new book last month?", "tr": "geçen ay yeni kitabı okudun mu?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "'Did' is the correct auxiliary for past simple questions."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "she", "tr": "o (kadın)" },
+        { "text": "write a letter to her friend?", "tr": "arkadaşına mektup yazdı mı?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "Past simple questions start with 'Did'."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "we", "tr": "biz" },
+        { "text": "have a wonderful time at the park?", "tr": "parkta harika zaman geçirdik mi?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "Use 'Did' to form the question in past simple."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "they", "tr": "onlar" },
+        { "text": "enjoy the concert last night?", "tr": "geçen gece konseri beğendiler mi?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "'Did' is used in past simple interrogative sentences."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "he", "tr": "o (erkek)" },
+        { "text": "leave his keys on the table?", "tr": "anahtarlarını masanın üzerine bıraktı mı?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "Past simple questions use 'Did'."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "you", "tr": "sen" },
+        { "text": "wash your car last weekend?", "tr": "geçen hafta sonu arabanı yıkadın mı?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "Use 'Did' to form a past simple question."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "she", "tr": "o (kadın)" },
+        { "text": "sing a beautiful song at the event?", "tr": "etkinlikte güzel bir şarkı söyledi mi?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "Interrogative past simple: use 'Did'."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "we", "tr": "biz" },
+        { "text": "accept the offer immediately?", "tr": "teklifi hemen kabul ettik mi?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "'Did' is used for past simple questions."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "they", "tr": "onlar" },
+        { "text": "win the game in the finals?", "tr": "finallerde maçı kazandılar mı?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "Past simple questions require the auxiliary 'Did'."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "he", "tr": "o (erkek)" },
+        { "text": "listen to the radio this morning?", "tr": "bu sabah radyoyu dinledi mi?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "Use 'Did' to ask about past actions."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "you", "tr": "sen" },
+        { "text": "write a letter to the manager?", "tr": "yöneticiye mektup yazdın mı?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "Interrogative past simple form uses 'Did'."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "she", "tr": "o (kadın)" },
+        { "text": "keep her appointment on time?", "tr": "randevusuna zamanında uydı mı?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "Past simple interrogative requires 'Did'."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "they", "tr": "onlar" },
+        { "text": "work in the garden all afternoon?", "tr": "bütün öğleden sonra bahçede çalıştılar mı?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "Use 'Did' to form the question."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "we", "tr": "biz" },
+        { "text": "see the news on TV last night?", "tr": "geçen gece televizyonda haber izledik mi?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "'Did' is used to ask past simple questions."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "he", "tr": "o (erkek)" },
+        { "text": "meet his friend at the café?", "tr": "kafede arkadaşıyla buluştu mu?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "Interrogative past simple uses 'Did'."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "you", "tr": "sen" },
+        { "text": "notice a mistake in your report?", "tr": "raporundaki hatayı fark ettin mi?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "Use 'Did' for past simple questions."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "she", "tr": "o (kadın)" },
+        { "text": "send an email to her colleague?", "tr": "iş arkadaşına e-posta gönderdi mi?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "'Did' forms the past simple question."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "they", "tr": "onlar" },
+        { "text": "arrange the room before the meeting?", "tr": "toplantıdan önce odayı düzenlediler mi?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "Interrogative past simple requires 'Did'."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "we", "tr": "biz" },
+        { "text": "take a long walk after dinner?", "tr": "akşam yemeğinden sonra uzun bir yürüyüş yaptık mı?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "Use 'Did' for forming past simple questions."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "he", "tr": "o (erkek)" },
+        { "text": "play his favorite song on the guitar?", "tr": "favori şarkısını gitarla çaldı mı?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "Past simple interrogative uses 'Did'."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "you", "tr": "sen" },
+        { "text": "visit the museum last Saturday?", "tr": "geçen cumartesi müzeyi ziyaret ettin mi?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "Use 'Did' to form past simple questions."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "she", "tr": "o (kadın)" },
+        { "text": "listen to the lecture with interest?", "tr": "derse ilgiyle katıldı mı?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "'Did' is required for past simple questions."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "they", "tr": "onlar" },
+        { "text": "organize a picnic in the park?", "tr": "parkta piknik düzenlediler mi?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "Past simple interrogative form uses 'Did'."
+  },
+  {
+      "question": [
+        { "text": "___", "tr": "___" },
+        { "text": "you", "tr": "sen" },
+        { "text": "enjoy the trip to the zoo?", "tr": "hayvanat bahçesine gezinin tadını çıkardın mı?" }
+      ],
+      "options": ["Did", "Do", "Does", "Was"],
+      "correct": 0,
+      "explanation": "Interrogative past simple sentences start with 'Did'."
   }
 ]
